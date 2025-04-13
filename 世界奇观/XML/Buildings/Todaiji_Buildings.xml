@@ -163,7 +163,7 @@
 		<Row>
 			<BuildingType>BUILDING_TODAIJI</BuildingType>
 			<!--关联建筑东大寺-->
-			<ResourceType>RESOURCE_PEARL</ResourceType>
+			<ResourceType>RESOURCE_PEARLS</ResourceType>
 			<!--资源类型珍珠-->
 			<YieldType>YIELD_FAITH</YieldType>
 			<!--信仰加成-->

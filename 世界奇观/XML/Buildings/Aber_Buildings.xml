@@ -140,11 +140,11 @@
 	
 	<Building_Flavors>
 	<!--ai建造参考数值，对玩家没用-->
-		<Row>
+		<!-- <Row>
 			<BuildingType>BUILDING_ABER</BuildingType>
 			<FlavorType>FLAVOR_FOOD</FlavorType>
 			<Flavor>300</Flavor>
-		</Row>
+		</Row> -->
 		<Row>
 			<BuildingType>BUILDING_ABER</BuildingType>
 			<FlavorType>FLAVOR_WONDER</FlavorType>

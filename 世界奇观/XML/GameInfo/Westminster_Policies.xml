@@ -58,25 +58,6 @@
 		</Row>
 		
 		<Row>
-			<PolicyType>POLICY_FREEDOM</PolicyType>
-			<!--自由开门-->
-			<BuildingClassType>BUILDINGCLASS_WESTMINSTER</BuildingClassType>
-			<CultureChange>5</CultureChange>
-		</Row>
-		<Row>
-			<PolicyType>POLICY_ORDER</PolicyType>
-			<!--秩序开门-->
-			<BuildingClassType>BUILDINGCLASS_WESTMINSTER</BuildingClassType>
-			<CultureChange>5</CultureChange>
-		</Row>
-		<Row>
-			<PolicyType>POLICY_AUTOCRACY</PolicyType>
-			<!--独裁开门-->
-			<BuildingClassType>BUILDINGCLASS_WESTMINSTER</BuildingClassType>
-			<CultureChange>5</CultureChange>
-		</Row>
-		
-		<Row>
 			<PolicyType>POLICY_TRADITION_FINISHER</PolicyType>
 			<!--传统关门-->
 			<BuildingClassType>BUILDINGCLASS_WESTMINSTER</BuildingClassType>
@@ -127,25 +108,6 @@
 		<Row>
 			<PolicyType>POLICY_RATIONALISM_FINISHER</PolicyType>
 			<!--理性关门-->
-			<BuildingClassType>BUILDINGCLASS_WESTMINSTER</BuildingClassType>
-			<CultureChange>10</CultureChange>
-		</Row>
-		
-		<Row>
-			<PolicyType>POLICY_FREEDOM_FINISHER</PolicyType>
-			<!--自由关门-->
-			<BuildingClassType>BUILDINGCLASS_WESTMINSTER</BuildingClassType>
-			<CultureChange>10</CultureChange>
-		</Row>
-		<Row>
-			<PolicyType>POLICY_ORDER_FINISHER</PolicyType>
-			<!--秩序关门-->
-			<BuildingClassType>BUILDINGCLASS_WESTMINSTER</BuildingClassType>
-			<CultureChange>10</CultureChange>
-		</Row>
-		<Row>
-			<PolicyType>POLICY_AUTOCRACY_FINISHER</PolicyType>
-			<!--独裁关门-->
 			<BuildingClassType>BUILDINGCLASS_WESTMINSTER</BuildingClassType>
 			<CultureChange>10</CultureChange>
 		</Row>

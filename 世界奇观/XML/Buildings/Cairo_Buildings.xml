@@ -109,17 +109,17 @@
 		</Row>
 	</UnitPromotions>
 	
-	<UnitPromotions_Features>
+	<UnitPromotions_Terrains>
 	<!--特殊地块加成-->
 		<Row>
 			<PromotionType>PROMOTION_CAIRO</PromotionType>
 			<!--关联特质真主之剑-->
-			<FeatureType>FEATURE_DESERT</FeatureType>
+			<TerrainType>TERRAIN_DESERT</TerrainType>
 			<!--地块类型沙漠-->
 			<Defense>10</Defense>
 			<Attack>10</Attack>
 		</Row>
-	</UnitPromotions_Features>
+	</UnitPromotions_Terrains>
 	
 	<UnitPromotions_UnitCombats>
 	<!--晋升匹配的单位类型-->
