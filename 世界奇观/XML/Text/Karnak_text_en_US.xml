@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Language_en_US>
+		<!-- Description tags -->
+		<Row Tag="TXT_KEY_BUILDING_KARNAK">
+			<Text>卡纳克神庙</Text>
+		</Row>
+		<!-- Help tags -->
+		<Row Tag="TXT_KEY_WONDER_KARNAK_HELP">
+			<Text>[ICON_CITYBANNER_CITY_TOWN][COLOR_SELECTED_TEXT]城市[ENDCOLOR]必须邻近或建立在[ICON_PROMOTION_DESERT_WARRIOR]荒漠上，且境内需拥有任意一处[COLOR_POSITIVE_TEXT]冲积平原[ENDCOLOR]或[COLOR_POSITIVE_TEXT]绿洲[ENDCOLOR]地貌。[NEWLINE]
+			[NEWLINE][ICON_BULLET]本城获得一座免费[ICON_PEACE]神庙。
+			[NEWLINE][ICON_BULLET]本城每处[COLOR_POSITIVE_TEXT]冲积平原[ENDCOLOR]、[COLOR_POSITIVE_TEXT]绿洲[ENDCOLOR]地貌+2[ICON_PRODUCTION]产能。</Text>
+		</Row>
+		<!-- Quote tags -->
+		<Row Tag="TXT_KEY_WONDER_KARNAK_QUOTE">
+			<Text>[NEWLINE]“每个身体里都住着一个神，这就是为什么人们会说 ‘只有自己最了解自己’。”[NEWLINE]        ——埃及谚语[NEWLINE]</Text>
+		</Row>
+		<!-- Pedia tags -->
+		<Row Tag="TXT_KEY_WONDER_KARNAK_PEDIA">
+			<Text>卡纳克神庙是古埃及帝国遗留的一座位于底比斯（现今卢克索）的壮观神庙。神庙内有大小20余座神殿、134根巨型石柱、狮身公羊石像等古迹，气势宏伟，令人震撼。[NEWLINE][NEWLINE]卡纳克神庙是埃及中王国时期及新王国时期首都底比斯的一部分，太阳神阿蒙神的崇拜中心，古埃及最大的神庙所在地。[NEWLINE][NEWLINE]它建于拉美西斯二世的统治时期，与原来只祭祀一位主神的埃及神庙不同，该神庙是祭祀众多不同的主神的场所。</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

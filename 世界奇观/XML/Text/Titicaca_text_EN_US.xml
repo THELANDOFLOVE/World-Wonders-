@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Language_en_US>
+		<!-- Description tags -->
+		<Row Tag="TXT_KEY_BUILDING_TITICACA">
+			<Text>的的喀喀湖</Text>
+		</Row>
+		<!-- Help tags -->
+		<Row Tag="TXT_KEY_WONDER_TITICACA_HELP">
+			<Text>所有城市+10%[ICON_FOOD]食物产出，本城[COLOR_POSITIVE_TEXT]湖泊[ENDCOLOR]地块额外+1[ICON_FOOD]食物、[ICON_PEACE]信仰产出。[NEWLINE][NEWLINE]城市必须[ICON_PROMOTION_ALTITUDE_TRAINING]靠山并邻近淡水。</Text>
+		</Row>
+		<!-- Quote tags -->
+		<Row Tag="TXT_KEY_WONDER_TITICACA_QUOTE">
+			<Text>[NEWLINE]“你总能在自然中找到有趣的事情。”[NEWLINE]        ——亚里士多德[NEWLINE]</Text>
+		</Row>
+		<!-- Pedia tags -->
+		<Row Tag="TXT_KEY_WONDER_TITICACA_PEDIA">
+			<Text>位于玻利维亚和秘鲁边境的的的喀喀湖是南美洲体积最大的湖泊，湖水体积大约有863立方公里。湖面海波为3812米，湖底海拔为3531米，这使得的的喀喀湖是全球最高的有商业运输的湖泊。有一批人分别定居在44个由芦苇编制的人工岛上。[NEWLINE][NEWLINE]在众多的安第斯文化中，的的喀喀湖都是一个神圣的地方。同时湖中两个小岛也被认为是神圣之地：Isla del Sol岛，被认为是太阳神因蒂的出生地；Isla de la Luna岛，月亮升起的地方。</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Language_en_US>
+		<!--Resource tags-->
+		<Row Tag="TXT_KEY_RESOURCE_RICE">
+			<Text>稻米</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_RICE_TEXT">
+			<Text>稻米是一种主要的稻属植物。它是全球数百万人的主要粮食作物，其主要分布于亚洲的东部和南部以及印度西部，每个群体都有其自己的偏好来种植谷物。不同的地区也有不同的方法来种植稻米，如中国和日本的平原地区，在大量种植水稻的地块称之为稻田，而在不平坦的地区上，如中国的山区或菲律宾的山区，稻田因山势而被分割成小块的田地，使稻田能充分的获取水分。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_BANAUE">
+			<Text>伊芙高文化</Text>
+		</Row>
+		<!-- Description tags -->
+		<Row Tag="TXT_KEY_BUILDING_BANAUE">
+			<Text>巴纳韦梯田</Text>
+		</Row>
+		<!-- Help tags -->
+		<Row Tag="TXT_KEY_WONDER_BANAUE_HELP">
+			<Text>本城提供3份[ICON_RES_RICE]稻米，[ICON_PROMOTION_DESERT_WARRIOR][COLOR_POSITIVE_TEXT]丘陵[ENDCOLOR]地块+1[ICON_FOOD]食物产出。[NEWLINE][NEWLINE]每处[COLOR_GREEN]梯田[ENDCOLOR]+1[ICON_PRODUCTION]产能、[ICON_CULTURE]文化产出。[NEWLINE][NEWLINE]城市规模至少为[ICON_CITYBANNER_CITY_SMALL][COLOR_SELECTED_TEXT]小型城市[ENDCOLOR]且建立在沿河[ICON_PROMOTION_DESERT_WARRIOR]丘陵上。</Text>
+		</Row>
+		<!-- Quote tags -->
+		<Row Tag="TXT_KEY_WONDER_BANAUE_QUOTE">
+			<Text>[NEWLINE]“桌上一粒饭，农民一滴汗。”[NEWLINE]        ——中国谚语[NEWLINE]</Text>
+		</Row>
+		<!-- Pedia tags -->
+		<Row Tag="TXT_KEY_WONDER_BANAUE_PEDIA">
+			<Text>巴纳韦梯田坐落于海拔5000英呎的伊芙高山山腰，占地约4000平方公里。梯田已有约2000年历史，由古代伊芙高族住民修建，其灌溉系统以运行千年且至今仍能提供粮食。现在大部分观点认为，这片古代梯田是用极其简陋的工具甚至是用手建成的。从梯田的一端走到另一端距离相当于围绕地球赤道一周。伊芙高文化的核心是稻米文化其包括举办盛大的稻米宴会和大米的栽种到消费的农业仪式。[NEWLINE][NEWLINE]现今伊芙高人仍然利用梯田来种植水稻和蔬菜，然而越来越多的伊芙高人放弃务农而选择其他工作。这逐渐导致了大量田地无人照看。并且在2010年一个更大的问题显现出来，那就是梯田已经干涸。</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 2/2/2014 1:28:51 PM -->
+<GameData>
+	<IconTextureAtlases>
+		<Row>
+			<Atlas>BARAD_DUR_ATLAS</Atlas>
+			<IconSize>256</IconSize>
+			<Filename>baraddur256.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>BARAD_DUR_ATLAS</Atlas>
+			<IconSize>128</IconSize>
+			<Filename>baraddur128.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>BARAD_DUR_ATLAS</Atlas>
+			<IconSize>64</IconSize>
+			<Filename>baraddur64.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>BARAD_DUR_ATLAS</Atlas>
+			<IconSize>80</IconSize>
+			<Filename>baraddur80.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>BARAD_DUR_ATLAS</Atlas>
+			<IconSize>45</IconSize>
+			<Filename>baraddur45.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+	</IconTextureAtlases>
+</GameData>

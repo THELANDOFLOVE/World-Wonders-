@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<IconTextureAtlases>
+		<Row>
+			<Atlas>BW_ATLAS_ETEMENANKI</Atlas>
+			<IconSize>256</IconSize>
+			<Filename>ETEMENANKI256.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>BW_ATLAS_ETEMENANKI</Atlas>
+			<IconSize>128</IconSize>
+			<Filename>ETEMENANKI128.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>BW_ATLAS_ETEMENANKI</Atlas>
+			<IconSize>64</IconSize>
+			<Filename>ETEMENANKI64.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>BW_ATLAS_ETEMENANKI</Atlas>
+			<IconSize>80</IconSize>
+			<Filename>ETEMENANKI80.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>BW_ATLAS_ETEMENANKI</Atlas>
+			<IconSize>45</IconSize>
+			<Filename>ETEMENANKI45.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+	</IconTextureAtlases>
+</GameData>

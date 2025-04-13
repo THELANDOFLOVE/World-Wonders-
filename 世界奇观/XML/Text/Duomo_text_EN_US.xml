@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Language_en_US>
+		<!-- Description tags -->
+		<Row Tag="TXT_KEY_BUILDING_DUOMO">
+			<Text>花之圣母大教堂</Text>
+		</Row>
+		<!-- Help tags -->
+		<Row Tag="TXT_KEY_WONDER_DUOMO_HELP">
+			<Text>本城获得一座免费[ICON_GREAT_ARTIST]大教堂。[NEWLINE][NEWLINE]每名[ICON_CITIZEN]人口+1[ICON_CULTURE]文化产出。[NEWLINE][NEWLINE]每位[ICON_GREAT_ENGINEER][ICON_GREAT_SCIENTIST][ICON_GREAT_MERCHANT][ICON_GREAT_WRITER][ICON_GREAT_ARTIST][ICON_GREAT_MUSICIAN]专家+1[ICON_PEACE]信仰产出。</Text>
+		</Row>
+		<!-- Quote tags -->
+		<Row Tag="TXT_KEY_WONDER_DUOMO_QUOTE">
+			<Text>[NEWLINE]“好好利用生命，它就是充满意义的。”[NEWLINE]        ——列奥纳多·迪·皮耶罗·达·芬奇[NEWLINE]</Text>
+		</Row>
+		<!-- Pedia tags -->
+		<Row Tag="TXT_KEY_WONDER_DUOMO_PEDIA">
+			<Text>花之圣母大教堂，用英语来说就是佛罗伦萨大教堂，是一座位于意大利佛罗伦萨的大型天主教教堂。教堂始建于1296年，花费了140年才的已完工，教堂的建设经历了文艺复兴时期哥特式建筑风格向古典地中海风格转变的这一过程。整个教堂最为出彩的部分便是其拿巨大的圆顶结构，这个圆顶是在教堂开工近一百年后才开始建造的，圆顶可以说是工程学上的奇迹，也闪耀着文艺复兴时代的光芒。圆顶的设计灵感来源于罗马的万神殿，然而利用传统的方法去建造如此大的圆顶显然是无法做到的。尽管教堂的主体结构在1469年就已完工，但直到十九世纪一场设计竞赛后，教堂的整体建筑造型才得以完成。</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

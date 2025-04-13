@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Language_en_US>
+		<!-- Description tags -->
+		<Row Tag="TXT_KEY_BUILDING_MADOL">
+			<Text>南马都尔</Text>
+		</Row>
+		<!-- Help tags -->
+		<Row Tag="TXT_KEY_WONDER_MADOL_HELP">
+			<Text>本城获得一座[COLOR_POSITIVE_TEXT]无污染[ENDCOLOR]的[ICON_PRODUCTION]运河网并提供水域[ICON_CONNECTED]连接。[NEWLINE][NEWLINE]本城[COLOR_POSITIVE_TEXT]海洋[ENDCOLOR]、[COLOR_POSITIVE_TEXT]沿河[ENDCOLOR]地块+1[ICON_FOOD]食物。所有[ICON_PRODUCTION]内陆运河+2[ICON_FOOD]食物产出。[NEWLINE][NEWLINE]当研究[COLOR_CYAN]考古学[ENDCOLOR]后+2[ICON_RESEARCH]科研、+4[ICON_TOURISM]魅力产出。[NEWLINE][NEWLINE]城市必须沿海。</Text>
+		</Row>
+		<!-- Quote tags -->
+		<Row Tag="TXT_KEY_WONDER_MADOL_QUOTE">
+			<Text>[NEWLINE]“水道充满了魔力，但是没有什么比这几英尺的水把船和陆地分开所造成的差别更神奇的了。”[NEWLINE]        ——罗伯特·艾克曼[NEWLINE]</Text>
+		</Row>
+		<!-- Pedia tags -->
+		<Row Tag="TXT_KEY_WONDER_MADOL_PEDIA">
+			<Text>南马都尔是密克罗尼西亚联邦波纳佩岛附近的一个大型考古遗址。它建于泰蒙岛附近的珊瑚礁和几个人工岛上，以及波纳佩岛的海岸线上，占地约18平方公里。由一连串小型的人工岛与运河所组成，因此常被称为太平洋的威尼斯。根据当地的传说，南马都尔是由一位法力无边的魔法师应当地人的邀请而建成的。这位魔法师住在波纳佩岛西北的一个地方，他帮助为南马都尔提供了大量巨石，使其从采石场“飞”至建筑工地，建成了南马都尔的大部分建筑。岛上承载着诸多宫殿、寺庙、陵墓和石筑居所残迹，建成时间约在公元1200-1500年间，时值太平洋岛屿文化活跃的时期，这些遗迹正是绍德雷尔王朝的庆典中心。这处遗址建造规模之大、技艺之精湛，巨石建筑之密集，都展示了那个时代繁复的岛屿社会民间风俗和宗教仪式。</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

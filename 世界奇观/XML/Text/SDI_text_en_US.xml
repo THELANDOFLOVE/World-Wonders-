@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Language_en_US>
+		<!-- Description tags -->
+		<Row Tag="TXT_KEY_BUILDING_SDI">
+			<Text>星球大战计划</Text>
+		</Row>
+		<!-- Help tags -->
+		<Row Tag="TXT_KEY_WONDER_SDI_HELP">
+			<Text>成功研究这个计划的文明获得一项[COLOR_CYAN]免费科技[ENDCOLOR]。[NEWLINE][NEWLINE]全国+20%[ICON_STRENGTH]城市防御、[ICON_RESEARCH]科研产出。</Text>
+		</Row>
+		<!-- Quote tags -->
+		<Row Tag="TXT_KEY_WONDER_SDI_QUOTE">
+			<Text>[NEWLINE]“戈尔巴乔夫先生，请打开这道门；戈尔巴乔夫先生，请推到这堵墙！”[NEWLINE]        ——里根罗纳德·威尔逊·里根[NEWLINE]</Text>
+		</Row>
+		<!-- Pedia tags -->
+		<Row Tag="TXT_KEY_WONDER_SDI_PEDIA">
+			<Text>战略防御倡议，亦称星球大战(Strategic Defense Initiative, 亦称Star Wars Program，简称SDI。)，是美国在1980年代研议的一个军事战略计划，该计划源自美国总统罗纳德·里根在冷战后期(1983年3月23日)的一次著名演说。其核心内容是:以各种手段攻击敌方的外太空的洲际战略导弹和外太空航天器，以防止敌对国家对美国及其盟国发动的核打击。[NEWLINE][NEWLINE]其技术手段包括在外太空和地面部署高能定向武器(如微波、激光、高能粒子束、电磁动能武器等)或常规打击武器，在敌方战略导弹来袭的各个阶段进行多层次的拦截。美国的许多盟国，包括英国、意大利、西德、以色列、日本等，也在美国的要求下不同程度地参与了这项计划。 在整个的计划当中，成功的运送了12名宇航员到月球，并在月球表面总共停留了约161个小时。该计划原先准备再进行三次额外计划以期能在月球停留更长的时间（在某些情况下课长达3天），但由于尼克松总统为了削减预算而不得不终止。</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

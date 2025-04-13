@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Language_en_US>
+		<!-- Description tags -->
+		<Row Tag="TXT_KEY_BUILDING_HABIB_BOURGUIBA">
+			<Text>布尔吉巴大街</Text>
+		</Row>
+		<!-- Help tags -->
+		<Row Tag="TXT_KEY_WONDER_HABIB_BOURGUIBA_HELP">
+			<Text>所有城市免费建立[ICON_GOLD]证券交易所。[NEWLINE][NEWLINE]城市规模至少为[ICON_CITYBANNER_CITY_XL][COLOR_SELECTED_TEXT]特大城市[ENDCOLOR]且建有国家银行。</Text>
+		</Row>
+		<!-- Quote tags -->
+		<Row Tag="TXT_KEY_WONDER_HABIB_BOURGUIBA_QUOTE">
+			<Text>[NEWLINE]“殖民主义是一种诞生于西方国家的思想，其目的是为了占据欧洲以外的国家。”[NEWLINE]        ——艾哈迈德•本•贝拉[NEWLINE]</Text>
+		</Row>
+		<!-- Pedia tags -->
+		<Row Tag="TXT_KEY_WONDER_HABIB_BOURGUIBA_PEDIA">
+			<Text>布尔吉巴大街是突尼斯首都突尼斯市的主要街道。十九世纪末法国殖民者在此修建了这条大街。作为突尼斯的文化中心，这条大街仿巴黎的香舍丽舍大街而建，街道两旁则为巴黎风格的商店、咖啡馆和画廊。街道宽60米，道路中间栽有两排榕树。在2011年初该地区是群众示威要求总统辞职的主要场所。 </Text>
+		</Row>
+	</Language_en_US>
+</GameData>

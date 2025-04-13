@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Language_en_US>
+		<!-- Description tags -->
+		<Row Tag="TXT_KEY_BUILDING_CHARTRES">
+			<Text>沙特尔圣母大教堂</Text>
+		</Row>
+		<!-- Help tags -->
+		<Row Tag="TXT_KEY_WONDER_CHARTRES_HELP">
+			<Text>本城获得一座免费[ICON_GREAT_ARTIST]大教堂。[NEWLINE]
+			[NEWLINE][ICON_BULLET]全国[ICON_PEACE]神祠、[ICON_PEACE]神庙获得额外[ICON_RESEARCH]科研产出。
+			[NEWLINE][ICON_BULLET][ICON_PEACE]神祠：[COLOR_POSITIVE_TEXT]+1[ENDCOLOR][ICON_RESEARCH]
+			[NEWLINE][ICON_BULLET][ICON_PEACE]神庙：[COLOR_POSITIVE_TEXT]+2[ENDCOLOR][ICON_RESEARCH]</Text>
+		</Row>
+		<!-- Quote tags -->
+		<Row Tag="TXT_KEY_WONDER_CHARTRES_QUOTE">
+			<Text>[NEWLINE]“最求和平就像建造一座大教堂，这是一代人的工作，总体上它需要一个总建筑师，在建设中它需要许多人的付出。”[NEWLINE]        ——休伯特•汉佛莱[NEWLINE]</Text>
+		</Row>
+		<!-- Pedia tags -->
+		<Row Tag="TXT_KEY_WONDER_CHARTRES_PEDIA">
+			<Text>沙特尔圣母大教堂是一座中世纪罗马天主教时期在法国沙特尔建造的教堂，该教堂为世界文化遗产，同时也是法国哥特式建筑的代表作之一。[NEWLINE][NEWLINE]沙特尔大教堂部分始建于1145年，1194年遭遇火灾，后历经26年重建方再现原貌，可谓法国哥特式建筑的巅峰之作。[NEWLINE][NEWLINE]在中世纪，沙特尔大教堂也作为一所教堂学校，在11世纪的欧洲也颇有建树。但随着新世纪的到来，以及巴黎大学等大学的成长使得大教堂的地位不如从前，而大教堂也不再触及教育领域。</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

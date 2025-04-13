@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Language_en_US>
+		<!-- Description tags -->
+		<Row Tag="TXT_KEY_BUILDING_JIAYUGUAN">
+			<Text>嘉峪关</Text>
+		</Row>
+		<!-- Help tags -->
+		<Row Tag="TXT_KEY_WONDER_JIAYUGUAN_HELP">
+			<Text>本城每条陆地贸易线路额外+6[ICON_GOLD]金币。[NEWLINE][NEWLINE]获得一座免费[ICON_INTERNATIONAL_TRADE]客栈。[NEWLINE][NEWLINE]城市两格内必须有山。</Text>
+		</Row>
+		<!-- Quote tags -->
+		<Row Tag="TXT_KEY_WONDER_JIAYUGUAN_QUOTE">
+			<Text>[NEWLINE]“毅力是思想的统帅，意志的盔甲，理性的堡垒。”[NEWLINE]        ——佛朗西斯•培根[NEWLINE]</Text>
+		</Row>
+		<!-- Pedia tags -->
+		<Row Tag="TXT_KEY_WONDER_JIAYUGUAN_PEDIA">
+			<Text>嘉峪关位于嘉峪山山口，长城的最西端。为了保护古代的“丝绸之路”和来往贸易的商人而建，长城沿线现存最完整的部分。据传闻，嘉峪关修建时，将军专门询问一位数学家需要多少块砖才能建成这座堡垒，这位数学家给出了他的答案，随后堡垒完工却多出一块砖，当他被讯问时，数学家辩解道“那块砖只放置在入口处的，用来祝福那些通过关口的人们。”，时至今日，那块砖仍存留于此。</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

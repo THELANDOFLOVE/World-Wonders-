@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Language_en_US>
+		<!-- Description tags -->
+		<Row Tag="TXT_KEY_BUILDING_BROOKLYN">
+			<Text>布鲁克林大桥</Text>
+		</Row>
+		<!-- Help tags -->
+		<Row Tag="TXT_KEY_WONDER_BROOKLYN_HELP">
+			<Text>文明开启一次[ICON_GOLDEN_AGE]黄金时代。[NEWLINE][NEWLINE]本城+50%[ICON_GREAT_PEOPLE]伟人诞生速率。[NEWLINE][NEWLINE]城市必须沿河。</Text>
+		</Row>
+		<!-- Quote tags -->
+		<Row Tag="TXT_KEY_WONDER_BROOKLYN_QUOTE">
+			<Text>[NEWLINE]“科学家建造了布鲁克林大桥然后又买下它。”[NEWLINE] - 小威廉·法兰克·巴克利[NEWLINE]</Text>
+		</Row>
+		<!-- Pedia tags -->
+		<Row Tag="TXT_KEY_WONDER_BROOKLYN_PEDIA">
+			<Text>纽约的布鲁克林大桥横跨纽约东河，连接着布鲁克林区和曼哈顿岛。它于1870年1月3日动工建设，在1883年5月24日正式交付使用。从桥上的塔尖可以看出该桥为新哥特式的建筑风格。在1884年人们普遍担心桥体稳定问题时，菲尼亚斯•泰勒•巴纳姆带领着他马戏团的21头大象从桥上走过。大桥也被用来纪念那些在灾难中逝去的人们，如911事件。 </Text>
+		</Row>
+	</Language_en_US>
+</GameData>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<BuildingClasses>
+		<Row>
+			<Type>BUILDINGCLASS_ZANBIL</Type>
+			<DefaultBuilding>BUILDING_ZANBIL</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_ZANBIL</Description>
+			<MaxGlobalInstances>1</MaxGlobalInstances>
+		</Row>
+	</BuildingClasses>
+</GameData>

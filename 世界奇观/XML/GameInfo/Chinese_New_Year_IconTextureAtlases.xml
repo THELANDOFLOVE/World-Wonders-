@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<IconTextureAtlases>
+		<Row>
+			<Atlas>BW_ATLAS_CHINESE_NEW_YEAR</Atlas>
+			<IconSize>256</IconSize>
+			<Filename>CHINA_icon256.dds</Filename>
+			<IconsPerRow>5</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>BW_ATLAS_CHINESE_NEW_YEAR</Atlas>
+			<IconSize>128</IconSize>
+			<Filename>CHINA_icon128.dds</Filename>
+			<IconsPerRow>5</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>BW_ATLAS_CHINESE_NEW_YEAR</Atlas>
+			<IconSize>64</IconSize>
+			<Filename>CHINA_icon64.dds</Filename>
+			<IconsPerRow>5</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>BW_ATLAS_CHINESE_NEW_YEAR</Atlas>
+			<IconSize>80</IconSize>
+			<Filename>CHINA_icon80.dds</Filename>
+			<IconsPerRow>5</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>BW_ATLAS_CHINESE_NEW_YEAR</Atlas>
+			<IconSize>45</IconSize>
+			<Filename>CHINA_icon45.dds</Filename>
+			<IconsPerRow>5</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+	</IconTextureAtlases>
+</GameData>

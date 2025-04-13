@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Language_en_US>
+		<!-- Description tags -->
+		<Row Tag="TXT_KEY_BUILDING_PEARL_MONUMENT">
+			<Text>珍珠塔</Text>
+		</Row>
+		<!-- Help tags -->
+		<Row Tag="TXT_KEY_WONDER_PEARL_MONUMENT_HELP">
+			<Text>建造完成后获得30000[ICON_GOLD]金币。 </Text>
+		</Row>
+		<!-- Quote tags -->
+		<Row Tag="TXT_KEY_WONDER_PEARL_MONUMENT_QUOTE">
+			<Text>[NEWLINE]“真理总是神圣的、宝贵的，过多的财富只是如一只长满肉的猪。”[NEWLINE]        ——塞穆尔•巴特勒[NEWLINE]</Text>
+		</Row>
+		<!-- Pedia tags -->
+		<Row Tag="TXT_KEY_WONDER_PEARL_MONUMENT_PEDIA">
+			<Text>作为岛国巴林的标识，珍珠塔是位于巴林首都麦纳麦的一个大型旋转雕像。它是由1982年的巴林主持的海湾合作委员会时修建的。该设计为留个独桅帆船船帆合抱一个白色珍珠。六个船帆象征着GCC的六个成员国，白色的珍珠则象征着国家的历史文化遗产。 [NEWLINE][NEWLINE]2011年3月巴林政府下令推倒珍珠塔，因为其被示威者像埃及开罗解放广场一样当做集会的地点。 </Text>
+		</Row>
+	</Language_en_US>
+</GameData>

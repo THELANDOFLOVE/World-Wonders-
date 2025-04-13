@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Language_en_US>
+		<!-- Description tags -->
+		<Row Tag="TXT_KEY_BUILDING_WASHINGTON">
+			<Text>华盛顿纪念碑</Text>
+		</Row>
+		<!-- Help tags -->
+		<Row Tag="TXT_KEY_WONDER_WASHINGTON_HELP">
+			<Text>全国+25%[ICON_GREAT_PEOPLE]伟人诞生速率，购买[COLOR_POSITIVE_TEXT]地块[ENDCOLOR]所需[ICON_GOLD]金币-25%。[NEWLINE][NEWLINE]全国+4[ICON_HAPPINESS_1]快乐、+10[ICON_TOURISM]魅力产出。[NEWLINE][NEWLINE]每座城市+2[ICON_CULTURE]文化产出，当研究[COLOR_CYAN]无线电[ENDCOLOR]后额外+1[ICON_TOURISM]魅力产出。</Text>
+		</Row>
+		<!-- Quote tags -->
+		<Row Tag="TXT_KEY_WONDER_WASHINGTON_QUOTE">
+			<Text>[NEWLINE]“我希望我将具有足够的坚定性和美德，藉以保持所有称号中，我认为最值得羡慕的称号：一个诚实的人。”[NEWLINE]        ——乔治·华盛顿[NEWLINE]</Text>
+		</Row>
+		<!-- Pedia tags -->
+		<Row Tag="TXT_KEY_WONDER_WASHINGTON_PEDIA">
+			<Text>华盛顿纪念碑位于华盛顿特区国家广场的中心，是一座献给乔治·华盛顿总统的大型石碑。它高约555英尺（169米），是世界最高的石制纪念碑建筑。纪念碑的工作于1848年开始，但由于种种原因，包括财政困难、纪念碑背后组织内部的内部权力斗争以及内战，很快就停止了。在此之前很久就存在有关施工的问题，由于地面不稳定，纪念碑不得不从原来的位置移动，并且在施工前取消了围绕方尖碑的拟议柱廊。这座纪念碑最终于1885年完工，并在不久之后向公众开放，到1888年平均每月有55000名游客。这座纪念碑仍然是华盛顿特区独特建筑遗产的核心，也是这座城市的标志。</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_BUILDING_WASHINGTON_BOUNS">
+			<Text>民主灯塔</Text>
+		</Row>
+		<!-- Help tags -->
+		<Row Tag="TXT_KEY_WASHINGTON_BOUNS_HELP">
+			<Text>每座城市+2[ICON_CULTURE]文化产出，当研究[COLOR_CYAN]无线电[ENDCOLOR]后额外+1[ICON_TOURISM]魅力产出。</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

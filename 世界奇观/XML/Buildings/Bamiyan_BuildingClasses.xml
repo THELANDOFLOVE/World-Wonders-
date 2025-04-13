@@ -1,0 +1,17 @@
+
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<BuildingClasses>
+		<Row>
+			<Type>BUILDINGCLASS_BAMIYAN</Type>
+			<DefaultBuilding>BUILDING_BAMIYAN</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_BAMIYAN</Description>
+			<MaxGlobalInstances>1</MaxGlobalInstances>
+		</Row>
+		<Row>
+			<Type>BUILDINGCLASS_BAMIYAN_BONUS</Type>
+			<DefaultBuilding>BUILDING_BAMIYAN_BONUS</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_BAMIYAN_BONUS</Description>
+		</Row>
+	</BuildingClasses>
+</GameData>

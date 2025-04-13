@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Language_en_US>
+		<!-- Description tags -->
+		<Row Tag="TXT_KEY_BUILDING_STONE_TOWN">
+			<Text>桑给巴尔石头城</Text>
+		</Row>
+		<!-- Help tags -->
+		<Row Tag="TXT_KEY_WONDER_STONE_TOWN_HELP">
+			<Text>从本城起始的海上[ICON_INTERNATIONAL_TRADE]商路距离+50%，获得两条额外[ICON_INTERNATIONAL_TRADE]商路。[NEWLINE][NEWLINE]城市必须沿海。</Text>
+		</Row>
+		<!-- Quote tags -->
+		<Row Tag="TXT_KEY_WONDER_STONE_TOWN_QUOTE">
+			<Text>[NEWLINE]“居住在桑给巴尔镇的欧洲和美国人，要么是政府官员，要么是商人，要门就是欧洲和美国房地产商的代表。”[NEWLINE]        ——亨利·莫顿·史丹利[NEWLINE]</Text>
+		</Row>
+		<!-- Pedia tags -->
+		<Row Tag="TXT_KEY_WONDER_STONE_TOWN_PEDIA">
+			<Text>石头城是桑给巴尔市旧城区的称呼，位于坦桑尼亚的桑给巴尔岛上。普遍认为石头城是由苏丹阿曼统治桑给巴尔时期即十八十九世纪开始建设。1863年，苏丹阿曼迁都桑给巴尔，并在岛上建造了一座复杂的大型宫殿。这也使得石头城进入了一个快速发展的时期。苏丹阿曼的继承人战争使得石头城得以独立，并得到了空前的发展。</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

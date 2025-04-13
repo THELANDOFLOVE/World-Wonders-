@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Language_en_US>
+		<!-- Description tags -->
+		<Row Tag="TXT_KEY_BUILDING_HAJI_ALI_DARGAH">
+			<Text>哈吉阿里达加圣地</Text>
+		</Row>
+		<!-- Help tags -->
+		<Row Tag="TXT_KEY_WONDER_HAJI_ALI_DARGAH_HELP">
+			<Text>[ICON_CONNECTED]城市连接+25%[ICON_GOLD]金币。[NEWLINE][NEWLINE]本城已开发的[COLOR_POSITIVE_TEXT]海洋[ENDCOLOR]资源+2[ICON_GOLD]金币、[ICON_PEACE]信仰产出。[NEWLINE][NEWLINE]城市必须沿海。</Text>
+		</Row>
+		<!-- Quote tags -->
+		<Row Tag="TXT_KEY_WONDER_HAJI_ALI_DARGAH_QUOTE">
+			<Text>[NEWLINE]“天地的创造，昼夜的轮流，利人航海的船舶，真主从云中降下雨水，借它而使已死的大地复生，并在大地上散布各种动物，与风向的改变，天地间受制的云，对于能了解的人看来，此中确有许多迹象。”[NEWLINE]        ——《古兰经》2 : 164[NEWLINE]</Text>
+		</Row>
+		<!-- Pedia tags -->
+		<Row Tag="TXT_KEY_WONDER_HAJI_ALI_DARGAH_PEDIA">
+			<Text>哈吉阿里达加是一座位于印度孟买的清真寺和陵墓。1431年，为了纪念一位叫Sayyed Peer Haji Ali Shah Bukhari (R.A.)的穆斯林商人而建了这座寺院，这个商人先前在孟买定居，后来又到波斯和如今的乌兹别克斯坦游历。在积累了巨大财富之后，他却放弃了这些财产，毅然决然的踏上了麦加朝圣之旅。然而他却死在了旅行途中，随后有人看见他的尸体飘回印度，并被冲到一个小岛上面，后来便在那里建起了他的陵墓。达加位于海边，每当涨潮是抖会淹没堤道，所以只有在退潮时才能通行。即是因为涨退潮的影响，但每周仍有8000人来到此地参观。这所融合了印度和伊斯兰风格建筑时常受到盐分的侵蚀，所以在2008年对寺院进行了翻新。</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

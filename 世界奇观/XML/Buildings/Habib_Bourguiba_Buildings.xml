@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Buildings>
+		<Row>
+			<Type>BUILDING_HABIB_BOURGUIBA</Type>
+			<!--布尔吉巴大街-->
+			<BuildingClass>BUILDINGCLASS_HABIB_BOURGUIBA</BuildingClass>
+			<!--建筑类型-->
+			<Description>TXT_KEY_BUILDING_HABIB_BOURGUIBA</Description>
+			<!--名称文本词条-->
+			<Help>TXT_KEY_WONDER_HABIB_BOURGUIBA_HELP</Help>
+			<!--信息文本词条-->
+			<Civilopedia>TXT_KEY_WONDER_HABIB_BOURGUIBA_PEDIA</Civilopedia>
+			<!--历史文本词条-->
+			<Quote>TXT_KEY_WONDER_HABIB_BOURGUIBA_QUOTE</Quote>
+			<!--奇观独有文本词条-->
+			<Cost>750</Cost>
+			<!--建造花费-->
+			<PrereqTech>TECH_TELEGRAPH</PrereqTech>
+			<!--所需科技电报-->
+			<!--<SpecialistType>SPECIALIST_ARTIST</SpecialistType>
+			<GreatPeopleRateChange>2</GreatPeopleRateChange>-->
+			<FreeBuilding>BUILDINGCLASS_STOCK_EXCHANGE</FreeBuilding>
+			<!--所有城市获得对应建筑-->
+			<NukeImmune>true</NukeImmune>
+			<!--不会被核弹摧毁-->
+			<HurryCostModifier>-1</HurryCostModifier>
+			<!--购买参数，-1为不可购买-->
+			<MinAreaSize>-1</MinAreaSize>
+			<!--无需邻湖邻海-->
+			<ConquestProb>100</ConquestProb>
+			<!--征服奖金-->
+			<IconAtlas>BW_ATLAS_ARAB_SPRING</IconAtlas>
+			<!--图标取材-->
+			<PortraitIndex>0</PortraitIndex>
+			<!--图标取材顺序-->
+			<WonderSplashImage>HABIB_BOURGUIBA_splash.dds</WonderSplashImage>
+			<!--奇观建成图片-->
+			<WonderSplashAnchor>L,B</WonderSplashAnchor>
+		</Row>
+	</Buildings>
+	
+	<Building_ClassesNeededInCity>
+	<!--建造前置建筑-->
+		<Row>
+			<BuildingType>BUILDING_HABIB_BOURGUIBA</BuildingType>
+			<!--关联建筑布尔吉巴大街-->
+			<BuildingClassType>BUILDINGCLASS_CITY_SIZE_XL</BuildingClassType>
+			<!--关联建筑特大城市-->
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_HABIB_BOURGUIBA</BuildingType>
+			<!--关联建筑布尔吉巴大街-->
+			<BuildingClassType>BUILDINGCLASS_NATIONAL_BANK</BuildingClassType>
+			<!--关联建筑国家银行-->
+		</Row>
+	</Building_ClassesNeededInCity>
+	
+	<Building_ResourceQuantityRequirements>
+	<!--战略资源消耗-->
+		<Row>
+			<BuildingType>BUILDING_HABIB_BOURGUIBA</BuildingType>
+			<!--关联建筑布尔吉巴大街-->
+			<ResourceType>RESOURCE_MANPOWER</ResourceType>
+			<!--资源类型人力-->
+			<Cost>8</Cost>
+		</Row>
+	</Building_ResourceQuantityRequirements>
+	
+	<Building_YieldChanges>
+	<!--建筑基础产量-->
+		<Row>
+			<BuildingType>BUILDING_HABIB_BOURGUIBA</BuildingType>
+			<!--关联建筑布尔吉巴大街-->
+			<YieldType>YIELD_GOLD</YieldType>
+			<!--金币加成-->
+			<Yield>20</Yield>
+		</Row>
+	</Building_YieldChanges>
+	
+	<Building_Flavors>
+	<!--ai建造参考数值，对玩家没用-->
+		<Row>
+			<BuildingType>BUILDING_HABIB_BOURGUIBA</BuildingType>
+			<FlavorType>FLAVOR_GOLD</FlavorType>
+			<Flavor>200</Flavor>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_HABIB_BOURGUIBA</BuildingType>
+			<FlavorType>FLAVOR_WONDER</FlavorType>
+			<Flavor>80</Flavor>
+		</Row>
+	</Building_Flavors>
+	
+</GameData>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Buildings>
+		<Row>
+			<Type>BUILDING_PEARL_MONUMENT</Type>
+			<!--珍珠塔-->
+			<BuildingClass>BUILDINGCLASS_PEARL_MONUMENT</BuildingClass>
+			<!--建筑类型-->
+			<Description>TXT_KEY_BUILDING_PEARL_MONUMENT</Description>
+			<!--名称文本词条-->
+			<Help>TXT_KEY_WONDER_PEARL_MONUMENT_HELP</Help>
+			<!--信息文本词条-->
+			<Civilopedia>TXT_KEY_WONDER_PEARL_MONUMENT_PEDIA</Civilopedia>
+			<!--历史文本词条-->
+			<Quote>TXT_KEY_WONDER_PEARL_MONUMENT_QUOTE</Quote>
+			<!--奇观独有文本词条-->
+			<Cost>1900</Cost>
+			<!--建造花费-->
+			<PrereqTech>TECH_ELECTRONICS</PrereqTech>
+			<!--所需科技电子学-->
+			<SpecialistType>SPECIALIST_ENGINEER</SpecialistType>
+			<!--砖家类型工程师-->
+			<GreatPeopleRateChange>3</GreatPeopleRateChange>
+			<!--砖家点数增幅-->
+			<NukeImmune>true</NukeImmune>
+			<!--不会被核弹摧毁-->
+			<HurryCostModifier>-1</HurryCostModifier>
+			<!--购买参数，-1为不可购买-->
+			<MinAreaSize>-1</MinAreaSize>
+			<!--无需邻湖邻海-->
+			<ConquestProb>100</ConquestProb>
+			<!--征服奖金-->
+			<Gold>30000</Gold>
+			<!--建造后所获金币-->
+			<IconAtlas>BW_ATLAS_ARAB_SPRING</IconAtlas>
+			<!--图标取材-->
+			<PortraitIndex>2</PortraitIndex>
+			<!--图标取材顺序-->
+			<WonderSplashImage>PEARL_MONUMENT_splash.dds</WonderSplashImage>
+			<!--奇观建成图片-->
+			<WonderSplashAnchor>L,B</WonderSplashAnchor>
+		</Row>
+	</Buildings>
+	
+	<Building_ResourceQuantityRequirements>
+	<!--战略资源消耗-->
+		<Row>
+			<BuildingType>BUILDING_PEARL_MONUMENT</BuildingType>
+			<!--关联建筑珍珠塔-->
+			<ResourceType>RESOURCE_MANPOWER</ResourceType>
+			<!--资源类型人力-->
+			<Cost>8</Cost>
+		</Row>
+	</Building_ResourceQuantityRequirements>
+	
+	<Building_YieldChanges>
+	<!--建筑基础产量-->
+		<Row>
+			<BuildingType>BUILDING_PEARL_MONUMENT</BuildingType>
+			<!--关联建筑珍珠塔-->
+			<YieldType>YIELD_CULTURE</YieldType>
+			<!--文化加成-->
+			<Yield>6</Yield>
+		</Row>
+	</Building_YieldChanges>
+	
+	<Building_Flavors>
+	<!--ai建造参考数值，对玩家没用-->
+		<Row>
+			<BuildingType>BUILDING_PEARL_MONUMENT</BuildingType>
+			<FlavorType>FLAVOR_GOLD</FlavorType>
+			<Flavor>999</Flavor>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_PEARL_MONUMENT</BuildingType>
+			<FlavorType>FLAVOR_WONDER</FlavorType>
+			<Flavor>200</Flavor>
+		</Row>
+	</Building_Flavors>
+	
+</GameData>

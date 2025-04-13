@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Language_en_US>
+		<!-- Description tags -->
+		<Row Tag="TXT_KEY_BUILDING_MILLAU">
+			<Text>米约大桥</Text>
+		</Row>
+		<!-- Help tags -->
+		<Row Tag="TXT_KEY_WONDER_MILLAU_HELP">
+			<Text>本城每2[ICON_CITIZEN]人口+1[ICON_GOLD]金币产出。[NEWLINE][NEWLINE]所有[COLOR_POSITIVE_TEXT]陆军单位[ENDCOLOR]获得[COLOR_POSITIVE_TEXT]云中漫步[ENDCOLOR]晋升，+1[ICON_MOVES]移动力。[NEWLINE][NEWLINE]城市规模至少为[ICON_CITYBANNER_CITY_LARGE][COLOR_SELECTED_TEXT]大型城市[ENDCOLOR]且建立在[ICON_PROMOTION_DESERT_WARRIOR]丘陵上。</Text>
+		</Row>
+		<!-- Quote tags -->
+		<Row Tag="TXT_KEY_WONDER_MILLAU_QUOTE">
+			<Text>[NEWLINE]“云层之上是星光的投影，事物本身最值得人们尊敬。”[NEWLINE]        ——毕达哥拉斯[NEWLINE]</Text>
+		</Row>
+		<!-- Pedia tags -->
+		<Row Tag="TXT_KEY_WONDER_MILLAU_PEDIA">
+			<Text>米约大桥是一座位于法国南都的斜拉索大桥，横跨米约的塔恩河河谷。大桥全长2460米，离地基的最高点为343米，是世界最高的桥梁。高架桥是蒙彼利埃至巴黎的高速公路的一部分，它也是巴黎最高的结构，大桥的第二号桥墩比巴黎的埃菲尔铁塔还高。在1989年对高速公路的路线进行了选址，并在2001年开始建设，5年之后完成建设。</Text>
+		</Row>
+		<!-- Promotion tags -->
+        <Row Tag="TXT_KEY_PROMOTION_MILLAU">
+            <Text>云中漫步</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PROMOTION_MILLAU_HELP">
+            <Text>所有[COLOR_POSITIVE_TEXT]陆军单位[ENDCOLOR]+1[ICON_MOVES]移动力。</Text>
+        </Row>
+	</Language_en_US>
+</GameData>

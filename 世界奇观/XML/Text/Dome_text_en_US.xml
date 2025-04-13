@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Language_en_US>
+		<!-- Description tags -->
+		<Row Tag="TXT_KEY_BUILDING_DOME">
+			<Text>岩石圆顶清真寺</Text>
+		</Row>
+		<!-- Help tags -->
+		<Row Tag="TXT_KEY_WONDER_DOME_HELP">
+			<Text>本城获得一座免费[ICON_PEACE]清真寺。[NEWLINE][NEWLINE]所有城市+15%[ICON_CULTURE]文化产出。[NEWLINE][NEWLINE]本城主流[ICON_RELIGION]宗教信条解锁的建筑额外+5[ICON_PEACE]信仰。</Text>
+		</Row>
+		<!-- Quote tags -->
+		<Row Tag="TXT_KEY_WONDER_DOME_QUOTE">
+			<Text>[NEWLINE]“在这个世上没有一座城市那怕是雅典和罗马能像耶路撒冷一样，在一个国家中长时间的扮演如此重要的角色。”[NEWLINE]        ——戴维·本·古里安[NEWLINE]</Text>
+		</Row>
+		<!-- Pedia tags -->
+		<Row Tag="TXT_KEY_WONDER_DOME_PEDIA">
+			<Text>岩石圆顶寺是一个极具色彩的伊斯兰教圣地，位于耶路撒冷市中心的圣殿山上。寺庙建在原第二犹太圣殿之上，并与公元691年完工，后世有对其进行了多次修缮。寺庙以一块据传是默罕默德升天所踩的岩石为中心进行建设的。有趣的是，这块岩石圆顶并不是清真寺的构件，而是作为穆斯林朝圣者的一个圣地。在岩石之下是一个贯穿整个耶路撒冷的地下网络。人们可以通过圣石上一个称之为“灵魂之井”的裂缝进入洞穴中，电影《夺宝奇兵》印第安纳琼斯让其变得广为人知。圆顶主要是由八边形的瓷砖构成的。上半部分主色调是蓝色，并以伊斯兰图案进行装饰。寺庙圆顶则是一个直径20米的金色木质圆顶构成。 </Text>
+		</Row>
+	</Language_en_US>
+</GameData>

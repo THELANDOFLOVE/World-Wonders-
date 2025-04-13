@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Language_en_US>
+		<!-- Description tags -->
+		<Row Tag="TXT_KEY_BUILDING_SHANGHAI_WFC">
+			<Text>上海环球金融中心</Text>
+		</Row>
+		<!-- Help tags -->
+		<Row Tag="TXT_KEY_WONDER_SHANGHAI_WFC_HELP">
+			<Text>建造完成后获得40000[ICON_GOLD]金币。[NEWLINE][NEWLINE]本城+50%[ICON_GOLD]金币产出，每座[ICON_GOLD]金融公司+6[ICON_GOLD]金币产出。[NEWLINE][NEWLINE]城市规模至少为[ICON_CITYBANNER_CITY_XL][COLOR_SELECTED_TEXT]特大城市[ENDCOLOR]。</Text>
+		</Row>
+		<!-- Quote tags -->
+		<Row Tag="TXT_KEY_WONDER_SHANGHAI_WFC_QUOTE">
+			<Text>[NEWLINE]“我们有金钱能买到的最好政府。”[NEWLINE]        ——马克•吐温[NEWLINE]</Text>
+		</Row>
+		<!-- Pedia tags -->
+		<Row Tag="TXT_KEY_WONDER_SHANGHAI_WFC_PEDIA">
+			<Text>位于上海市的环球经融中心是一座超高层的建筑。2007年大楼完工时，它是世界第二高中国最高的摩天大楼。现如今，他已将为第四高楼。然而，他仍然拥有全球最高的观察平台，高达474米。上海环球金融中心的最主要特点是其楼体上部的大矩形的孔洞结构。在早期的设计中孔洞原本是被设计成圆形的，然而这种造型与日本主题“升起的太阳”过于相似而改变了形状。 </Text>
+		</Row>
+	</Language_en_US>
+</GameData>

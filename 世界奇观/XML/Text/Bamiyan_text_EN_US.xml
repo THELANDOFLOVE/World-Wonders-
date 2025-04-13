@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Language_en_US>
+		<!-- Description tags -->
+		<Row Tag="TXT_KEY_BUILDING_BAMIYAN">
+			<Text>巴米扬大佛</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_BAMIYAN_BONUS">
+			<Text>巴米扬佛窟</Text>
+		</Row>
+		<!-- Help tags -->
+		<Row Tag="TXT_KEY_WONDER_BAMIYAN_HELP">
+			<Text>本城已开发的[COLOR_POSITIVE_TEXT]沙漠[ENDCOLOR]地块+1[ICON_PEACE]信仰。[NEWLINE][NEWLINE]当[ICON_CITYBANNER_CITY_TOWN][COLOR_SELECTED_TEXT]城市[ENDCOLOR]靠近[ICON_PROMOTION_ALTITUDE_TRAINING]山脉时额外+2[ICON_CULTURE]文化、[ICON_PEACE]信仰、[ICON_HAPPINESS_1]快乐。[NEWLINE][NEWLINE]城市必须邻近沙漠。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_BAMIYAN_BONUS_HELP">
+			<Text>当[ICON_CITYBANNER_CITY_TOWN][COLOR_SELECTED_TEXT]城市[ENDCOLOR]靠近[ICON_PROMOTION_ALTITUDE_TRAINING]山脉时额外+2[ICON_CULTURE]文化、[ICON_PEACE]信仰、[ICON_HAPPINESS_1]快乐。</Text>
+		</Row>
+		<!-- Quote tags -->
+		<Row Tag="TXT_KEY_WONDER_BAMIYAN_QUOTE">
+			<Text>[NEWLINE]“三事不可久藏：太阳、月亮和真理。”[NEWLINE]        ——佛陀[NEWLINE]</Text>
+		</Row>
+		<!-- Pedia tags -->
+		<Row Tag="TXT_KEY_WONDER_BAMIYAN_PEDIA">
+			<Text>阿富汗巴米扬的巴米扬大佛由两个巨大的佛像和数以百计的小佛像构成。所有的佛像都是雕刻在悬崖上面，几十年来，它一直都是阿富汗的主要旅游景点。两座大佛中较小的一座建于507年，另一座则建于554年。起初雕像的细节用的是泥巴和稻草混合物进行描绘的，随后才改用颜料进行涂抹。在人造洞窟中发现的佛像可以认为是最早的油画作品，它可以追溯这公元5世纪。 [NEWLINE][NEWLINE]2001年3月，塔利班政府领导人认为这些佛像是神像并下令摧毁。两座大佛在三月遭到摧毁，而今，那里依然留有着佛像摧毁时的样子。有人提出建议修复佛像，当遭到了激烈的反对。 </Text>
+		</Row>
+	</Language_en_US>
+</GameData>

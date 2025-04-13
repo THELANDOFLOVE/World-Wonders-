@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Language_en_US>
+		<!-- Description tags -->
+		<Row Tag="TXT_KEY_BUILDING_LONDON">
+			<Text>伦敦眼</Text>
+		</Row>
+		<!-- Help tags -->
+		<Row Tag="TXT_KEY_WONDER_LONDON_HELP">
+			<Text>本城+16[ICON_TOURISM]魅力产出，+10全国[ICON_HAPPINESS_1]快乐。[NEWLINE][NEWLINE]本城每名[ICON_CITIZEN]人口+5[ICON_GOLD]金币产出。[NEWLINE][NEWLINE]城市必须沿河且规模至少为[ICON_CITYBANNER_CITY_LARGE][COLOR_SELECTED_TEXT]大型城市[ENDCOLOR]。</Text>
+		</Row>
+		<!-- Quote tags -->
+		<Row Tag="TXT_KEY_WONDER_LONDON_QUOTE">
+			<Text>[NEWLINE]“我任职只有一个意图：改变英国，从仰赖他人转为自力更生。从‘拿来给我’的国家变为‘自己动手’。一个‘立马行动’的英国，而不是等着东西掉到我们手上的国家。”[NEWLINE]        ——撒切尔夫人[NEWLINE]</Text>
+		</Row>
+		<!-- Pedia tags -->
+		<Row Tag="TXT_KEY_WONDER_LONDON_PEDIA">
+			<Text>位于泰晤士河畔的伦敦眼是现代最有名的摩天轮。摩天轮直径394英呎，最高处达到443英呎。弗兰克•阿纳托尔、史蒂夫、茱莉亚•亚尔德和戴维•马克等人在内的团队完成了伦敦眼的建设。伦敦眼于1998年年底开工建设，但这项工程仅仅花费了一年便完工，在1999年的元旦前夕，英国首相托尼•布莱尔主持了伦敦眼的开幕仪式。因此伦敦眼又名千年眼。不幸的是伦敦眼在2000年3月9号遭遇了一次技术故障，但这个摩天轮仍然是伦敦的标志。伦敦眼作为伦敦最高的观景点，每年都会吸引大批游客前来观光游览。</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

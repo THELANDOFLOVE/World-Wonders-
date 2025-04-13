@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Language_en_US>
+		<!-- Description tags -->
+		<Row Tag="TXT_KEY_BUILDING_SHWEDAGON">
+			<Text>仰光大金塔</Text>
+		</Row>
+		<!-- Help tags -->
+		<Row Tag="TXT_KEY_WONDER_SHWEDAGON_HELP">
+			<Text>本城获得一座免费[ICON_HAPPINESS_1]佛塔。[NEWLINE][NEWLINE]本城开发的每处[ICON_RES_GOLD]黄金资源+4[ICON_PEACE]信仰、[ICON_CULTURE]文化产出。[NEWLINE][NEWLINE][ICON_GREAT_ENGINEER][COLOR_YIELD_FOOD]工程师[ENDCOLOR]、[ICON_GREAT_ARTIST][COLOR_MAGENTA]美术家[ENDCOLOR]+2[ICON_GOLD]金币产出。</Text>
+		</Row>
+		<!-- Quote tags -->
+		<Row Tag="TXT_KEY_WONDER_SHWEDAGON_QUOTE">
+			<Text>[NEWLINE]“意志和肉体总是存在矛盾的，瞎子看见物体，聋子听见声音。大地震动，闪电划过，宝石沉降，喜马拉雅山上的树木在恶劣的条件下却仍然扎根开花结果。”[NEWLINE]        ——国王奥加拉巴[NEWLINE]</Text>
+		</Row>
+		<!-- Pedia tags -->
+		<Row Tag="TXT_KEY_WONDER_SHWEDAGON_PEDIA">
+			<Text>大金寺（又称大金塔或大龙塔）是一座位于缅甸仰光的大型佛塔。大金塔目前高99米，其表面的黄金是由缅甸人捐助并加以维护。虽然不知道佛塔表面的黄金是和时候镀上的，但佛塔本身的历史却可以追溯到2500年前。历史上每代王朝都有修建佛塔，但目前看到的这座高99米的佛塔是在1768年的地震之后重建的。大金塔的另一特色就是它那镶有5548颗砖石和2317颗宝石的塔尖。</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

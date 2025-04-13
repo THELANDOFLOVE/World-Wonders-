@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 12/24/2013 12:27:04 PM -->
+<GameData>
+	<Language_en_US>
+		<!--Resource tags-->
+		<Row Tag="TXT_KEY_RESOURCE_ROMANSTATUE">
+			<Text>古罗马雕像</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_ROMANSTATUE_TEXT">
+			<Text>雕塑艺术在古罗马的社会生活中具有极高的地位，雕塑作品之多，在今天仍然是难以想象的。在肖像雕塑方面罗马人取得了较大成就。罗马人崇拜祖先，很早就开始用石膏或蜡从死人脸上翻下模子，并彩绘制成真实感很强的面具，安放在家中。另一个原因是罗马统治者极力炫耀个人权威、制造个人崇拜。</Text>
+		</Row>
+		<!-- Description tags -->
+		<Row Tag="TXT_KEY_BUILDING_RM_FORUM">
+			<Text>古罗马广场</Text>
+		</Row>
+		<!-- Help tags -->
+		<Row Tag="TXT_KEY_WONDER_RM_FORUM_HELP">
+			<Text>提供2份[ICON_RES_ROMANSTATUE]罗马雕像。[NEWLINE][NEWLINE]本城[ICON_GREAT_PEOPLE]伟人诞生速率+15%，[ICON_CONNECTED]城市连接+15%[ICON_GOLD]金币，推行新政策所需[ICON_CULTURE]文化值-5%。[NEWLINE][NEWLINE]提供一个[ICON_GREAT_WORK]美术杰作展位，研究[COLOR_CYAN]考古学[ENDCOLOR]后+4[ICON_TOURISM]魅力产出。[NEWLINE][NEWLINE]城市至少拥有一处已开发的[ICON_RES_MARBLE]大理石资源。</Text>
+		</Row>
+		<!-- Quote tags -->
+		<Row Tag="TXT_KEY_WONDER_RM_FORUM_QUOTE">
+			<Text>[NEWLINE]“前人留给我的是一座满是砖瓦的罗马，而我留给子孙的却是一座满是大理石的罗马。”[NEWLINE]        ——盖维斯·屋大维·奥古斯都[NEWLINE]</Text>
+		</Row>
+		<!-- Pedia tags -->
+		<Row Tag="TXT_KEY_WONDER_RM_FORUM_PEDIA">
+			<Text>古罗马广场是古罗马时代的城市中心，其中还残留了些许的古罗马时期的重要建筑的废墟。屹立在此地的建筑物有提图斯凯旋门、奥古斯都凯旋门、塞维鲁凯旋门、凯撒神庙、灶神庙，维纳斯和罗马神庙。古罗马政治、宗教、商业、娱乐等建筑的聚集地又可以被称为“古罗马废墟”。</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

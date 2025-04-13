@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Language_en_US>
+		<!-- Description tags -->
+		<Row Tag="TXT_KEY_BUILDING_WESTMINSTER">
+			<Text>威斯敏斯特大教堂</Text>
+		</Row>
+		<!-- Help tags -->
+		<Row Tag="TXT_KEY_WONDER_WESTMINSTER_HELP">
+			<Text>本城获得一座免费[ICON_GREAT_ARTIST]大教堂。[NEWLINE][NEWLINE]每开启一项[COLOR_MAGENTA]社会政策[ENDCOLOR]+5[ICON_CULTURE]文化产出，每完成一项[COLOR_MAGENTA]社会政策[ENDCOLOR]+10[ICON_CULTURE]文化产出。</Text>
+		</Row>
+		<!-- Quote tags -->
+		<Row Tag="TXT_KEY_WONDER_WESTMINSTER_QUOTE">
+			<Text>[NEWLINE]“这世上只有两种悲剧，一种是你想要的得不到，另一种是你不想要偏偏会得到。”[NEWLINE]        ——奥斯卡•王尔德[NEWLINE]</Text>
+		</Row>
+		<!-- Pedia tags -->
+		<Row Tag="TXT_KEY_WONDER_WESTMINSTER_PEDIA">
+			<Text>位于威斯敏斯特区的圣彼得学院教堂，通常称为威斯敏斯特大教堂，是一座传统的哥特式教堂。这里通常是英国国王举行加冕仪式或者葬礼的地点。根据传统修道院一般由主教建立，大约在公元600年，一名渔夫看见圣彼得在泰晤士河现身，于是建立了该修道院。通常认为修道院可以追溯至公元960-970年间，主教邓斯坦和国王埃德加将笃修会的修士安顿在此。[NEWLINE][NEWLINE]忏悔者爱德华在1042至1052年间重建了这个修道院，并将其作为举办自己葬礼的教堂。这也是英格兰地区第一家诺曼罗马风格的教堂。教堂直到1090年才完成，但其修道院却在爱德华死前的前一周即1065年12月28日完工。他的继任者，哈罗德•葛温森有可能就是在这个修道院内举行的加冕仪式。但有记载的第一次加冕仪式是为征服者威廉举行的。目前的教堂是亨利三世在1245年建造的，随后修道院就一直作为诺曼王朝举行加冕仪式的场所，但该修道院一直没有举行过葬礼，直到亨利三世在此地举行他的葬礼。亨利甚至还在修道院内部修建了一座纪念爱德华国王的神庙。该建筑的施工断断续续的从1245年建到了1517年，最终理查德德二世委托亨利•耶维尔接受这项工程并将其建好。修道院西面的标志性塔楼是由尼古拉斯•霍克斯穆尔于1722-1745年间主持修建。经历了多次修复和建设才有了如今的威斯敏斯特大教堂。</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Language_en_US>
+		<!-- Description tags -->
+		<Row Tag="TXT_KEY_BUILDING_BENHADDOU">
+			<Text>阿伊特本哈杜杜</Text>
+		</Row>
+		<!-- Help tags -->
+		<Row Tag="TXT_KEY_WONDER_BENHADDOU_HELP">
+			<Text>每位[ICON_GREAT_ENGINEER][COLOR_YIELD_FOOD]工程师[ENDCOLOR]、[ICON_GREAT_SCIENTIST][COLOR_CYAN]科学家[ENDCOLOR]、[ICON_GREAT_MERCHANT][COLOR_YIELD_GOLD]商业家[ENDCOLOR]+2[ICON_PRODUCTION]产能产出。[NEWLINE][NEWLINE]城市必须建立在[ICON_PROMOTION_DESERT_WARRIOR]丘陵上，并额外研究[COLOR_CYAN]物理学[ENDCOLOR]科技。</Text>
+		</Row>
+		<!-- Quote tags -->
+		<Row Tag="TXT_KEY_WONDER_BENHADDOU_QUOTE">
+			<Text>[NEWLINE]“你不应该简单地把沙漠认作是一个偏远缺雨的地方，那里也会有多种需求。”[NEWLINE]        ——威廉·朗格维舍[NEWLINE]</Text>
+		</Row>
+		<!-- Pedia tags -->
+		<Row Tag="TXT_KEY_WONDER_BENHADDOU_PEDIA">
+			<Text>阿伊特本哈杜杜坐落于瓦尔扎扎特省马拉喀什的阿特拉斯山脚下。该地点守卫着一条穿越撒哈拉沙漠的重要路线，而其独特的南摩洛哥建筑体系和风格也让其闻名于世。据现有的少量证据表明，其建筑风格最早可追溯至十七世纪，这种南摩洛哥建筑风格最开始运用于当地山背和南方山谷的建筑上面。要塞的风格有很多种；大房子连着中央庭院，四周延伸处有角楼作为防御设施；在一些地区他们要塞是一个较矮的房子连接着庭院。作为摩洛哥建筑风格的代表，阿伊特本哈杜杜也曾出现在多部电影中出现，例如《拿撒勒的耶稣》、《盗墓迷城》、《角斗士》和《波斯王子》。</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

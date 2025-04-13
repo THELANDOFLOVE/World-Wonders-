@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Language_en_US>
+		<!-- Description tags -->
+		<Row Tag="TXT_KEY_BUILDING_TEMPLO">
+			<Text>特奥卡里大神庙</Text>
+		</Row>
+		<!-- Help tags -->
+		<Row Tag="TXT_KEY_WONDER_TEMPLO_HELP">
+			<Text>本城获得一座免费[ICON_PEACE]神庙，训练单位、建造奇观时额外+15%[ICON_PRODUCTION]产能。[NEWLINE][NEWLINE]每位[ICON_GREAT_ENGINEER][ICON_GREAT_SCIENTIST][ICON_GREAT_MERCHANT][ICON_GREAT_WRITER][ICON_GREAT_ARTIST][ICON_GREAT_MUSICIAN]专家+1[ICON_PEACE]信仰产出。</Text>
+		</Row>
+		<!-- Quote tags -->
+		<Row Tag="TXT_KEY_WONDER_TEMPLO_QUOTE">
+			<Text>[NEWLINE]“世间万物皆有尽头，而这当中最为喜悦的便是生命，呼吸停止，倒下，沉入神庙之下。”[NEWLINE]        ——内萨瓦尔科约特尔国王[NEWLINE]</Text>
+		</Row>
+		<!-- Pedia tags -->
+		<Row Tag="TXT_KEY_WONDER_TEMPLO_PEDIA">
+			<Text>特奥卡里大神庙是一座具有中美洲标志性风格的金字塔形神庙，位于古代阿兹特克首都即现今的墨西哥城附近。神庙内供奉着雨神与农业之神特拉洛克和太阳神与战神威济洛波奇特利两位主神。这也是这个大神庙中建有两间小神庭的原因。这里的人普遍认为蓝色代表雨神，而红色则代表太阳神。[NEWLINE][NEWLINE]神庙的具体建造日期至今人无法考究，但普遍认为神庙是建于十四世纪早期。阿兹特克每代统治着都扩建神庙，据统计神庙至少扩建了六次。[NEWLINE][NEWLINE]1521年，科尔特斯赫尔南带领的西班牙殖民者入侵阿兹特克之后，神庙遭到了损毁，他们便在该地修整生息。一名西班牙人坠入城市所建的湖中，这个地区也被泥沙所覆盖。随后他们便在这里建起了如今的墨西哥城。</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

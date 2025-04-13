@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<BuildingClasses>
+		<Row>
+			<Type>BUILDINGCLASS_GOLDEN_PAVILION</Type>
+			<DefaultBuilding>BUILDING_GOLDEN_PAVILION</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_GOLDEN_PAVILION</Description>
+			<MaxGlobalInstances>1</MaxGlobalInstances>
+		</Row>
+	</BuildingClasses>
+</GameData>

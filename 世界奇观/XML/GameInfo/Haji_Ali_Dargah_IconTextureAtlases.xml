@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<IconTextureAtlases>
+		<Row>
+			<Atlas>BW_ATLAS_HAJI_ALI_DARGAH</Atlas>
+			<IconSize>256</IconSize>
+			<Filename>HAJI_ALI_DARGAH_icon256.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>BW_ATLAS_HAJI_ALI_DARGAH</Atlas>
+			<IconSize>128</IconSize>
+			<Filename>HAJI_ALI_DARGAH_icon128.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>BW_ATLAS_HAJI_ALI_DARGAH</Atlas>
+			<IconSize>64</IconSize>
+			<Filename>HAJI_ALI_DARGAH_icon64.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>BW_ATLAS_HAJI_ALI_DARGAH</Atlas>
+			<IconSize>80</IconSize>
+			<Filename>HAJI_ALI_DARGAH_icon80.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>BW_ATLAS_HAJI_ALI_DARGAH</Atlas>
+			<IconSize>45</IconSize>
+			<Filename>HAJI_ALI_DARGAH_icon45.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+	</IconTextureAtlases>
+</GameData>

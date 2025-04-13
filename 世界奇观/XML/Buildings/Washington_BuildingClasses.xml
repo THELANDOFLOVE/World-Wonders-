@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<BuildingClasses>
+		<Row>
+			<Type>BUILDINGCLASS_WASHINGTON</Type>
+			<DefaultBuilding>BUILDING_WASHINGTON</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_WASHINGTON</Description>
+			<MaxGlobalInstances>1</MaxGlobalInstances>
+		</Row>
+		<Row>
+			<Type>BUILDINGCLASS_WASHINGTON_BOUNS</Type>
+			<DefaultBuilding>BUILDING_WASHINGTON_BOUNS</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_WASHINGTON_BOUNS</Description>
+		</Row>
+	</BuildingClasses>
+</GameData>

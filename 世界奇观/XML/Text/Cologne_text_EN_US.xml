@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Language_en_US>
+		<!-- Description tags -->
+		<Row Tag="TXT_KEY_BUILDING_COLOGNE">
+			<Text>科隆大教堂</Text>
+		</Row>
+		<!-- Help tags -->
+		<Row Tag="TXT_KEY_WONDER_COLOGNE_HELP">
+			<Text>本城获得一座免费[ICON_GREAT_ARTIST]大教堂。[NEWLINE][NEWLINE]建成奇观后，文明开启一次[ICON_GOLDEN_AGE]黄金时代。</Text>
+		</Row>
+		<!-- Quote tags -->
+		<Row Tag="TXT_KEY_WONDER_COLOGNE_QUOTE">
+			<Text>[NEWLINE]“古板的哥特式教堂真被人们日益增长的需求所转变。”[NEWLINE]        ——拉尔夫•沃尔多•埃默森[NEWLINE]</Text>
+		</Row>
+		<!-- Pedia tags -->
+		<Row Tag="TXT_KEY_WONDER_COLOGNE_PEDIA">
+			<Text>科隆大教堂是一座罗马天主教大教堂，其哥特式的建筑风格令人惊叹。大教堂是德国天主教的中心，同时也是世界文化遗产。科隆大教堂是当地天主教会的标志，同时也是德罗最具参观的地标性建筑之一。1248年教堂在原来罗马神庙和粮仓的遗址上动工建设，1473年教堂停止建设，直到400年后的十九世纪才算完工。在中世纪浪漫主义氛围和的共原本的建设计划的共同作用下，普鲁士法院不顾反对意见，坚持要完成教堂建设。1884年12月，科隆大教堂最终完工。在二十世纪初的两次世界大战期间，大教堂遭到了许多重大的破坏，而修理工作需要耗费几十年的时间才能完成。如今，科隆大教堂是德罗丰富的文化历史的一个象征，是德国以及其他地区许多基督徒的精神灯塔。</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

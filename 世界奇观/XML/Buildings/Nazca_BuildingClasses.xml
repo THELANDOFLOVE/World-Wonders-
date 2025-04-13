@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<BuildingClasses>
+		<Row>
+			<Type>BUILDINGCLASS_NAZCA</Type>
+			<DefaultBuilding>BUILDING_NAZCA</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_NAZCA</Description>
+			<MaxGlobalInstances>1</MaxGlobalInstances>
+		</Row>
+	</BuildingClasses>
+</GameData>

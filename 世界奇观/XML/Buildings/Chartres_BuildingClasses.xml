@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<BuildingClasses>
+		<Row>
+			<Type>BUILDINGCLASS_CHARTRES</Type>
+			<DefaultBuilding>BUILDING_CHARTRES</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_CHARTRES</Description>
+			<MaxGlobalInstances>1</MaxGlobalInstances>
+		</Row>
+		<Row>
+			<Type>BUILDINGCLASS_CHARTRES_DUMMY</Type>
+			<DefaultBuilding>BUILDING_CHARTRES_DUMMY</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_CHARTRES_DUMMY</Description>
+		</Row>
+	</BuildingClasses>
+</GameData>

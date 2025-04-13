@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Language_en_US>
+		<!-- Description tags -->
+		<Row Tag="TXT_KEY_BUILDING_PUUKOHOLA_HEIAU">
+			<Text>普吾可霍拉神庙</Text>
+		</Row>
+		<!-- Help tags -->
+		<Row Tag="TXT_KEY_WONDER_PUUKOHOLA_HEIAU_HELP">
+			<Text>本城+30[ICON_RES_MANPOWER]人力，所组建的[COLOR_POSITIVE_TEXT]作战单位[ENDCOLOR]+15[ICON_PROMOTION_SHOCK_3]初始经验。[NEWLINE][NEWLINE]城市必须沿海。</Text>
+		</Row>
+		<!-- Quote tags -->
+		<Row Tag="TXT_KEY_WONDER_PUUKOHOLA_HEIAU_QUOTE">
+			<Text>[NEWLINE]“大自然是神圣的，也是平凡的。”[NEWLINE]        ——卡美哈美哈一世[NEWLINE]</Text>
+		</Row>
+		<!-- Pedia tags -->
+		<Row Tag="TXT_KEY_WONDER_PUUKOHOLA_HEIAU_PEDIA">
+			<Text>普吾可霍拉神庙位于夏威夷岛西北的一座大型建筑，也被称为“大岛”，是夏威夷现存的早期寺庙。在经过八个月没有结果的战争之后，巫师卡胡纳下令建造这个神庙。普吾可霍拉神庙是一个给夏威夷的战争之神Kū-ka-ili-moku而建，希望能改变卡美哈美哈的命运。神庙是由人工将一块一块的岩石堆砌而成，据记载这些岩石都是从25千米（14英里）外的山谷运来。神庙完全靠手工建造，却花费了不到一年的时间便建成。1791年神庙建成之后，卡美哈美哈邀请他的表弟来到神庙这里签订和平条约。但他们来到神庙却中埋伏而全军覆没，这个事件也被称为卡韦哈伊屠杀。</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

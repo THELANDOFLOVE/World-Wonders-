@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<IconTextureAtlases>
+		<Row>
+			<Atlas>BW_ATLAS_GOLDEN_PAVILION</Atlas>
+			<IconSize>256</IconSize>
+			<Filename>GOLDEN_PAVILION_icon256.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>BW_ATLAS_GOLDEN_PAVILION</Atlas>
+			<IconSize>128</IconSize>
+			<Filename>GOLDEN_PAVILION_icon128.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>BW_ATLAS_GOLDEN_PAVILION</Atlas>
+			<IconSize>64</IconSize>
+			<Filename>GOLDEN_PAVILION_icon64.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>BW_ATLAS_GOLDEN_PAVILION</Atlas>
+			<IconSize>80</IconSize>
+			<Filename>GOLDEN_PAVILION_icon80.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>BW_ATLAS_GOLDEN_PAVILION</Atlas>
+			<IconSize>45</IconSize>
+			<Filename>GOLDEN_PAVILION_icon45.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+	</IconTextureAtlases>
+</GameData>

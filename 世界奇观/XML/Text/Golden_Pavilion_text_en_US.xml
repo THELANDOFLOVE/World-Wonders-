@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Language_en_US>
+		<!-- Description tags -->
+		<Row Tag="TXT_KEY_BUILDING_GOLDEN_PAVILION">
+			<Text>金阁寺</Text>
+		</Row>
+		<!-- Help tags -->
+		<Row Tag="TXT_KEY_WONDER_GOLDEN_PAVILION_HELP">
+			<Text>本城每名[ICON_CITIZEN]人口+1[ICON_GOLD]金币产出。</Text>
+		</Row>
+		<!-- Quote tags -->
+		<Row Tag="TXT_KEY_WONDER_GOLDEN_PAVILION_QUOTE">
+			<Text>[NEWLINE]“书中自有黄金屋。”[NEWLINE]        ——中国谚语[NEWLINE]</Text>
+		</Row>
+		<!-- Pedia tags -->
+		<Row Tag="TXT_KEY_WONDER_GOLDEN_PAVILION_PEDIA">
+			<Text>金阁寺（きんかくじ），正式名称为鹿苑寺（ろくおんじ），他最初作为足利家族第三代将军义满的私人别墅而修建的。他去世后，它被转换为他的儿子禅寺。[NEWLINE][NEWLINE]1950七月被焚毁的精神病患者和尚，造成了大规模的改造项目进行。装修花了五年时间，完成1955。在上两层外部覆盖了纯金的楼阁，给名为“金亭”，但是目前还不清楚是否黄金叶是在1950年前的版本。</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

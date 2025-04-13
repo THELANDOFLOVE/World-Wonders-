@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Language_en_US>
+		<!-- Description tags -->
+		<Row Tag="TXT_KEY_BUILDING_MATTERHORN">
+			<Text>马特洪峰</Text>
+		</Row>
+		<!-- Help tags -->
+		<Row Tag="TXT_KEY_WONDER_MATTERHORN_HELP">
+			<Text>本城获得一座免费[ICON_RESEARCH]极地科考站。[NEWLINE][NEWLINE]本城已开发的[COLOR_POSITIVE_TEXT]雪原[ENDCOLOR]地块+1[ICON_FOOD]食物、[ICON_PRODUCTION]产能、[ICON_RESEARCH]科研。[NEWLINE][NEWLINE]城市必须[ICON_PROMOTION_ALTITUDE_TRAINING]靠山且邻近雪原。</Text>
+		</Row>
+		<!-- Quote tags -->
+		<Row Tag="TXT_KEY_WONDER_MATTERHORN_QUOTE">
+			<Text>[NEWLINE]“爬过一座山之后，才发现原来还有更多的山要爬。”[NEWLINE]        ——纳尔逊·曼德拉[NEWLINE]</Text>
+		</Row>
+		<!-- Pedia tags -->
+		<Row Tag="TXT_KEY_WONDER_MATTERHORN_PEDIA">
+			<Text>马特洪峰位于瑞士边境，邻接阿尔卑斯山脉大山。它高4478米，是欧洲最具标志性的冰雪高峰。策马特附近的瑞士小镇以此山为中心发展旅游业，其特色是马特洪峰博物馆。在这里可以看到通过列车和缆车所看到的更好的山景。[换行] [换行]在欧洲的黄金时期开始了对马特洪峰的攀登。第一次爬上是在1865年6月14日，成员为英国的7名登山者。虽然这很光荣，但是在下山时他们遭遇了意外，其中一人一直没有被发现。此后多年来，马特洪峰始终作为为登山者的噩梦而存在着。</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Language_en_US>
+		<!-- Description tags -->
+		<Row Tag="TXT_KEY_BUILDING_TODAIJI">
+			<Text>东大寺</Text>
+		</Row>
+		<!-- Help tags -->
+		<Row Tag="TXT_KEY_WONDER_TODAIJI_HELP">
+			<Text>本城开发的每处[ICON_RES_DEER][ICON_RES_HORSE][ICON_RES_COW][ICON_RES_SHEEP][ICON_RES_FISH][ICON_RES_WHALE][ICON_RES_IVORY][ICON_RES_FUR][ICON_RES_CRAB][ICON_RES_TRUFFLES][ICON_RES_PEARL][ICON_RES_BISON]动物资源+1[ICON_PEACE]信仰产出。[NEWLINE][NEWLINE]当研究[COLOR_CYAN]建筑设计学[ENDCOLOR]后+6[ICON_TOURISM]魅力产出。[NEWLINE][NEWLINE]城市必须邻近淡水。</Text>
+		</Row>
+		<!-- Quote tags -->
+		<Row Tag="TXT_KEY_WONDER_TODAIJI_QUOTE">
+			<Text>[NEWLINE]“溪声尽是广长舌，山色无非清净身。夜来八万四千偈，他日如何举似人。”[NEWLINE]        ——道元和尚[NEWLINE]</Text>
+		</Row>
+		<!-- Pedia tags -->
+		<Row Tag="TXT_KEY_WONDER_TODAIJI_PEDIA">
+			<Text>东大寺是日本奈良市的一个佛教寺庙。其大佛殿显示世界上最大的佛毗卢遮那佛铜像和作为在中国佛教华严宗总部。梅花鹿自由地游荡；他们是神道教的神的信使。[NEWLINE][NEWLINE]该寺遗址建于728由皇帝圣武作为他的第一个儿子陪伴komyoshi，王子基绥靖，谁死在他出生后一年。这之后，造成了严重的破坏tenpyo时代和流行。这些促使圣武促进寺庙在日本建设省。然后已知kinshosen吉，圣武任命东大寺大和省寺和所有寺庙的头。复杂的保持在全省的影响和其他的日本直到日本奈良佛教从比睿山和日本的首都迁至镰仓第九世纪中叶。[NEWLINE][NEWLINE]许多复杂的功能结构，所有上诉到花园的设计美学。在其历史上的别墅旁边的东大寺已经成为复杂的部分，其中一些是向公众开放的观景。在复杂的房屋的一些建筑杰作；包括nigatsu做第二个月的大厅和杰出daibutsuden大佛殿。</Text>
+		</Row>
+	</Language_en_US>
+</GameData>
