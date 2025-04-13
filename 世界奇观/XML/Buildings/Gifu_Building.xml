@@ -99,7 +99,7 @@
 			<FlavorType>FLAVOR_WONDER</FlavorType>
 			<Flavor>100</Flavor>
 		</Row>
-		<Row>
+		<!-- <Row>
 			<BuildingType>BUILDING_GIFU</BuildingType>
 			<FlavorType>FLAVOR_DEFENCE</FlavorType>
 			<Flavor>50</Flavor>
@@ -108,7 +108,7 @@
 			<BuildingType>BUILDING_GIFU</BuildingType>
 			<FlavorType>FLAVOR_EXPANTION</FlavorType>
 			<Flavor>300</Flavor>
-		</Row>
+		</Row> -->
 	</Building_Flavors>
 	
 	<Civilization_BuildingClassOverrides>
