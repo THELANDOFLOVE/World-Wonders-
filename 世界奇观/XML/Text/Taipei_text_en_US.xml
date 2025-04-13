@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Language_en_US>
+		<!-- Description tags -->
+		<Row Tag="TXT_KEY_BUILDING_TAIPEI">
+			<Text>台北101大厦</Text>
+		</Row>
+		<!-- Help tags -->
+		<Row Tag="TXT_KEY_WONDER_TAIPEI_HELP">
+			<Text>本城+40[ICON_GOLD]金币产出，并获得一座免费[ICON_GOLD]金融公司。[NEWLINE][NEWLINE]每名[ICON_CITIZEN]人口+2[ICON_GOLD]金币产出。</Text>
+		</Row>
+		<!-- Quote tags -->
+		<Row Tag="TXT_KEY_WONDER_TAIPEI_QUOTE">
+			<Text>[NEWLINE]“两位(指马英九与蔡英文)从头骂来骂去，不但在这边骂，还花几百万元登广告骂，台湾民众期盼谁来好好解决问题，而不是辩论谁是清的谁是白的。”[NEWLINE]        ——宋楚瑜[NEWLINE]</Text>
+		</Row>
+		<!-- Pedia tags -->
+		<Row Tag="TXT_KEY_WONDER_TAIPEI_PEDIA">
+			<Text>台北101大厦是一栋位于台湾台北的金融大厦。在2004-2010年期间，它一直占据着世界第一高楼的头衔，但随后便被哈利法塔所超越。一个巨大的调谐质块阻尼器被安装在大厦的第八十七至九十一层这五层楼中，以防止突如其来的强风给大楼带来的损坏。这座大厦的设计也具有象征意义，大厦的整体造型不仅如同一个带投影的巨大日晷，而且整座大楼也分为8段，每段8层。传统认为8是一个幸运数字，同时大楼的设计还参考了中国古代宝塔的设计样式。</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

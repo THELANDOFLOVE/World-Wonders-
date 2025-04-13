@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<UnitPromotions>
+		<!--cannot be chosen-->
+		<Row>
+			<Type>PROMOTION_GIFU</Type>
+			<Description>TXT_KEY_PROMOTION_GIFU</Description>
+			<Help>TXT_KEY_PROMOTION_GIFU_HELP</Help>
+			<Sound>AS2D_IF_LEVELUP</Sound>
+			<CannotBeChosen>true</CannotBeChosen>
+			<OutsideFriendlyLandsModifier>15</OutsideFriendlyLandsModifier>
+			<PortraitIndex>59</PortraitIndex>
+			<IconAtlas>PROMOTION_ATLAS</IconAtlas>
+			<PediaType>PEDIA_SHARED</PediaType>
+			<PediaEntry>TXT_KEY_PROMOTION_GIFU</PediaEntry>
+		</Row>
+		
+		<Row>
+			<Type>PROMOTION_THREE_STRIKES</Type>
+			<Description>TXT_KEY_PROMOTION_THREE_STRIKES</Description>
+			<Help>TXT_KEY_PROMOTION_THREE_STRIKES_HELP</Help>
+			<Sound>AS2D_IF_LEVELUP</Sound>
+			<ExtraAttacks>1</ExtraAttacks>
+			<!--攻击次数加成-->
+			<CanMoveAfterAttacking>true</CanMoveAfterAttacking>
+			<!--允许攻击后移动-->
+			<PortraitIndex>15</PortraitIndex>
+			<IconAtlas>SP_PROMOTION_OLD_ATLAS</IconAtlas>
+			<PediaType>PEDIA_ATTRIBUTES</PediaType>
+			<PediaEntry>TXT_KEY_PROMOTION_THREE_STRIKES</PediaEntry>
+			<CannotBeChosen>true</CannotBeChosen>
+		</Row>
+	</UnitPromotions>
+	
+	<UnitPromotions_UnitCombatMods>
+		<Row>
+			<PromotionType>PROMOTION_THREE_STRIKES</PromotionType>
+			<UnitCombatType>UNITCOMBAT_MOUNTED</UnitCombatType>
+			<Modifier>150</Modifier>
+		</Row>
+	</UnitPromotions_UnitCombatMods>
+	
+	<UnitPromotions_UnitCombats>
+		<Row>
+			<PromotionType>PROMOTION_GIFU</PromotionType>
+			<UnitCombatType>UNITCOMBAT_RECON</UnitCombatType>
+		</Row>
+		<Row>
+			<PromotionType>PROMOTION_GIFU</PromotionType>
+			<UnitCombatType>UNITCOMBAT_MOUNTED</UnitCombatType>
+		</Row>
+		<Row>
+			<PromotionType>PROMOTION_GIFU</PromotionType>
+			<UnitCombatType>UNITCOMBAT_MELEE</UnitCombatType>
+		</Row>
+		<Row>
+			<PromotionType>PROMOTION_GIFU</PromotionType>
+			<UnitCombatType>UNITCOMBAT_SIEGE</UnitCombatType>
+		</Row>
+		<Row>
+			<PromotionType>PROMOTION_GIFU</PromotionType>
+			<UnitCombatType>UNITCOMBAT_GUN</UnitCombatType>
+		</Row>
+		<Row>
+			<PromotionType>PROMOTION_GIFU</PromotionType>
+			<UnitCombatType>UNITCOMBAT_ARMOR</UnitCombatType>
+		</Row>
+		<Row>
+			<PromotionType>PROMOTION_GIFU</PromotionType>
+			<UnitCombatType>UNITCOMBAT_HELICOPTER</UnitCombatType>
+		</Row>
+		<Row>
+			<PromotionType>PROMOTION_GIFU</PromotionType>
+			<UnitCombatType>UNITCOMBAT_NAVALRANGED</UnitCombatType>
+		</Row>
+		<Row>
+			<PromotionType>PROMOTION_GIFU</PromotionType>
+			<UnitCombatType>UNITCOMBAT_NAVALMELEE</UnitCombatType>
+		</Row>
+		<Row>
+			<PromotionType>PROMOTION_GIFU</PromotionType>
+			<UnitCombatType>UNITCOMBAT_SUBMARINE</UnitCombatType>
+		</Row>
+		<Row>
+			<PromotionType>PROMOTION_GIFU</PromotionType>
+			<UnitCombatType>UNITCOMBAT_BOMBER</UnitCombatType>
+		</Row>
+		
+		<Row>
+			<PromotionType>PROMOTION_THREE_STRIKES</PromotionType>
+			<UnitCombatType>UNITCOMBAT_MELEE</UnitCombatType>
+		</Row>
+	</UnitPromotions_UnitCombats>
+</GameData>

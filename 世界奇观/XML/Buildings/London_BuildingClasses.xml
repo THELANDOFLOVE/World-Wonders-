@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<BuildingClasses>
+		<Row>
+			<Type>BUILDINGCLASS_LONDON</Type>
+			<DefaultBuilding>BUILDING_LONDON</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_LONDON</Description>
+			<MaxGlobalInstances>1</MaxGlobalInstances>
+		</Row>
+	</BuildingClasses>
+</GameData>

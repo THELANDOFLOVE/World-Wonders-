@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Language_en_US>
+		<!-- Description tags -->
+		<Row Tag="TXT_KEY_BUILDING_WARTBURG">
+			<Text>瓦尔特堡</Text>
+		</Row>
+		<!-- Help tags -->
+		<Row Tag="TXT_KEY_WONDER_WARTBURG_HELP">
+			<Text>本城获得一座免费[ICON_STRENGTH]城堡。[NEWLINE][NEWLINE]免费获得一项[COLOR_MAGENTA]社会政策[ENDCOLOR]，在其杰作展位中已经收藏有一件文学杰作《九十五条论纲》。[NEWLINE][NEWLINE]城市必须建立在[ICON_PROMOTION_DESERT_WARRIOR]丘陵上。</Text>
+		</Row>
+		<!-- Quote tags -->
+		<Row Tag="TXT_KEY_WONDER_WARTBURG_QUOTE">
+			<Text>[NEWLINE]"大山你等着，你迟早成为我的城堡！"[NEWLINE]        ——路德•因德史宾格[NEWLINE]</Text>
+		</Row>
+		<!-- Pedia tags -->
+		<Row Tag="TXT_KEY_WONDER_WARTBURG_PEDIA">
+			<Text>瓦尔特堡是一座用以监视弗莱堡镇的前沿防御工事。1086年，路德维希伯爵委托建造了这座城堡，也就是那个放出“大山你等着，你迟早成为我的城堡！”这句豪言的人。伯爵宣称城堡是由其领土的泥土建成的，所以如果有人问他如何建设城堡，他都会会打城堡来源于他的土地。[NEWLINE][NEWLINE]城堡也作为做礼拜的场所，多位重要的宗教人物都曾在该地生活多包括马丁•路德，他便是在这个城堡里将新约翻译成现代的语言。城堡也是“瓦尔特堡节”的举办地在1817年10月18日，以纪念德国赢得拿破仑战争的胜利。</Text>
+		</Row>
+		<!--Great Work tags-->
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_NINETY_FIVE_THESES">
+			<Text>"为什么不是教皇。他的财产富可敌国，而用来建造圣彼得大教堂的钱不是来源于那些贫困的信徒们？"</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_NINETY_FIVE_THESES">
+			<Text>九十五条论纲</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

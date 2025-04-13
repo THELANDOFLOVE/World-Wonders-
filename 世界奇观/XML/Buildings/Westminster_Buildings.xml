@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Buildings>
+		<Row>
+			<Type>BUILDING_WESTMINSTER</Type>
+			<!--威斯敏斯特大教堂-->
+			<BuildingClass>BUILDINGCLASS_WESTMINSTER</BuildingClass>
+			<!--建筑类型-->
+			<Description>TXT_KEY_BUILDING_WESTMINSTER</Description>
+			<!--名称文本词条-->
+			<Help>TXT_KEY_WONDER_WESTMINSTER_HELP</Help>
+			<!--信息文本词条-->
+			<Civilopedia>TXT_KEY_WONDER_WESTMINSTER_PEDIA</Civilopedia>
+			<!--历史文本词条-->
+			<Quote>TXT_KEY_WONDER_WESTMINSTER_QUOTE</Quote>
+			<!--奇观独有文本词条-->
+			<Cost>350</Cost>
+			<!--建造花费-->
+			<PrereqTech>TECH_CHIVALRY</PrereqTech>
+			<!--所需科技骑士制度-->
+			<SpecialistType>SPECIALIST_ENGINEER</SpecialistType>
+			<!--砖家类型工程师-->
+			<GreatPeopleRateChange>3</GreatPeopleRateChange>
+			<!--砖家点数增幅-->
+			<NukeImmune>true</NukeImmune>
+			<!--不会被核弹摧毁-->
+			<HurryCostModifier>-1</HurryCostModifier>
+			<!--购买参数，-1为不可购买-->
+			<MinAreaSize>-1</MinAreaSize>
+			<!--无需邻湖邻海-->
+			<ConquestProb>100</ConquestProb>
+			<!--征服奖金-->
+			<FreeBuildingThisCity>BUILDINGCLASS_CATHEDRAL</FreeBuildingThisCity>
+			<!--无偿建筑大教堂-->
+			<IconAtlas>BW_ATLAS_WESTMINSTER</IconAtlas>
+			<!--图标取材-->
+			<PortraitIndex>0</PortraitIndex>
+			<!--图标取材顺序-->
+			<WonderSplashImage>WESTMINSTER_splash.dds</WonderSplashImage>
+			<!--奇观建成图片-->
+			<WonderSplashAnchor>L,B</WonderSplashAnchor>
+		</Row>
+	</Buildings>
+	
+	<Building_ResourceQuantityRequirements>
+	<!--战略资源消耗-->
+		<Row>
+			<BuildingType>BUILDING_WESTMINSTER</BuildingType>
+			<!--关联建筑威斯敏斯特大教堂-->
+			<ResourceType>RESOURCE_MANPOWER</ResourceType>
+			<!--资源类型人力-->
+			<Cost>4</Cost>
+		</Row>
+	</Building_ResourceQuantityRequirements>
+	
+	<Building_YieldChanges>
+	<!--建筑基础产量-->
+		<Row>
+			<BuildingType>BUILDING_WESTMINSTER</BuildingType>
+			<!--关联建筑威斯敏斯特大教堂-->
+			<YieldType>YIELD_FAITH</YieldType>
+			<!--信仰加成-->
+			<Yield>4</Yield>
+		</Row>
+	</Building_YieldChanges>
+	
+	<Building_Flavors>
+	<!--ai建造参考数值，对玩家没用-->
+		<Row>
+			<BuildingType>BUILDING_WESTMINSTER</BuildingType>
+			<FlavorType>FLAVOR_CULTURE</FlavorType>
+			<Flavor>200</Flavor>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_WESTMINSTER</BuildingType>
+			<FlavorType>FLAVOR_WONDER</FlavorType>
+			<Flavor>60</Flavor>
+		</Row>
+	</Building_Flavors>
+	
+</GameData>

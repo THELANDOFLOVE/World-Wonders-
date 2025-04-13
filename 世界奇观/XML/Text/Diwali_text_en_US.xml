@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Language_en_US>
+		<!-- Description tags -->
+		<Row Tag="TXT_KEY_BUILDING_ABER">
+			<Text>琥珀堡</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_HARMANDIR">
+			<Text>哈曼迪尔寺</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_HAWA">
+			<Text>哈瓦寺陵</Text>
+		</Row>
+		<!-- Help tags -->
+		<Row Tag="TXT_KEY_WONDER_ABER_HELP">
+			<Text>所有[ICON_FOOD][COLOR_POSITIVE_TEXT]粮食建筑[ENDCOLOR]额外+3[ICON_FOOD]食物产出。[NEWLINE][NEWLINE]城市必须建立在[ICON_PROMOTION_DESERT_WARRIOR]丘陵上。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_HARMANDIR_HELP">
+			<Text>每位[ICON_GREAT_MERCHANT][COLOR_YIELD_GOLD]商业家[ENDCOLOR]+2[ICON_CULTURE]文化产出。[NEWLINE][NEWLINE]本城提供两名[ICON_GREAT_ARTIST][COLOR_MAGENTA]美术家[ENDCOLOR]席位。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_HAWA_HELP">
+			<Text>建造该奇观的城市附近出现一位[ICON_GREAT_ENGINEER]大工程师。</Text>
+		</Row>
+		<!-- Quote tags -->
+		<Row Tag="TXT_KEY_WONDER_ABER_QUOTE">
+			<Text>[NEWLINE]“以虞待不虞者胜。”[NEWLINE]        ——孙子[NEWLINE]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_HARMANDIR_QUOTE">
+			<Text>[NEWLINE]“和平的人永远是幸福的。”[NEWLINE]        ——斯里兰卡锡金圣典[NEWLINE]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_HAWA_QUOTE">
+			<Text>[NEWLINE]“智慧的风帆和时间。”[NEWLINE]        ——约翰弗洛里奥[NEWLINE]</Text>
+		</Row>
+		<!-- Pedia tags -->
+		<Row Tag="TXT_KEY_WONDER_ABER_PEDIA">
+			<Text>离斋浦尔城区不到七英里的琥珀堡曾经是斋浦尔国的古都。建在山上的王人辛格我，琥珀堡是其艺术风格和建筑融合印度教和拉其普特热门景点。堡垒俯瞰在一个森林希尔maota湖。中世纪的印度，在被称为美国的统治dhundar kachwahas，堡垒建于1592由王人辛格我的早期结构的残余，指挥官的阿克巴大帝的军队和皇帝的内圈成员。他的后裔，Jai Singh我琥珀堡进一步扩大。超越然后琥珀堡继续进一步提高每一个统治者之后，在接下来的150年，直到kachwahas移资本斋浦尔Sawai Jai Singh二世在位期间1727。[NEWLINE][NEWLINE]许多原始建筑的中世纪时期已被摧毁的更换，第十六世纪的大厦然而，宫殿内建的拉杰普特王公保存得很好。琥珀堡是分为四个部分，每一个都有自己的门庭。主入口是“苏拉极”太阳门导致第一庭院。军队举行胜利游行在他们的赏金门。门是专为保护目的，卫戍部队张贴固定主入宫，和门本身朝东迎接太阳，它的名字。第一庭院通向宫殿和庙宇以及resplendant Ganesh门进入宫殿。第二四合院公共大殿；王举行观众听取信访。Ganesh门打开到第三院子里的皇室家族的私人住所和仆人都。该院拥有两个建筑物分离但花园用同样的蒙兀儿花园。两建筑“胜利厅”，俗称玻璃宫殿或镜子宫殿和“休闲会所”或该玛哈-娱乐大厅。镜宫是著名的美丽的玻璃板和镜面图案的天花板。第四进院落是皇室妇女居住，显示一些起居室沿公共走廊。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_HARMANDIR_PEDIA">
+			<Text>哈曼迪尔寺在印度旁遮普邦安姆利沙，她是锡克教的最重要圣地，每日朝圣者络绎不绝。因为她的寺顶同寺门都是用金箔装饰，所以她有个别称叫做──“金庙”。[NEWLINE][NEWLINE]金庙是由锡克教第三世祖师阿玛尔在收到印度皇帝御赐给他一大片封地之后不久而开始盖起，在他圆寂之前交给第四世祖师拉姆接手盖，随后又相传到第五世祖师阿尔琼手上，终于到了1601年大功告成。到1802年辛格国王派人将寺顶铺金，就变成了今日的金庙。[NEWLINE][NEWLINE]金庙里面有很多稀世珍品，每年仅开放一次让人们进去参观。另外金庙又是作为锡克教的宗教同政治中心，据传闻有时候一些恐布份子匿藏在里面，所以受到印度政府的高度关注。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_HAWA_PEDIA">
+			<Text>哈瓦陵位于斋浦尔城的宫殿。建于1799的王公Sawai Pratap Singh，建筑师拉尔查德音乐大师设计的结构从印度教神克里希纳皇冠。953窗户的设计，被称为“jharokhas’，也比蜂窝的蜂窝。在窗户上的格子原来的想法是让宫女来查看下面的街道上没有自己看到的，观察严格的“深闺”，脸覆盖。Sawai Pratap Singh的祖父，Sawai Jai Singh成立斋浦尔1727。沙哇依普拉塔辛格哈瓦玛哈建造的皇家宫殿和城市扩张，普拉塔辛格是一个虔诚的信徒khrishna，这有助于建设为mukuta设计，khrishna的首饰。[NEWLINE][NEWLINE]虽然没有具体的历史证据，认为王室女性，具有观察帷幕，有机会见证市场和皇家游行背后的石头雕刻的屏幕交易。风之宫殿也被王室从斋浦尔炎热的天气撤退，异常设计了Windows提供了一个凉爽的微风和通风。五层的风之宫殿升起从最高的三层有只有一个房间的尺寸为50英尺，底部两层有露台在结构的背。建筑的前立面形状由半八角形托架设计制造，其独特的脸，而建筑的背面保留需要有柱子和走廊到达顶层的房间。在风之宫殿被描述为“具有不同颜色的大理石镶嵌的房间，松了一口气；而喷泉点缀庭院的中心”。[NEWLINE][NEWLINE]拉尔查德Ustad也计划在斋浦尔成立，当时考虑的一个最好的印度城市规划。风之宫殿的红色和粉红色的砂岩反映了其他的纪念碑和斋浦尔的绰号为“粉红之城”。是的拉其普特人和儿建筑融合反射；用圆顶檐普特风格的使用和有凹槽的柱子，和蒙兀儿风格石镶嵌精致的物品和拱门。</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

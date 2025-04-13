@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Language_en_US>
+		<!-- Description tags -->
+		<Row Tag="TXT_KEY_BUILDING_MARIA">
+			<Text>感恩圣母堂</Text>
+		</Row>
+		<!-- Help tags -->
+		<Row Tag="TXT_KEY_WONDER_MARIA_HELP">
+			<Text>本城获得一座免费[ICON_GREAT_PEOPLE]修道院。[NEWLINE][NEWLINE]全国[ICON_HAPPINESS_1]快乐+5，在其杰作展位中已收藏有一件世界名作《最后的晚餐》。[NEWLINE][NEWLINE]城市必须为[ICON_RELIGION]圣城。</Text>
+		</Row>
+		<!-- Quote tags -->
+		<Row Tag="TXT_KEY_WONDER_MARIA_QUOTE">
+			<Text>[NEWLINE]“没有失败，无论是爱还是钱，是有史以来简单;它是一团阴影，共同希望的永远是一种背叛。”[NEWLINE]        ——格雷尔·马库斯[NEWLINE]</Text>
+		</Row>
+		<!-- Pedia tags -->
+		<Row Tag="TXT_KEY_WONDER_MARIA_PEDIA">
+			<Text>感恩圣母堂（意为圣母玛利亚）是一座位于意大利米兰多明我会的女修道院，因食堂中收藏莱奥纳多·达·芬奇的名画《最后的晚餐》而闻名。《最后的晚餐》绘制在修道院的餐厅墙壁上，画于1494-1498年。达·芬奇以其作为科学家的深厚造诣，大胆打破常规的绘画技巧，创造了独特的透视效果。但是，由于这是一幅油画而非传统湿壁画，非常容易受到外界环境的侵蚀，数百年来曾多次进行修复，以致面目全非。1999年，艺术家和科学家对其进行了大规模修复，恢复原有色彩，并且去除了之前修复时覆盖的颜料，使之最大程度恢复了本来面目。</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_GREAT_WORK_JESUS_SUPPER">
+			<Text>最后的晚餐</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

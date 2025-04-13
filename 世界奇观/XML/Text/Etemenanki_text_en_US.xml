@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Language_en_US>
+		<!-- Description tags -->
+		<Row Tag="TXT_KEY_BUILDING_ETEMENANKI">
+			<Text>埃特梅南奇</Text>
+		</Row>
+		<!-- Help tags -->
+		<Row Tag="TXT_KEY_WONDER_ETEMENANKI_HELP">
+			<Text>本城获得一座免费[ICON_PEACE]神庙。[NEWLINE][NEWLINE][ICON_GOLDEN_AGE]黄金时代持续时间延长33%，所有[ICON_CITYBANNER_CITY_LV1]一级城市和[ICON_CITYBANNER_CITY_LV2]二级城市额外+3[ICON_GOLDEN_AGE]黄金时代点数。[NEWLINE][NEWLINE]奇观必须建造于[ICON_CAPITAL]首都。</Text>
+		</Row>
+		<!-- Quote tags -->
+		<Row Tag="TXT_KEY_WONDER_ETEMENANKI_QUOTE">
+			<Text>[NEWLINE]“通往顶层的阶梯暴露在外，从高到低贯穿整座塔楼。大约爬到一半时，有一处提供休息的场所，人们可以在那里坐上一段时间。塔顶有一座宽敞的庙宇，庙内有一张大小不一的榻，装饰华美，旁边放着一张金桌。”[NEWLINE]        ——希罗多德[NEWLINE]</Text>
+		</Row>
+		<!-- Pedia tags -->
+		<Row Tag="TXT_KEY_WONDER_ETEMENANKI_PEDIA">
+			<Text>埃特梅南奇是公元前6世纪新巴比伦王朝巴比伦城中献给马尔杜克的一座大塔庙。原高91米，现仅存于废墟中。埃特梅南奇被认为是圣经故事中巴别塔的灵感来源。</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Language_en_US>
+		<!-- Description tags -->
+		<Row Tag="TXT_KEY_BUILDING_MESAVERDE">
+			<Text>梅萨维德</Text>
+		</Row>
+		<!-- Help tags -->
+		<Row Tag="TXT_KEY_WONDER_MESAVERDE_HELP">
+			<Text>本城+25%[ICON_GREAT_PEOPLE]伟人诞生速率，[COLOR_MAGENTA]传统政策[ENDCOLOR]额外+4[ICON_FOOD]食物。[NEWLINE][NEWLINE]本城已开发的[COLOR_POSITIVE_TEXT]沙漠[ENDCOLOR]地块+1[ICON_FOOD]食物产出。[NEWLINE][NEWLINE]城市必须建立在邻近沙漠的[ICON_PROMOTION_DESERT_WARRIOR]丘陵上。 </Text>
+		</Row>
+		<!-- Quote tags -->
+		<Row Tag="TXT_KEY_WONDER_MESAVERDE_QUOTE">
+			<Text>[NEWLINE]“城市在本质上是一个事实，像一个洞穴，鱼塘或者蚂蚁堆。但它也是一个有意识的艺术作品，它比公共框架拥有许多更简单、更个人的艺术形式。反过来，头脑中形成的城市也正是城市形态下的思想。”[NEWLINE]        ——刘易斯芒福德[NEWLINE]</Text>
+		</Row>
+		<!-- Pedia tags -->
+		<Row Tag="TXT_KEY_WONDER_MESAVERDE_PEDIA">
+			<Text>梅萨维德国家公园是美国科罗拉多州的大面积遗迹的名称，曾经是一个大型普韦布洛印第安人文明栖息地。现在该地区的印第安人被认为已经灭绝，他们在12-13世纪前达到高峰，但由于气候变化和人口增长他们在12世纪后衰颓消亡。其中梅萨维德最具标志性的地点是悬崖宫殿，在1906年辟为国家公园 ，并设立了专门管理机构。  </Text>
+		</Row>
+	</Language_en_US>
+</GameData>

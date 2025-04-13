@@ -1,0 +1,1194 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="9a0bf8cb-22c6-4463-8e28-ad526a672fca" version="4">
+  <Properties>
+    <Name>世界奇观合集</Name>
+    <Teaser>仅适用于SP超级大国模组，原作者弃坑因此本人进行后续维护工作</Teaser>
+    <Description>有BUG请于群里@我</Description>
+    <Authors>herowolves</Authors>
+	<HideSetupGame>0</HideSetupGame>
+	<AffectsSavedGames>1</AffectsSavedGames>
+	<MinCompatibleSaveVersion>1</MinCompatibleSaveVersion>
+	<SupportsSinglePlayer>1</SupportsSinglePlayer>
+	<SupportsMultiplayer>1</SupportsMultiplayer>
+	<SupportsHotSeat>1</SupportsHotSeat>
+	<SupportsMac>1</SupportsMac>
+	<ReloadAudioSystem>1</ReloadAudioSystem>
+	<ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+	<ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+	<ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies>
+    <Mod id="f9b9c8aa-b6d1-4188-9239-c1de2207ab7c" minversion="7" maxversion="999" title="Super Power - Remaking of World Order" />
+  </Dependencies>
+  <References>
+    <Mod id="f9b9c8aa-b6d1-4188-9239-c1de2207ab7c" minversion="7" maxversion="999" title="Super Power - Remaking of World Order" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="2250E6CBDCE36EBA35D538475AB41841" import="1">Art/GIFU128.dds</File>
+    <File md5="C8ECB6EC6D5439A63500BD5487F48672" import="1">Art/GIFU256.dds</File>
+    <File md5="A6447DCA251D3BF57BB0A09C7D9E2861" import="1">Art/GIFU45.dds</File>
+    <File md5="7EEB07C8CF172ED72F43E422D0045BF2" import="1">Art/GIFU64.dds</File>
+    <File md5="C3D606355B3801CBEFCA041C2D8C4FD2" import="1">Art/GIFU80.dds</File>
+    <File md5="758197A11F75EF7FF2DD06AE60E121FD" import="1">Art/GIFU_splash.dds</File>
+    <File md5="3277B6F3A47436A8754EA56A3DA5742E" import="0">XML/Buildings/Gifu_Building.xml</File>
+    <File md5="E1C243D152A8EB81151240C22CA255B0" import="0">XML/Gameinfo/Gifu_IconAtlas.xml</File>
+    <File md5="7177381F35B7D588072C10B3F2E32335" import="0">XML/Text/Gifu_text_en_US.xml</File>
+    <File md5="3C4E64F75F962DED455A85AF6E57122A" import="0">XML/Units/Gifu_UnitPromotions.xml</File>
+	<File md5="D61E96383F4A9B9760CF03DBBD447AE8" import="0">XML/Units/Unit_Ashigaru.xml</File>
+	<File md5="6C74BE4D44E08112DF2F57C3B611959E" import="1">Art/Ashigaru/Ashigaru_Unit_IconAtlas_032.dds</File>
+    <File md5="AC29804BC0E40FCD64A635129609A32A" import="1">Art/Ashigaru/Ashigaru_Unit_IconAtlas_045.dds</File>
+    <File md5="4CE0099B649CC000DAEB24E0DD8F200B" import="1">Art/Ashigaru/Ashigaru_Unit_IconAtlas_064.dds</File>
+    <File md5="02D37EC7BE899F28453E0AF833ACE160" import="1">Art/Ashigaru/Ashigaru_Unit_IconAtlas_080.dds</File>
+    <File md5="1FBF439A5492C5456124E3C63A41692C" import="1">Art/Ashigaru/Ashigaru_Unit_IconAtlas_128.dds</File>
+    <File md5="865E39A9765F324EF41611306AD4A246" import="1">Art/Ashigaru/Ashigaru_Unit_IconAtlas_256.dds</File>
+	<File md5="40654D4019FB587924C4E913BB17E326" import="1">Art/Ashigaru/Ashigaru_Flag.dds</File>
+	<File md5="B7A97B89D7A6960FB3DC8E951485E77F" import="1">Art/Ashigaru/Ashigaru_1.dds</File>
+    <File md5="08E78BA3D0BD1E4A4F7160BC39D56053" import="1">Art/Ashigaru/Ashigaru_1.fxsxml</File>
+    <File md5="E103F706CD15ECFF12B77E4E5D147723" import="1">Art/Ashigaru/Ashigaru_1.gr2</File>
+
+	<File md5="7C89B4BFD9ABF536847B1CFB967C1D71" import="1">Art/WhiteSands_128.dds</File>
+	<File md5="444A6658B2EDF775ED632ADC4B0B34C2" import="1">Art/WhiteSands_256.dds</File>
+	<File md5="F49B25CD3CFC642B7507BF16FD3A929C" import="1">Art/WhiteSands_45.dds</File>
+	<File md5="91B9F2FF7F6CEC80068912C8E65208EE" import="1">Art/WhiteSands_64.dds</File>
+	<File md5="C5666E7B77FD76AA844982DFEE592AB4" import="1">Art/WhiteSands_Splash.dds</File>
+	<File md5="03913F94FD9A7A55F47A0D24FCB3CFBB" import="0">XML/Buildings/WhiteSands_BuildingClasses.xml</File>
+	<File md5="7A67CA5380028B3EBD7B5B0F765BFF89" import="0">XML/Buildings/WhiteSands_Buildings.xml</File>
+	<File md5="7298830E35722987FCD13938BD6DF70A" import="0">XML/Civilizations/WhiteSands_Civilizations.xml</File>
+	<File md5="A596DB3E8F2E370C3AB9984777BA2B46" import="0">XML/GameInfo/WhiteSands_IconTextureAtlases.xml</File>
+	<File md5="DF3E11E97D7240521D55E006FF8E5835" import="0">XML/Text/WhiteSands_text_en_US.xml</File>
+
+	<File md5="8921DDF78F16782BA24DE3E48DD332A3" import="1">Art/FR_128.dds</File>
+	<File md5="17B844CCAE1551786070EA1D2FB4300B" import="1">Art/FR_256.dds</File>
+	<File md5="5A4FE56E09FEC4B3F1C098147BC896BA" import="1">Art/FR_45.dds</File>
+	<File md5="2BEFEF1EB278CCCA2ADFC4E7C23AE3D8" import="1">Art/FR_64.dds</File>
+	<File md5="C87888C335A7A67EE96AEF81D101187D" import="1">Art/FR_80.dds</File>
+	<File md5="9758F86FADD025815304D9A4F0EA2E2E" import="1">Art/FR_splash.dds</File>
+	<File md5="F69C21C78D504C50E78910141EB2BF33" import="1">Art/romanstatues256.dds</File>
+	<File md5="D4D48A78BC201907D55CFDA0DF4F8FB3" import="1">Art/romanstatues45.dds</File>
+	<File md5="56C123C4E4F730CF0170D89928476B0C" import="1">Art/romanstatues64.dds</File>
+	<File md5="1F2A02840454EF328053F6FBA790BDDD" import="1">Art/romanstatues80.dds</File>
+	<File md5="545EFEB39B260B44FD4C30E209A6903F" import="1">Font Icon/RS_fonticons.dds</File>
+	<File md5="88E4997961DF301031AF5CD1EB1E9379" import="1">Font Icon/RS_fonticons.ggxml</File>
+	<File md5="1516A80989CDAC917474AD63EE447942" import="0">Font Icon/RS_fonticons.xml</File>
+	<File md5="8F2A3DC3FD04F84F100903E7E7DD2638" import="0">XML/Buildings/FR_Bulidings.xml</File>
+	<File md5="5871414AF230291F214973DC0D3B6567" import="0">XML/GameInfo/FR_IconAtlas.xml</File>
+	<File md5="D0634FFC497E9FAC53081E2725F8BCB8" import="0">XML/Terrain/RomanStatue.xml</File>
+	<File md5="2B71C134FCE5162BFA5F00CFFFD9A4E6" import="0">XML/Text/FR_Text_EN_US.xml</File>
+	  
+    <File md5="F2157C2628AF55D27F5902E4EE16750F" import="1">Art/Matterhorn_icon128.dds</File>
+    <File md5="519D71F8B6BB380E4F66E301C8C15CD4" import="1">Art/Matterhorn_icon256.dds</File>
+    <File md5="893D601D0D533A79EE566E8BDA326517" import="1">Art/Matterhorn_icon45.dds</File>
+    <File md5="AFF2AC0FFB0D7FEF46F259862543B73D" import="1">Art/Matterhorn_icon64.dds</File>
+    <File md5="2E1790F6FD4E3EFA5ADE4D2E663171CD" import="1">Art/Matterhorn_icon80.dds</File>
+    <File md5="B0A4C496BFE1B108B6C8D1E6BB1EBA6E" import="1">Art/Matterhorn_splash.dds</File>
+    <File md5="E10145F267D926BA19C8D8F00C3978DA" import="0">XML/Buildings/Matterhorn_BuildingClasses.xml</File>
+    <File md5="45F3239AD103E619414F683317EB6CF0" import="0">XML/Buildings/Matterhorn_Buildings.xml</File>
+    <File md5="6D761ABE32E72DBE629B3F479CDB2106" import="0">XML/Civilizations/Matterhorn_Civilizations.xml</File>
+    <File md5="3D79668E4C7819DC33A29DF49C5FEF86" import="0">XML/GameInfo/Matterhorn_IconTextureAtlases.xml</File>
+    <File md5="3F69779BC801784B66A1A5E1A5A03A25" import="0">XML/Text/Matterhorn_text_EN_US.xml</File>
+
+	<File md5="240020BBBCE29D71C403EC6B2C2571AE" import="1">Art/Teotihuacan_icon128.dds</File>
+	<File md5="8327FCB80C988D2A9CDE4E5BB99D93C5" import="1">Art/Teotihuacan_icon256.dds</File>
+	<File md5="CB367671F82F56D7B0B8B811A34CC439" import="1">Art/Teotihuacan_icon45.dds</File>
+	<File md5="E77F1ECEDE2CC892DDF245BE43436081" import="1">Art/Teotihuacan_icon64.dds</File>
+	<File md5="043A3CD2567D82E852F5623EAF3A000D" import="1">Art/Teotihuacan_icon80.dds</File>
+	<File md5="D7054332949F699FF4DDFFC492348582" import="1">Art/Teotihuacan_splash.dds</File>
+	<File md5="9B48829844912DCC9D766AEB893ABED7" import="0">XML/Buildings/Teotihuacan_BuildingClasses.xml</File>
+	<File md5="075E07855A01E5326186DCC5160E09F8" import="0">XML/Buildings/Teotihuacan_Buildings.xml</File>
+	<File md5="9BF87E84E566F028B99BD475B6E6B8FE" import="0">XML/Civilizations/Teotihuacan_Civilizations.xml</File>
+	<File md5="96B99191F0CC56FEDBF4ECFD81A6B8C5" import="0">XML/GameInfo/Teotihuacan_IconTextureAtlases.xml</File>
+	<File md5="63FF800DF719409EF95E57E8ABDE80A6" import="0">XML/Text/Teotihuacan_text_EN_US.xml</File> 
+	  
+	<File md5="B65AB4B1B5BF585AC7A3362F5F7D401C" import="1">Art/Golden_Pavilion_icon128.dds</File>
+	<File md5="95D0DBE79562FC59972F026ED88D7770" import="1">Art/Golden_Pavilion_icon256.dds</File>
+	<File md5="34CB48E4AF9B156ED0B072EC7468D625" import="1">Art/Golden_Pavilion_icon45.dds</File>
+	<File md5="E3C60C4CF1753EEDBB9F2F2600CD8688" import="1">Art/Golden_Pavilion_icon64.dds</File>
+	<File md5="9AD8FD653F998778FA32BF09FA61314F" import="1">Art/Golden_Pavilion_icon80.dds</File>
+	<File md5="4B4745B6704468EBE2D668EB5982BD0D" import="1">Art/Golden_Pavilion_splash.dds</File>
+	<File md5="BD1368E817718CCA54B364ABF65FEA34" import="0">XML/Buildings/Golden_Pavilion_BuildingClasses.xml</File>
+	<File md5="0D1698F1D50011A88CA652F219EA8231" import="0">XML/Buildings/Golden_Pavilion_Buildings.xml</File>
+	<File md5="9BB1064DAB7C2CEB75E3D73690D58900" import="0">XML/Civilizations/Golden_Pavilion_Civilizations.xml</File>
+	<File md5="18244EE2FF4A0841F426A5C4D939507B" import="0">XML/GameInfo/Golden_Pavilion_IconTextureAtlases.xml</File>
+	<File md5="A277248E3E13889FB851081AC305BA75" import="0">XML/Text/Golden_Pavilion_text_EN_US.xml</File>
+	<File md5="E28433A065C6EB2FD8FCB4207C1BD18D" import="0">XML/Text/Golden_Pavilion_text_es_ES.xml</File>
+	  
+	<File md5="7191ECF2E97BDD1BF39F1857F08FEC4E" import="1">Art/Pantheon_128.dds</File>
+	<File md5="85F2860BF90CC7CA2D68F644DFF2AA73" import="1">Art/Pantheon_256.dds</File>
+	<File md5="7011C57D6A70BA3CE9794DF3696D2426" import="1">Art/Pantheon_45.dds</File>
+	<File md5="A588C125EEC1DF043C8FB79B57CB00FF" import="1">Art/Pantheon_64.dds</File>
+	<File md5="2EFB4CC5609F00904039157C09652916" import="1">Art/Pantheon_80.dds</File>
+	<File md5="51B7F2A221D3FC0E6BBD0C0268375C19" import="1">Art/Pantheon_splash.dds</File>
+	<File md5="6F418BE54C7DB20AB93183D17D8DE3BD" import="0">XML/Buildings/Pantheon_BuildingClasses.xml</File>
+	<File md5="4BC2E96BADEFD3F645C0F2E85D3297F3" import="0">XML/Buildings/Pantheon_Buildings.xml</File>
+	<File md5="9FEC1F3164421A520F0D66ACEAAC8D99" import="0">XML/Civilizations/Pantheon_Civilizations.xml</File>
+	<File md5="02967E58C0E3DE671243645C35F4C121" import="0">XML/GameInfo/Pantheon_IconTextureAtlases.xml</File>
+	<File md5="E9D812EAD0A75A1DFF93D283E000BBAB" import="0">XML/Text/Pantheon_text_EN_US.xml</File>
+	  
+	<File md5="CF67CFD810DB99FAFCF578B776699D74" import="1">Art/Aber_splash.dds</File>
+	<File md5="1BD39301C500962A098CB483EE11B7FC" import="1">Art/Diwali_128.dds</File>
+	<File md5="7379CA50D1A40C1A856F77B39C84E834" import="1">Art/Diwali_256.dds</File>
+	<File md5="1E04561279B9F91CA70F0AD6A59B2A9E" import="1">Art/Diwali_45.dds</File>
+	<File md5="AEA9C9DEA231AAF7C077279281940844" import="1">Art/Diwali_64.dds</File>
+	<File md5="835FD03619967004BAABCC4EB03FB8D8" import="1">Art/Diwali_80.dds</File>
+	<File md5="4D41D2ACB0F41AC15546E4A3BE880011" import="1">Art/Harmandir_splash.dds</File>
+	<File md5="3718BA2B3B45DE637289C28546B91C0F" import="1">Art/Hawa_splash.dds</File>
+	<File md5="A0F79805DD7D7900853D48A967D14E35" import="0">XML/Buildings/Harmandir_Buildings.xml</File>
+	<File md5="10DD54EB4C5774F1E31210FE62F2F416" import="0">XML/Buildings/Hawa_Buildings.xml</File>
+	<File md5="A4F0A1B7BE0D6D7AA8E07D85B05BF6BC" import="0">XML/Buildings/Aber_Buildings.xml</File>
+	<File md5="8002B48096D0973E3481E58E8C719406" import="0">XML/Buildings/Diwali_BuildingClasses.xml</File>
+	<File md5="98D71B652695304CB86972AB918E9D20" import="0">XML/Civilizations/Diwali_Civilizations.xml</File>
+	<File md5="BBE0B1C758CF4E816BECDE31DEEA6764" import="0">XML/GameInfo/Diwali_IconTextureAtlases.xml</File>
+	<File md5="739BE101ED440D07F60B4E27BDF3E4A6" import="0">XML/Text/Diwali_text_en_US.xml</File>
+	  
+	<File md5="B50C391CEB3C95B099BC70D8116F220B" import="1">Art/MesaVerde_128.dds</File>
+	<File md5="42B027FFF9BBCC71E4788E784F35D035" import="1">Art/MesaVerde_256.dds</File>
+	<File md5="86F00642B194E688A9BE8DADCDCF6D5A" import="1">Art/MesaVerde_45.dds</File>
+	<File md5="FBD3C484BF97CD298D35D257F63CD97C" import="1">Art/MesaVerde_64.dds</File>
+	<File md5="BF2ECFDED0A51BDEB6CC33FA14FE40CD" import="1">Art/MesaVerde_80.dds</File>
+	<File md5="C81F652028B4BC1FDCC03A8707D82DDB" import="1">Art/MesaVerde_splash.dds</File>
+	<File md5="942742AB76BD13090EC2A1A149200C95" import="0">XML/Buildings/MesaVerde_BuildingClasses.xml</File>
+	<File md5="992E7C5EB92654C2EB70FF6D8EF67173" import="0">XML/Buildings/MesaVerde_Buildings.xml</File>
+	<File md5="67B09597DFA0AF1E71E3A4171D3C632D" import="0">XML/Civilizations/MesaVerde_Civilizations.xml</File>
+	<File md5="6F9518583AFB6136D7FD333449342081" import="0">XML/GameInfo/MesaVerde_IconTextureAtlases.xml</File>
+	<File md5="08A4C5BA9B915DEA2AA4C44AAD1E7316" import="0">XML/Text/MesaVerde_text_en_US.xml</File>
+	  
+	<File md5="94746CB080DB1EA0801ABA92DE3C7ABE" import="1">Art/Ruapehu_128.dds</File>
+	<File md5="E9D2B0386D3E8EA6F85EF7DB9CD0AFE9" import="1">Art/Ruapehu_256.dds</File>
+	<File md5="B81C102972AD764335C12C7AE3214B1A" import="1">Art/Ruapehu_45.dds</File>
+    <File md5="70878132DCE04EE8965933E3740BDA97" import="1">Art/Ruapehu_64.dds</File>
+	<File md5="A2411B26C4D04286BDB2A3E851D31194" import="1">Art/Ruapehu_80.dds</File>
+	<File md5="67B0E873579B985DFA94D7D11D783975" import="1">Art/Ruapehu_splash.dds</File>
+	<File md5="FB610020C730AE7C602E74E5BC043CE4" import="0">XML/Buildings/Ruapehu_BuildingClasses.xml</File>
+	<File md5="E3092501A78AA43676DB5E741486F033" import="0">XML/Buildings/Ruapehu_Buildings.xml</File>
+	<File md5="DC4BBB55955F04D7D3F76FE9105E522A" import="0">XML/Civilizations/Ruapehu_Civilizations.xml</File>
+	<File md5="91D33101BF0F3DB24E3044C5708F842B" import="0">XML/GameInfo/Ruapehu_IconTextureAtlases.xml</File>
+	<File md5="0BD49D70F9BB6E79E611E3279B59529A" import="0">XML/Text/Ruapehu_text_EN_US.xml</File>
+	  
+	<File md5="37F26D7CCF9E21C8D22450B39AD80A37" import="1">Art/Maria_icon128.dds</File>
+	<File md5="2E9DFCC464A42E6ED373E9EAEBC905EB" import="1">Art/Maria_icon256.dds</File>
+	<File md5="FF6F68D58A06950A53BE79FB38EACBA9" import="1">Art/Maria_icon45.dds</File>
+	<File md5="21E888E9DFD51227620CC68756674D84" import="1">Art/Maria_icon64.dds</File>
+	<File md5="62870FA54DA6FE6936C1C468352AD883" import="1">Art/Maria_icon80.dds</File>
+	<File md5="C22EF06E433D420EAB6A209D5375A8E1" import="1">Art/Maria_splash.dds</File>
+	<File md5="6B8B938224E2A52E584D60354E5C3797" import="0">XML/Buildings/Maria_BuildingClasses.xml</File>
+	<File md5="5CAE5F826F2EDDD5D789536B571FB23E" import="0">XML/Buildings/Maria_Buildings.xml</File>
+	<File md5="46E172EE4F8085F894E6839AEE453D95" import="0">XML/Civilizations/Maria_Civilizations.xml</File>
+	<File md5="D05C2E4B25F808CA5E36FB4DEECCA684" import="0">XML/GameInfo/Maria_IconTextureAtlases.xml</File>
+	<File md5="EF509D28CED44BDFCC92FB8C6C2AA794" import="0">XML/Text/Maria_text_en_US.xml</File>
+	  
+	<File md5="FBACA306D4A99784DF8F6E1B129511B9" import="1">Art/Todaiji_128.dds</File>
+	<File md5="D5708E78B1E2D70B0743279C52B5CAB3" import="1">Art/Todaiji_256.dds</File>
+	<File md5="D89234E88A2D1747D5A6E0DB0263A69F" import="1">Art/Todaiji_45.dds</File>
+	<File md5="0EB54BB878FF0224A7E85C1CB9A5F595" import="1">Art/Todaiji_64.dds</File>
+	<File md5="E36F4F9BB0DFFF90F73C7103E9DF892C" import="1">Art/Todaiji_80.dds</File>
+	<File md5="088E8E1B50B25722348BBF2E2304E103" import="1">Art/Todaiji_splash.dds</File>
+	<File md5="608488900A21F4FBBD59BF60AAFEAAAC" import="0">XML/Buildings/Todaiji_BuildingClasses.xml</File>
+	<File md5="C2326408571AF022462A98944D1352D0" import="0">XML/Buildings/Todaiji_Buildings.xml</File>
+	<File md5="07002301EA396E9EF0BD2AA04166A0AA" import="0">XML/Civilizations/Todaiji_Civilizations.xml</File>
+	<File md5="53AB8474032883B8C125D0F3CA0FF057" import="0">XML/GameInfo/Todaiji_IconTextureAtlases.xml</File>
+	<File md5="0CEED842A4A45D2D362696CC14BE4264" import="0">XML/Text/Todaiji_text_en_US.xml</File>
+	  
+    <File md5="CEA87284179C9EF879CCC950538025A2" import="1">Art/Benhaddou_80.dds</File>
+    <File md5="75BC788ADF42ACF25F239232866A9163" import="1">Art/Benhaddou_128.dds</File>
+    <File md5="063DED9289BEDD97BEA0CE27C4C6059B" import="1">Art/Benhaddou_256.dds</File>
+    <File md5="7AA6A711573FDB88EF6C032575BC0DAB" import="1">Art/Benhaddou_45.dds</File>
+    <File md5="F139294849D8E247AC2FEF8719D984C8" import="1">Art/Benhaddou_64.dds</File>
+    <File md5="9B3125B9497281D0AEA6993B11136BCB" import="1">Art/Benhaddou_splash.dds</File>
+    <File md5="3DA718B2CE3B23704ED488DE14899AEC" import="0">XML/Buildings/Benhaddou_BuildingClasses.xml</File>
+    <File md5="837C1F31D31532C1A07878506D7CE40B" import="0">XML/Buildings/Benhaddou_Buildings.xml</File>
+    <File md5="0E546AD0438E46761DFEA016D8CD8C90" import="0">XML/Civilizations/Benhaddou_Civilizations.xml</File>
+    <File md5="497A5E5CE41D6109DD3B0E0BDDE8F35A" import="0">XML/GameInfo/Benhaddou_IconTextureAtlases.xml</File>
+    <File md5="6AB0EDB0CAF8284233968F43D1F199DE" import="0">XML/Text/Benhaddou_text_EN_US.xml</File>
+
+    <File md5="23704C894069B2DBD80238260839FF28" import="1">Art/SDI_Splash.dds</File>
+    <File md5="E5B7E17CF1319A404E4B5E0F0B69B874" import="1">Art/Longshot_icon128.dds</File>
+    <File md5="EF56848C45815EBEDEDA6A9D8137A40E" import="1">Art/Longshot_icon256.dds</File>
+    <File md5="0910C1309AA28DF6BB9A4DE361693243" import="1">Art/Longshot_icon45.dds</File>
+    <File md5="10A6EC906E2F0AFB0C3C399CB3397128" import="1">Art/Longshot_icon64.dds</File>
+    <File md5="BFE8AD0B8A14235F01400013CD5ED968" import="1">Art/Longshot_icon80.dds</File>
+    <File md5="82BE5A785107C3E889DBBB630EECD478" import="0">XML/Buildings/SDI_BuildingClasses.xml</File>
+    <File md5="98E38B4B088437A0D2C40580347F3454" import="0">XML/Buildings/SDI_Buildings.xml</File>
+    <File md5="519C793E104776FC4553B90E95A801A9" import="0">XML/Civilizations/SDI_Civilizations.xml</File>
+    <File md5="E049D34DE03BAEC922EBEC45331E1832" import="0">XML/GameInfo/Longshot_IconTextureAtlases.xml</File>
+    <File md5="845259AC4CBDA71AF14E612973FF966F" import="0">XML/GameInfo/Longshot_ProjectUpdate.xml</File>
+    <File md5="61C640EF506C4D3F902343E8E09848F3" import="0">XML/Text/SDI_text_en_US.xml</File>
+
+    <File md5="CF1C2B5061291E11FB95B79E6FE047BB" import="1">Art/Aleppo_splash.dds</File>
+    <File md5="F69EC76BD5D3EB73271F31E615D2E1B3" import="1">Art/Arab_Spring_Icon128.dds</File>
+    <File md5="A32297AE14A61F9ADFC63B2A5DC7FCB1" import="1">Art/Arab_Spring_Icon256.dds</File>
+    <File md5="1EF4D757BEE697E6EFBC3319E0466C35" import="1">Art/Arab_Spring_Icon45.dds</File>
+    <File md5="F25D6BCE89F5B0B2F51DD4352E2474EA" import="1">Art/Arab_Spring_Icon64.dds</File>
+    <File md5="40EFBE8F94095406E0247AA3AB0762E1" import="1">Art/Arab_Spring_Icon80.dds</File>
+    <File md5="45B20395652CAB6C7E793CA34EE1C089" import="1">Art/Habib_Bourguiba_splash.dds</File>
+    <File md5="FDE14D7C9C15341E8194C24DAED92172" import="1">Art/Martyrs_Splash.dds</File>
+    <File md5="F7B2DE33D0D467C00906A72C8BDE65BF" import="1">Art/Pearl_Monument_splash.dds</File>
+    <File md5="9B97DE82D4F9DDF379FBD69246B93028" import="0">XML/Buildings/Habib_Bourguiba_BuildingClasses.xml</File>
+    <File md5="718627D3C4B29FCB40CE06C6179AF948" import="0">XML/Buildings/Habib_Bourguiba_Buildings.xml</File>
+    <File md5="6554C6AC5D82CD77974EEF4DA51F82C3" import="0">XML/Civilizations/Habib_Bourguiba_Civilizations.xml</File>
+    <File md5="2C463ED15F3E35AAE9439D422FCC64DC" import="0">XML/Text/Habib_Bourguiba_text_en_US.xml</File>
+    <File md5="6A40D059186E6AC1FA96718795024719" import="0">XML/GameInfo/Arab_Spring_IconTextureAtlases.xml</File>
+    <File md5="2888936095007DC6965A59A6630FB9D0" import="0">XML/Buildings/Aleppo_BuildingClasses.xml</File>
+    <File md5="3BBEECEDC2A0DCA37C6406473C07E412" import="0">XML/Buildings/Aleppo_Buildings.xml</File>
+    <File md5="176CFAB9164D86899E31176D3BE7D980" import="0">XML/Civilizations/Aleppo_Civilizations.xml</File>
+    <File md5="3F4DCEF9C275466882FB66632FDD03A6" import="0">XML/Text/Aleppo_text_en_US.xml</File>
+    <File md5="E6562BB98EB846D166DF722F974FCB4B" import="0">XML/Buildings/Martyrs_BuildingClasses.xml</File>
+    <File md5="731FF6DB43E9F15175EB159D65BCA924" import="0">XML/Buildings/Martyrs_Buildings.xml</File>
+    <File md5="7E0E6B73A10C0A15FA2405BD7A5E0ACC" import="0">XML/Civilizations/Martyrs_Civilizations.xml</File>
+    <File md5="1E3322374B73F78331A2DF8949E793B9" import="0">XML/Text/Martyrs_text_en_US.xml</File>
+    <File md5="65C07D367677BDC5BCCD809F25F1AAFB" import="0">XML/Buildings/Pearl_Monument_BuildingClasses.xml</File>
+    <File md5="AD6FA89C176BFB7B09F6A4BC24085D2F" import="0">XML/Buildings/Pearl_Monument_Buildings.xml</File>
+    <File md5="AAEF91EC45D911423A8F94CD95D5ECDD" import="0">XML/Civilizations/Pearl_Monument_Civilizations.xml</File>
+    <File md5="082980A4E6BFBC3970B175CCCCC3CBEC" import="0">XML/Text/Pearl_Monument_text_en_US.xml</File>
+	<File md5="B7C6DDC615E560B69ECD908D326CAD9F" import="0">XML/Units/Martyrs_UnitPromotions.xml</File>
+
+    <File md5="AAA3438149A17EC31C0B22747A412A8A" import="1">Art/Arecibo_128.dds</File>
+    <File md5="93CE11F5DF9B789623BC2478D1A306F8" import="1">Art/Arecibo_256.dds</File>
+    <File md5="AB5DC4590A0BD668D4B3736FB700B99A" import="1">Art/Arecibo_45.dds</File>
+    <File md5="F7DBE6ABE2DD8BD26A2677FA671018FE" import="1">Art/Arecibo_64.dds</File>
+    <File md5="C96E3527BCD32A9E66FD0CADC7174D8F" import="1">Art/Arecibo_80.dds</File>
+    <File md5="A0B944B8DDEE2FD5FAB185146847D6BE" import="1">Art/Arecibo_splash.dds</File>
+    <File md5="B3967841BF8E9C2B54EACB72BF4350F0" import="0">XML/Buildings/Arecibo_BuildingClasses.xml</File>
+    <File md5="0CF3D02F0A58C06CE28AB97E70774C6F" import="0">XML/Buildings/Arecibo_Buildings.xml</File>
+    <File md5="4631809B179FCF24255D9C5B4EACA2A6" import="0">XML/Civilizations/Arecibo_Civilizations.xml</File>
+    <File md5="F08715C45C36EC80463DFA6C6D3AA5FE" import="0">XML/GameInfo/Arecibo_IconTextureAtlases.xml</File>
+    <File md5="29A2FFAF4C6BCEB2262EE82622EADF3B" import="0">XML/Text/Arecibo_text_en_US.xml</File>
+
+    <File md5="41BA80ADC3D2C7B8D16BF45ACC0B88A8" import="1">Art/Banaue_splash.dds</File>
+    <File md5="71A730E5092DDD8B5A739018F017B1A2" import="1">Art/Rice_128.dds</File>
+    <File md5="F81CB7D62A359237D8E118A0F13C2044" import="1">Art/Rice_256.dds</File>
+    <File md5="69063E75ED1FEFDE0B16DC176A5077C5" import="1">Art/Rice_45.dds</File>
+    <File md5="EC543CE7B92CA6631BD1751254933CFA" import="1">Art/Rice_64.dds</File>
+    <File md5="E878AB8B9F04C181A2B29E6351877CA8" import="1">Art/Rice_80.dds</File>
+    <File md5="B397D7451C695DBD54E428DF00B98652" import="1">Art/Banaue_128.dds</File>
+    <File md5="55FC213BB17369CDC1DA22012931FF9B" import="1">Art/Banaue_256.dds</File>
+    <File md5="DB4FE89205C19BBDDC0835E1BB0F42A7" import="1">Art/Banaue_45.dds</File>
+    <File md5="8E409F793D08BE22214EA942E2B43F35" import="1">Art/Banaue_64.dds</File>
+    <File md5="4C848DADDE880DBC0488F21A497E512B" import="1">Art/Banaue_80.dds</File>
+    <File md5="67DE0F3417CD7CEA2635EE0A36ED13BE" import="0">Font Icon/Rice_Fonticon.xml</File>
+    <File md5="03B8B90F256C9E914C3B6FF1EC77B3F5" import="1">Font Icon/Rice_fonticons.ggxml</File>
+    <File md5="AE91937F3B03D56C75432ACD219952F5" import="1">Font Icon/Rice_fonticons.dds</File>
+    <File md5="D4B2D83A6CE24BB39CFE194A0253A332" import="0">XML/Buildings/Banaue_BuildingClasses.xml</File>
+    <File md5="19EAEB60426DF416A47CF9BC0215C8F0" import="0">XML/Buildings/Banaue_Buildings.xml</File>
+    <File md5="0E37D3BEFD14DECBDE41FC08198BBE3B" import="0">XML/Civilizations/Banaue_Civilizations.xml</File>
+    <File md5="29C2356BDF531DE28012F253198AA196" import="0">XML/GameInfo/Banaue_IconTextureAtlases.xml</File>
+    <File md5="D9A8185EE6B3FB796886BA3A2A549DA1" import="0">XML/Terrain/Rice.xml</File>
+    <File md5="7BEE6138DC8A64E24B5175133E8B965A" import="0">XML/Text/Banaue_text_EN_US.xml</File>
+
+    <File md5="0F20C49D106AEF3424D459A2A44ABB5C" import="1">Art/Brooklyn_128.dds</File>
+    <File md5="0CFD44DE62EE991B0A60CF608CE14922" import="1">Art/Brooklyn_256.dds</File>
+    <File md5="F67BB3FCE6D3A1B9395325A2CFA0BFC7" import="1">Art/Brooklyn_45.dds</File>
+    <File md5="4AA771CDE2BD5D405657470F0E5265A2" import="1">Art/Brooklyn_64.dds</File>
+    <File md5="0B9A1CEA0F3F1A6E720E1C6B09567428" import="1">Art/Brooklyn_80.dds</File>
+    <File md5="C20C734CAF13AB94012FA51082DF8B12" import="1">Art/Brooklyn_splash.dds</File>
+    <File md5="FBF71DDF796D3AF44D84FB0E62F15D1E" import="1">Art/Brooklyn_Splash_a.dds</File>
+    <File md5="88200969D464219E6F2B03E38D70BF3F" import="0">XML/Buildings/Brooklyn_BuildingClasses.xml</File>
+    <File md5="231B3BFEDAFB5DA48B095D1E52C6C3AE" import="0">XML/Buildings/Brooklyn_Buildings.xml</File>
+    <File md5="80D75426CA76CBF35556A506C4545ED1" import="0">XML/Civilizations/Brooklyn_Civilizations.xml</File>
+    <File md5="4BC5B6F9A5423DCD7D9E3B4B0754FB1A" import="0">XML/GameInfo/Brooklyn_IconTextureAtlases.xml</File>
+    <File md5="F455B37FB503A0994AEF5BC417D493E2" import="0">XML/Text/Brooklyn_text_en_US.xml</File>
+
+    <File md5="4710AD380FED6CFF8B8082EBA7AB5597" import="1">Art/Buda_128.dds</File>
+    <File md5="E2BC43294D253264B3C4ED6250319023" import="1">Art/Buda_256.dds</File>
+    <File md5="91F302273B2CFD7EAB395C1C1A0245AD" import="1">Art/Buda_45.dds</File>
+    <File md5="7283A8DE6853F6E2FF6A2114DD5DF49D" import="1">Art/Buda_64.dds</File>
+    <File md5="BD4EF160F58F4FF3D065D9966636507B" import="1">Art/Buda_80.dds</File>
+    <File md5="58E80B5468C5107A2089FA141DEA3BBC" import="1">Art/Buda_splash.dds</File>
+    <File md5="CAE85B62696DFA766F21EE95B16458B6" import="0">XML/Buildings/Buda_BuildingClasses.xml</File>
+    <File md5="F021386928B91AC6EFEEEED79C5E5B69" import="0">XML/Buildings/Buda_Buildings.xml</File>
+    <File md5="C476FC8FCDAC9430E4B93D8FF6A53615" import="0">XML/Civilizations/Buda_Civilizations.xml</File>
+    <File md5="301AB67D06F22BCC068279867CD13E23" import="0">XML/GameInfo/Buda_IconTextureAtlases.xml</File>
+    <File md5="5BC1E1F837B47C134118C9F9F7DA5AA8" import="0">XML/Text/Buda_text_EN_US.xml</File>
+
+    <File md5="D7B27C58C76403AEF1851ABCCE880428" import="1">Art/Bamiyan_icon128.dds</File>
+    <File md5="F08C252DBF461932A25A7CC24449A992" import="1">Art/Bamiyan_icon256.dds</File>
+    <File md5="4EE209BFF7640FE3938B360BBE1BC1D3" import="1">Art/Bamiyan_icon45.dds</File>
+    <File md5="5CC0C0C6C7B4FEE206E7F2D1D54187CE" import="1">Art/Bamiyan_icon64.dds</File>
+    <File md5="6030126AE0E60ABDD45793306A0CD173" import="1">Art/Bamiyan_icon80.dds</File>
+    <File md5="40B00A4C499DF82FBCDD6E5A05410363" import="1">Art/Bamiyan_splash.dds</File>
+    <File md5="33BB19AC562CD374F85B84E32D6489BF" import="0">XML/Buildings/Bamiyan_BuildingClasses.xml</File>
+    <File md5="50D27363B1190EEC0B039DC793FB9323" import="0">XML/Buildings/Bamiyan_Buildings.xml</File>
+    <File md5="EF2A8B98F8B2B6FF7665B5DA0DAC7B5B" import="0">XML/Civilizations/Bamiyan_Civilizations.xml</File>
+    <File md5="D6ADB8A9F7740E4BE55678F8F2883796" import="0">XML/GameInfo/Bamiyan_IconTextureAtlases.xml</File>
+    <File md5="CDBA8AC742F02A1225565794B264A907" import="0">XML/Text/Bamiyan_text_EN_US.xml</File>
+
+    <File md5="DF69C007E812A3B9D012188B99D0EF95" import="1">Art/Cairo_icon128.dds</File>
+    <File md5="2813D1860492486C225AA39BD668E6E4" import="1">Art/Cairo_icon256.dds</File>
+    <File md5="BD1F39E8923B195C90EC4DB6F840613B" import="1">Art/Cairo_icon45.dds</File>
+    <File md5="87DD1D4F0C2287E4BCAE3A8ED43FED63" import="1">Art/Cairo_icon64.dds</File>
+    <File md5="3A39C4094AFBB3ADB4FCA2F9F317449F" import="1">Art/Cairo_icon80.dds</File>
+    <File md5="49EBB85D214D0F7CAA69E7E0969E6868" import="1">Art/Cairo_splash.dds</File>
+    <File md5="E79249549A9F1B13C5DD1D1AE1E9184C" import="0">XML/Buildings/Cairo_BuildingClasses.xml</File>
+    <File md5="BCFC0877F787212155F5A2DA549A9BA0" import="0">XML/Buildings/Cairo_Buildings.xml</File>
+    <File md5="61EFCD39970A08D88933FAD91B6F20D3" import="0">XML/Civilizations/Cairo_Civilizations.xml</File>
+    <File md5="62684DA7035DA736EA9B4712EF765C35" import="0">XML/GameInfo/Cairo_IconTextureAtlases.xml</File>
+    <File md5="C50BC8844E835ED7F5C131F4813A53CF" import="0">XML/Text/Cairo_text_EN_US.xml</File>
+
+    <File md5="0DC4E953EA45030F9C5147411D438071" import="1">Art/China_icon128.dds</File>
+    <File md5="363F1AC7A407CDEC10BF366265A47883" import="1">Art/China_icon256.dds</File>
+    <File md5="198921179CAA29DBB3CADACD04F24DB1" import="1">Art/China_icon45.dds</File>
+    <File md5="58B543310541B186CA02C110B793A73B" import="1">Art/China_icon64.dds</File>
+    <File md5="E99FB3CE0F655674572B7556A12BAA6E" import="1">Art/China_icon80.dds</File>
+    <File md5="6246E20A09E2EBD20551BFD5CEDFC474" import="1">Art/Jiayuguan_Splash.dds</File>
+    <File md5="DD1B4C0ADCBC950A71F06D6202187A9A" import="1">Art/Shanghai_WFC_splash.dds</File>
+    <File md5="0D0A6D9BC745A3FA565C8BC1F7620ED8" import="1">Art/Xuankong_Splash.dds</File>
+    <File md5="8CAAFDB778C5FDDE147F98C7F61F0594" import="1">Art/Yellow_Crane_splash.dds</File>
+    <File md5="422CCEF14BA3A0497D3EB94F17622204" import="0">XML/GameInfo/Chinese_New_Year_IconTextureAtlases.xml</File>
+    <File md5="8443D5D78E085645E77993391C9A3A32" import="0">XML/Buildings/Jiayuguan_BuildingClasses.xml</File>
+    <File md5="72B210CFC29C86C535B7D7C9A3C9F585" import="0">XML/Buildings/Jiayuguan_Buildings.xml</File>
+    <File md5="2CCF57D338D374414DE64B81EDCBA8BC" import="0">XML/Civilizations/Jiayuguan_Civilizations.xml</File>
+    <File md5="5869F340045948A013BECA1914B36F22" import="0">XML/Text/Jiayuguan_text_en_US.xml</File>
+    <File md5="240DAC47989298F649D1A089E2B5AAE3" import="0">XML/Buildings/Shanghai_WFC_BuildingClasses.xml</File>
+    <File md5="D7A3262F0D71351C0FEBD36FD1BF34D8" import="0">XML/Buildings/Shanghai_WFC_Buildings.xml</File>
+    <File md5="31FF24E782A7571C1E0913BD93A9DC7C" import="0">XML/Civilizations/Shanghai_WFC_Civilizations.xml</File>
+    <File md5="1B94ECA38D21C7F3FBD97ADA8E0D2BA4" import="0">XML/Text/Shanghai_WFC_text_en_US.xml</File>
+    <File md5="518383AB8E18C2A3AA72725626802270" import="0">XML/Buildings/Xuankong_BuildingClasses.xml</File>
+    <File md5="E08362BE481A5E74A923BFAAF11033D7" import="0">XML/Buildings/Xuankong_Buildings.xml</File>
+    <File md5="C774F21885DD5E5EF8531B12211CF872" import="0">XML/Civilizations/Xuankong_Civilizations.xml</File>
+    <File md5="A7A692E10817DA10A112CF9EAC59C813" import="0">XML/Text/Xuankong_text_en_US.xml</File>
+    <File md5="3AE63DB1B236B25B4B09EF8A0A29079B" import="0">XML/Buildings/Yellow_Crane_BuildingClasses.xml</File>
+    <File md5="6A7475BFF729119F21D1A762235F2AEF" import="0">XML/Buildings/Yellow_Crane_Buildings.xml</File>
+    <File md5="B169C6B879B8194B54DA4D10473AF8C4" import="0">XML/Civilizations/Yellow_Crane_Civilizations.xml</File>
+    <File md5="DFC21D642933A1B6EDDBA3F5C85CD3ED" import="0">XML/Text/Yellow_Crane_text_en_US.xml</File>
+
+    <File md5="46B1FA427277B49E4F3755EE2CA252DD" import="1">Art/Cologne_128.dds</File>
+    <File md5="D60C853F7346D4671A8702DE00C3468C" import="1">Art/Cologne_256.dds</File>
+    <File md5="3789CF0E8121CF54810C1427FC3BC706" import="1">Art/Cologne_45.dds</File>
+    <File md5="77DAE0CD7323A13B82269A6933FE1DFF" import="1">Art/Cologne_64.dds</File>
+    <File md5="E2E31CB0AE595263F92C5DC59CA470C0" import="1">Art/Cologne_80.dds</File>
+    <File md5="7FBFE0EB317359C5DE7F62D0C2305939" import="1">Art/Cologne_splash.dds</File>
+    <File md5="73B530621E560BE70BB686F86889B898" import="0">XML/Buildings/Cologne_BuildingClasses.xml</File>
+    <File md5="81DFF56905D238A928B8A55417BDC4D6" import="0">XML/Buildings/Cologne_Buildings.xml</File>
+    <File md5="5FA43972ACA971D32BD21530A162E37E" import="0">XML/Civilizations/Cologne_Civilizations.xml</File>
+    <File md5="8FA071C6677E761EBE648B28EFB126B0" import="0">XML/GameInfo/Cologne_IconTextureAtlases.xml</File>
+    <File md5="56D942E50D08EDA8F8650783D2458854" import="0">XML/Text/Cologne_text_EN_US.xml</File>
+
+    <File md5="3A6DC0D362440ACEDFE0E180D98355FD" import="1">Art/Dome_128.dds</File>
+    <File md5="2EA27F648BFB1F52DC6FCE3B2E13BF56" import="1">Art/Dome_256.dds</File>
+    <File md5="0941D22E629273F38AA4AF6DB966D433" import="1">Art/Dome_45.dds</File>
+    <File md5="36DCF048A8BA75D46D256BFD5054417B" import="1">Art/Dome_64.dds</File>
+    <File md5="406E4711DE3AD1EC1FB7735F88757A4B" import="1">Art/Dome_80.dds</File>
+    <File md5="4E45D1082E4445693E89C89B928CC682" import="1">Art/Dome_Splash.dds</File>
+    <File md5="4C916A77BBA413C4522A9A7D9D495F90" import="0">XML/Buildings/Dome_BuildingClasses.xml</File>
+    <File md5="0D7D028EDA9BF085DEA21F90F44A4134" import="0">XML/Buildings/Dome_Buildings.xml</File>
+    <File md5="6FEB25312E2039FED557D2E8A8A10629" import="0">XML/Civilizations/Dome_Civilizations.xml</File>
+    <File md5="FD239DDCB1B517CB1477A697050C11AF" import="0">XML/GameInfo/Dome_IconTextureAtlases.xml</File>
+    <File md5="3DB79F3096272EECD465AF2CA654BF12" import="0">XML/Religion/Dome_Beliefs.xml</File>
+    <File md5="2BAEBC27EFB1478682F53D0EE9BCEFFF" import="0">XML/Text/Dome_text_en_US.xml</File>
+
+    <File md5="AF8173788532C91FDB64A9892A4803DB" import="1">Art/Tajin_128.dds</File>
+    <File md5="22C82F9BE935B4E2C43A47033CD46F74" import="1">Art/Tajin_256.dds</File>
+    <File md5="D9B1801B27B47948D67FE863B0705A21" import="1">Art/Tajin_45.dds</File>
+    <File md5="43CEC2C4A759D58EE994DC7A82E797E6" import="1">Art/Tajin_64.dds</File>
+    <File md5="FB4EABC7A480F322F30CE6B424E8F0AD" import="1">Art/Tajin_80.dds</File>
+    <File md5="3AFEBF3CA979EAA4DC74B6FC34564793" import="1">Art/Tajin_splash.dds</File>
+    <File md5="D031A5535006F414DB05E958F22D19CD" import="0">XML/Buildings/Tajin_BuildingClasses.xml</File>
+    <File md5="1AAE322077F99DB467752D6D39B0C383" import="0">XML/Buildings/Tajin_Buildings.xml</File>
+    <File md5="38CF7EB717DE8FA0546D708CBCAC407D" import="0">XML/Civilizations/Tajin_Civilizations.xml</File>
+    <File md5="D9EF25CB3040244F5EEECD1FCDAA0DDD" import="0">XML/GameInfo/Tajin_IconTextureAtlases.xml</File>
+    <File md5="7A3597E481092C087CF2DF086B86E92F" import="0">XML/Text/Tajin_text_EN_US.xml</File>
+
+    <File md5="231B8CD48FF2F88C658D4C591FC3EC82" import="1">Art/Selaron_128.dds</File>
+    <File md5="E337A9E7CF6C9C000779679B8F0095CF" import="1">Art/Selaron_256.dds</File>
+    <File md5="3A4C88ABEEBF2B58143C15129E0E1631" import="1">Art/Selaron_45.dds</File>
+    <File md5="09D457559F28B5C629DAF695FF7A76FA" import="1">Art/Selaron_64.dds</File>
+    <File md5="50C6B5DD45A4C83E9C8AEB0A1DAE60F8" import="1">Art/Selaron_Splash.dds</File>
+    <File md5="63E93436BCDB8184AA1C719CD3C3D40C" import="0">XML/Buildings/Selaron_BuildingClasses.xml</File>
+    <File md5="99E8DCAD54D4D2B8756D9064B83EE5C4" import="0">XML/Buildings/Selaron_Buildings.xml</File>
+    <File md5="23CC70872EA65F67B2A2306AE49B2507" import="0">XML/Civilizations/Selaron_Civilizations.xml</File>
+    <File md5="5E33656BF89DB0F51040255D099DFE12" import="0">XML/GameInfo/Selaron_IconTextureAtlases.xml</File>
+    <File md5="59779939B6AB78E2CEF929D6FA0708ED" import="0">XML/Text/Selaron_text_en_US.xml</File>
+
+    <File md5="C9F84FA840748562B7E346AE6D3EBD82" import="1">Art/Gate_Sun_128.dds</File>
+    <File md5="2FCEC9D403CA599E53222EAD77D7B1E5" import="1">Art/Gate_Sun_256.dds</File>
+    <File md5="009C39CD6C13B36FCE183EDB7559C97D" import="1">Art/Gate_Sun_45.dds</File>
+    <File md5="A345D2688D1B44F3BC4D9850C10C8FE0" import="1">Art/Gate_Sun_64.dds</File>
+    <File md5="273F99C0397DB6C4B71C94E8FB46942E" import="1">Art/Gate_Sun_80.dds</File>
+    <File md5="0253DD8F078B3CEA97880F36ACBF5DBD" import="1">Art/Gate_Sun_splash.dds</File>
+    <File md5="4180CADF87B1B98AC09AB642E55433F6" import="0">XML/Buildings/Gate_Sun_BuildingClasses.xml</File>
+    <File md5="D2A07544EFE07D857CCFA0E08A0A3B1E" import="0">XML/Buildings/Gate_Sun_Buildings.xml</File>
+    <File md5="8C112F2116401024A03C45F445590AC9" import="0">XML/Civilizations/Gate_Sun_Civilizations.xml</File>
+    <File md5="985675C5CD1827A459FD8AE4D1FB8531" import="0">XML/GameInfo/Gate_Sun_IconTextureAtlases.xml</File>
+    <File md5="21814110CCCE41A028FC16107F45E28C" import="0">XML/Text/Gate_Sun_text_EN_US.xml</File>
+
+    <File md5="D957F7A84E57E70052C4EB07C7C7BC6D" import="1">Art/Gripsholm_icon128.dds</File>
+    <File md5="03E9F26331872C8B8E2939260A931255" import="1">Art/Gripsholm_icon256.dds</File>
+    <File md5="9BCB48E4EF78055D18DD3541A25B2296" import="1">Art/Gripsholm_icon45.dds</File>
+    <File md5="B5CD7C623B8561D30B32E1491A0BFA74" import="1">Art/Gripsholm_icon64.dds</File>
+    <File md5="FBCC01F9BC7631474B17F0BF951D00B3" import="1">Art/Gripsholm_icon80.dds</File>
+    <File md5="1EF22C207F2CE35277FF27F79FE676B3" import="1">Art/Gripsholm_splash.dds</File>
+    <File md5="12DE5743E8DB0D5CE26E8925B8326E52" import="0">XML/Buildings/Gripsholm_BuildingClasses.xml</File>
+    <File md5="DA2A8E4E935317808AA8CB4601E0B471" import="0">XML/Buildings/Gripsholm_Buildings.xml</File>
+    <File md5="30E35231A1CCBD8B174199E9942F6978" import="0">XML/Civilizations/Gripsholm_Civilizations.xml</File>
+    <File md5="710561BE6E9AB1176854A87E8DF39227" import="0">XML/GameInfo/Gripsholm_IconTextureAtlases.xml</File>
+    <File md5="80EC27B2E1653783EF5BCE7DE4CD172E" import="0">XML/Text/Gripsholm_text_EN_US.xml</File>
+
+    <File md5="8272EAB72F2D2D94047CE922515B6072" import="1">Art/Haji_Ali_Dargah_icon128.dds</File>
+    <File md5="8313CCA1DFA284F4C369810FDE1A6343" import="1">Art/Haji_Ali_Dargah_icon256.dds</File>
+    <File md5="1F62F2D47B344A5C09F52E7BF88E7156" import="1">Art/Haji_Ali_Dargah_icon45.dds</File>
+    <File md5="8F5A58E3A0F5DA1DA90B8C99FAEF4A08" import="1">Art/Haji_Ali_Dargah_icon64.dds</File>
+    <File md5="DC942052D3B6718585A617F276ADF07D" import="1">Art/Haji_Ali_Dargah_icon80.dds</File>
+    <File md5="65C6DFE693592FF9BB570BBABA8B79D0" import="1">Art/Haji_Ali_Dargah_splash.dds</File>
+    <File md5="28E3A9E121D778B5A929F4F6643BB13A" import="0">XML/Buildings/Haji_Ali_Dargah_BuildingClasses.xml</File>
+    <File md5="450041F3F666FBAA2CD7107DBBA6216A" import="0">XML/Buildings/Haji_Ali_Dargah_Buildings.xml</File>
+    <File md5="174FF764EF06A3EBCEAABFACA243E346" import="0">XML/Civilizations/Haji_Ali_Dargah_Civilizations.xml</File>
+    <File md5="3DE9E88BE4A41A619BC2DE7921ED2D47" import="0">XML/GameInfo/Haji_Ali_Dargah_IconTextureAtlases.xml</File>
+    <File md5="ABC5FE04AD7EF7E54BA4F6B89EF01DEF" import="0">XML/Text/Haji_Ali_Dargah_text_EN_US.xml</File>
+
+    <File md5="7B60B2AF46C884C54C62C492B12B237E" import="1">Art/Horyuji_icon128.dds</File>
+    <File md5="A5879269BD0B5290EF3E573F7727C01E" import="1">Art/Horyuji_icon256.dds</File>
+    <File md5="6BD0A88A69B205F85E8B86EB02C3699B" import="1">Art/Horyuji_icon45.dds</File>
+    <File md5="2B9F0B33FBC4215ED1911AE8B5E92DBF" import="1">Art/Horyuji_icon64.dds</File>
+    <File md5="4658AEAAC863ECA624172889DDF8F7AE" import="1">Art/Horyuji_icon80.dds</File>
+    <File md5="68AA85C951AC296E0F9F71F414416151" import="1">Art/Horyuji_splash.dds</File>
+    <File md5="0106072E6C065D1EFA30E952078BC5A8" import="0">XML/Buildings/Horyuji_BuildingClasses.xml</File>
+    <File md5="AF61785AD6B746E06CDD962032684F8E" import="0">XML/Buildings/Horyuji_Buildings.xml</File>
+    <File md5="1AAA0EC7B7DEDD322822D1F97E4AAF82" import="0">XML/Civilizations/Horyuji_Civilizations.xml</File>
+    <File md5="F34E291A165395A9AFF335C859B5D093" import="0">XML/GameInfo/Horyuji_IconTextureAtlases.xml</File>
+    <File md5="2522EA5775BF73B07F55F8AEB1E4DE16" import="0">XML/Text/Horyuji_text_EN_US.xml</File>
+
+    <File md5="04E8009248B9A3B3FA7F3A40B59CD450" import="1">Art/Itsukushima_icon128.dds</File>
+    <File md5="2BFD22042DE506CE50D26C4576890A64" import="1">Art/Itsukushima_icon256.dds</File>
+    <File md5="21DD3FBF6D5D337552C5ED898BCBA817" import="1">Art/itsukushima_icon45.dds</File>
+    <File md5="126CC626DF64B31D3F8CD85A017B539D" import="1">Art/itsukushima_icon64.dds</File>
+    <File md5="EAA414AA92DDC3EED34675168BEFC552" import="1">Art/itsukushima_icon80.dds</File>
+    <File md5="F77821B86DA8AC9D54CA06E6ED67D843" import="1">Art/Itsukushima_splash.dds</File>
+    <File md5="A5B9766792F8F673340A7C62B05F032A" import="1">Art/Itsukushima_splash_a.dds</File>
+    <File md5="D2C643E659C27A13D0446DD32A5671A0" import="0">XML/Buildings/Itsukushima_BuildingClasses.xml</File>
+    <File md5="2962CA42154102C9E95EAF8DEF752C24" import="0">XML/Buildings/Itsukushima_Buildings.xml</File>
+    <File md5="EA198E7FA44DEEA1E33FD243D9DA50F1" import="0">XML/Civilizations/Itsukushima_Civilizations.xml</File>
+    <File md5="57E60C072F59230EDCA530A14D2EE87E" import="0">XML/GameInfo/Itsukushima_IconTextureAtlases.xml</File>
+    <File md5="8E938F420DDD170796631637FD035315" import="0">XML/Text/Itsukushima_text_en_US.xml</File>
+
+    <File md5="5C8CD9AFE1890A9D4A9628535711D32F" import="1">Art/Karnak_icon128.dds</File>
+    <File md5="1A22D433098E3C2E227C5131C70A204C" import="1">Art/Karnak_icon256.dds</File>
+    <File md5="2F4423142A4856BEF1C55B753A74A84B" import="1">Art/Karnak_icon45.dds</File>
+    <File md5="5CAC1DD15DC86449372EE200FE058D13" import="1">Art/Karnak_icon64.dds</File>
+    <File md5="7BA2E9EC829333FFA71C635BFABB141F" import="1">Art/karnak_icon80.dds</File>
+    <File md5="BC30CEDCB213A671C48EEDD9AA3EE37E" import="1">Art/Karnak_splash.dds</File>
+    <File md5="DA9AA8792559F0FB54C9FBFDC48D8A41" import="1">Art/Karnak_splash_a.dds</File>
+    <File md5="3A2A6E8FA87B65F5AC82DFD3BC14EE1C" import="0">XML/Buildings/Karnak_BuildingClasses.xml</File>
+    <File md5="775CB9E1A454BBB41C69400F3AC16F91" import="0">XML/Buildings/Karnak_Buildings.xml</File>
+    <File md5="F65FA04158351A6AAEACCE5D02204384" import="0">XML/Civilizations/Karnak_Civilizations.xml</File>
+    <File md5="2CDB0EA3B80EE72A594C5C0A25557CDA" import="0">XML/GameInfo/Karnak_IconTextureAtlases.xml</File>
+    <File md5="15C11CD8A9EFEA984F1E0965D7976CD5" import="0">XML/Text/Karnak_text_en_US.xml</File>
+
+    <File md5="53E6C746AFF1A1F3CA8720C9B089C263" import="1">Art/Cheomseongdae_splash.dds</File>
+    <File md5="7E0B48FC6381FF4E7759147122036B90" import="1">Art/Cheomseongdae_icon128.dds</File>
+    <File md5="27DEDA10C0419F4819D2E4FCDA299307" import="1">Art/Cheomseongdae_icon256.dds</File>
+    <File md5="CB5AF8A9576C8FAD4F1A3848DE351B8E" import="1">Art/Cheomseongdae_icon45.dds</File>
+    <File md5="CA17A158FB73AE7108C7FE38AE099190" import="1">Art/Cheomseongdae_icon64.dds</File>
+    <File md5="50C3BB8A8EE0134E0123128A4EE9E3F6" import="1">Art/Cheomseongdae_icon80.dds</File>
+    <File md5="257FBDFCFB564D84DC6FFE201FF69B98" import="0">XML/Buildings/Cheomseongdae_BuildingClasses.xml</File>
+    <File md5="0C1DAAF90AE852BDC9215877E4F9DC2C" import="0">XML/Buildings/Cheomseongdae_Buildings.xml</File>
+    <File md5="35AA1166364A1B2D7807714F4CA72EE9" import="0">XML/Civilizations/Cheomseongdae_Civilizations.xml</File>
+    <File md5="F39C69F984D72B09A0CCBD6D455F1546" import="0">XML/GameInfo/Cheomseongdae_IconTextureAtlases.xml</File>
+    <File md5="FA16E73166587D244E889365FAC64D8D" import="0">XML/Text/Cheomseongdae_text_en_US.xml</File>
+
+    <File md5="DC2A8127063D6DD4042CE5738DD064DB" import="1">Art/Titicaca_splash.dds</File>
+    <File md5="7E74CEC44D1E721D4E3C7B60A62604E9" import="0">XML/Buildings/Titicaca_BuildingClasses.xml</File>
+    <File md5="AFD5E17B782AA5577F8D2F28ECDFD3F2" import="0">XML/Buildings/Titicaca_Buildings.xml</File>
+    <File md5="A14C6B59D89EE42E60ECDAADFCD28E30" import="0">XML/Civilizations/Titicaca_Civilizations.xml</File>
+    <File md5="1AEE1F82CDB293647A37D2D82596AEAE" import="0">XML/Text/Titicaca_text_EN_US.xml</File>
+
+    <File md5="69424C211CB802C82C130D566BA8492F" import="1">Art/Leshan_icon128.dds</File>
+    <File md5="F433A1550F852C0E04903B918E207804" import="1">Art/Leshan_icon256.dds</File>
+    <File md5="FC614A891F4DD81FC9C1DB696A747F52" import="1">Art/Leshan_icon45.dds</File>
+    <File md5="A3BF04187E5892AC9BB68BA477045F06" import="1">Art/Leshan_icon64.dds</File>
+    <File md5="1C0CB0CB5A473F41759B19A29027ACBD" import="1">Art/Leshan_icon80.dds</File>
+    <File md5="F3F50E0857089DEB880EF094468D47BC" import="1">Art/Leshan_Splash.dds</File>
+    <File md5="9AAA96F2E33030F684EDAA9E0B86AA79" import="0">XML/Buildings/Leshan_BuildingClasses.xml</File>
+    <File md5="BF67F8A9D4E133F82189A4C707682B95" import="0">XML/Buildings/Leshan_Buildings.xml</File>
+    <File md5="037ED44D15D8387032893256DEA54DA6" import="0">XML/Civilizations/Leshan_Civilizations.xml</File>
+    <File md5="9141510F8326014703668319750C582E" import="0">XML/GameInfo/Leshan_IconTextureAtlases.xml</File>
+    <File md5="2723A0F57DB9C830946ABD6F4774A466" import="0">XML/Text/Leshan_text_en_US.xml</File>
+
+    <File md5="2BAAA06CC66A74675FB7518B62CD710A" import="1">Art/London_128.dds</File>
+    <File md5="F878214A04BC097C5F4BA59656D93A03" import="1">Art/London_256.dds</File>
+    <File md5="947609FF2392BC30210AA63BD5A14AF4" import="1">Art/London_45.dds</File>
+    <File md5="3A4579D8706D8915BD84333B0014615C" import="1">Art/London_64.dds</File>
+    <File md5="F9B4D54C41E8F884BF1E661D09AD1257" import="1">Art/London_80.dds</File>
+    <File md5="4E3A717824DA139A7C97A6C5B971B9A2" import="1">Art/London_splash.dds</File>
+    <File md5="17BC3F349DF3F0EA4A14191DB3884FFB" import="0">XML/Buildings/London_BuildingClasses.xml</File>
+    <File md5="94F787010B7F831256AB9F0D0B5AA48D" import="0">XML/Buildings/London_Buildings.xml</File>
+    <File md5="C5CF45DF040724E84D8F24D6F2AB9BEE" import="0">XML/Civilizations/London_Civilizations.xml</File>
+    <File md5="E82004E71D0BC8D362F5ED92CD2CB1B2" import="0">XML/GameInfo/London_IconTextureAtlases.xml</File>
+    <File md5="A811FC702B833CFFAD328E23B2429784" import="0">XML/Text/London_text_en_US.xml</File>
+
+    <File md5="AE54F997D8CA886AC8F6E8E79DA82EFF" import="1">Art/spiral_minaret_icon128.dds</File>
+    <File md5="A820071BF5B1A37E3E3A746C6DEBDB0F" import="1">Art/spiral_minaret_icon256.dds</File>
+    <File md5="EA18EDD7AC2BE818AFA1F067B5453E9D" import="1">Art/spiral_minaret_icon45.dds</File>
+    <File md5="3E9849E27D588BD3D1D008D4365659AF" import="1">Art/spiral_minaret_icon64.dds</File>
+    <File md5="CD9903C577DD1858ECE1659DAD58E234" import="1">Art/spiral_minaret_icon80.dds</File>
+    <File md5="F3A1F9B3CBE680A49D90FAEA8BE06D11" import="1">Art/Spiral_Minaret_splash.dds</File>
+    <File md5="B1F532B13270AE99186F4C441BDA9AA3" import="0">XML/Buildings/Spiral_Minaret_BuildingClasses.xml</File>
+    <File md5="9B3D1798759F9A32A52440C3FD8BDC9A" import="0">XML/Buildings/Spiral_Minaret_Buildings.xml</File>
+    <File md5="6EB688B35EDC7F30C8FD0C9CF4CAB651" import="0">XML/Civilizations/Spiral_Minaret_Civilizations.xml</File>
+    <File md5="6E69CBD3F396B61C24CD0074646DC8B0" import="0">XML/GameInfo/Spiral_Minaret_IconTextureAtlases.xml</File>
+    <File md5="E26C8DBD89B5E9116BDA6F7001748C79" import="0">XML/Text/Spiral_Minaret_text_en_US.xml</File>
+
+    <File md5="B426125A44D2EE76D5FAE0E5223E3A98" import="1">Art/Millau_128.dds</File>
+    <File md5="D0ED2E885B67915C09FE5059839C5C29" import="1">Art/Millau_256.dds</File>
+    <File md5="561468C77E26FF672B3E0D0F0186DA33" import="1">Art/Millau_45.dds</File>
+    <File md5="9FA707674C5154CED0CA388EA860C398" import="1">Art/Millau_64.dds</File>
+    <File md5="829C4BC6190889AC437BA220D3AD4221" import="1">Art/Millau_80.dds</File>
+    <File md5="4AD3CB701F1F2116277D989263B6C1E1" import="1">Art/Millau_splash.dds</File>
+    <File md5="F908D2E2C68BDEDF934DFD8D4A3D4647" import="0">XML/Buildings/Millau_BuildingClasses.xml</File>
+    <File md5="658BCCE01095840EFAD31A27644B4125" import="0">XML/Buildings/Millau_Buildings.xml</File>
+    <File md5="3A534B6A2BE372D481903495B2EB6742" import="0">XML/Civilizations/Millau_Civilizations.xml</File>
+    <File md5="E9AA64C3A632834C590806FED87BB756" import="0">XML/GameInfo/Millau_IconTextureAtlases.xml</File>
+    <File md5="EC7E70B631C56BA16A3F38641B4C8A0C" import="0">XML/Text/Millau_text_EN_US.xml</File>
+    <File md5="10348541652767517CE8BD6B6F1D81E2" import="0">XML/Units/Millau_UnitPromotions.xml</File>
+
+    <File md5="8045460EE8546C66CA9D3CA5337FAEA3" import="1">Art/MLK_icon128.dds</File>
+    <File md5="BE36939843907E88FE2AAE1CEA2DCDF8" import="1">Art/MLK_icon256.dds</File>
+    <File md5="6CDE52EA3483D6F9EB107EDD8DAE507F" import="1">Art/MLK_icon45.dds</File>
+    <File md5="72168C10EA0A5454A12770506F4FBD8D" import="1">Art/MLK_icon64.dds</File>
+    <File md5="4E33D937B1D5682EB7812A3962EA25A0" import="1">Art/MLK_icon80.dds</File>
+    <File md5="42EA4EB75475871F10545F2DE89E323D" import="1">Art/MLK_Splash.dds</File>
+    <File md5="A8105089C3C60BD2E6A669D0D0A8F73D" import="0">XML/Buildings/MLK_BuildingClasses.xml</File>
+    <File md5="B86EA5A36A626B20FA83510B548864F5" import="0">XML/Buildings/MLK_Buildings.xml</File>
+    <File md5="2BEE16CAA13C9210E98DE2F4E82E1044" import="0">XML/Civilizations/MLK_Civilizations.xml</File>
+    <File md5="1F8E2BA6C31E6AA4F41DA5BF3848FBAF" import="0">XML/GameInfo/MLK_IconTextureAtlases.xml</File>
+    <File md5="7941BCDA7BDBC46A87E76EAB9E9384FC" import="0">XML/GameInfo/MLK_Policies.xml</File>
+    <File md5="F3C07BF61FA8232402B9D2BA317FF308" import="0">XML/Text/MLK_text_en_US.xml</File>
+
+    <File md5="4575A81274740E90A429B90EAE4B3FDF" import="1">Art/Rushmore_icon128.dds</File>
+    <File md5="6497C6198C283E7D34BEC7C0BF44F285" import="1">Art/Rushmore_icon256.dds</File>
+    <File md5="3EDB05B32B148C07D05AE6A4C09EA18A" import="1">Art/Rushmore_icon45.dds</File>
+    <File md5="FFFCA278A069054D2293D4559C7280C1" import="1">Art/Rushmore_icon64.dds</File>
+    <File md5="92C5D70C8C3FD87163434AB11663E988" import="1">Art/Rushmore_icon80.dds</File>
+    <File md5="216842ECD8D8CF2C7773D76D8D176CE3" import="1">Art/Rushmore_splash.dds</File>
+    <File md5="DAC0046272F8205842875C89264945A5" import="1">Art/Rushmore_splash_a.dds</File>
+    <File md5="20E981DB7EC703520C7D46A3192F6198" import="0">XML/Buildings/Rushmore_BuildingClasses.xml</File>
+    <File md5="29B8CE5D3533C8C9CDE061924D986F88" import="0">XML/Buildings/Rushmore_Buildings.xml</File>
+    <File md5="D22040FF3AC5CD95ABE05EA574F5E855" import="0">XML/Civilizations/Rushmore_Civilizations.xml</File>
+    <File md5="FBC3DB93555897C6DFCAB0922A13C75B" import="0">XML/GameInfo/Rushmore_IconTextureAtlases.xml</File>
+    <File md5="A75B551F8ACCE59208F4A59106656A55" import="0">XML/Text/Rushmore_text_en_US.xml</File>
+
+    <File md5="329E3555725B0F5407F71D9BF88AF937" import="1">Art/Madol_128.dds</File>
+    <File md5="77EFA6A869CA62C64065EA8B8665ABCB" import="1">Art/Madol_256.dds</File>
+    <File md5="ECC9D00502780A56869AAC5D36D222C8" import="1">Art/Madol_45.dds</File>
+    <File md5="3DA82861BEB065031892D18DACD7F973" import="1">Art/Madol_64.dds</File>
+    <File md5="469BAA8F1BDA4992B517AD74F4B82EDE" import="1">Art/Madol_80.dds</File>
+    <File md5="11F2835840DC86AC1D3ABE3E877EEAF6" import="1">Art/Madol_splash.dds</File>
+    <File md5="DA61A7D43B1572212E944EF89B34254B" import="0">XML/Buildings/Madol_BuildingClasses.xml</File>
+    <File md5="101AD4C622C757A7AF42416C20B0289A" import="0">XML/Buildings/Madol_Buildings.xml</File>
+    <File md5="EFD831EAA2A6C0A3C24058E72707DD21" import="0">XML/Civilizations/Madol_Civilizations.xml</File>
+    <File md5="CCBFC0093F0B88290D2808C28F5C6688" import="0">XML/GameInfo/Madol_IconTextureAtlases.xml</File>
+    <File md5="B368BA2793D93B17FD7AAAE592232D80" import="0">XML/Text/Madol_text_en_US.xml</File>
+
+    <File md5="96CDA235EE0488580251806C1844E5EB" import="1">Art/Nazca_128.dds</File>
+    <File md5="BFFE6B52B584418A6A627B32A81843DB" import="1">Art/Nazca_256.dds</File>
+    <File md5="3E019A2F6D9AA7052C22055CD8C08707" import="1">Art/Nazca_45.dds</File>
+    <File md5="3455D20A265E53887593F00324AD10F1" import="1">Art/Nazca_64.dds</File>
+    <File md5="371E4C23A28340E71450285732A514C7" import="1">Art/Nazca_80.dds</File>
+    <File md5="1D350EC3E10B43B19068F2AC38B406C3" import="1">Art/nazca_splash.dds</File>
+    <File md5="A9C843C659561323A92FEADE9817DBFA" import="0">XML/Buildings/Nazca_BuildingClasses.xml</File>
+    <File md5="A402C23D046FA5808515AEC721987E52" import="0">XML/Buildings/Nazca_Buildings.xml</File>
+    <File md5="E6B31CEC4B3FAB4FFD4DAE9F2D55E075" import="0">XML/Civilizations/Nazca_Civilizations.xml</File>
+    <File md5="29446C916B33EA6E29E9D64C1DCECA12" import="0">XML/GameInfo/Nazca_IconTextureAtlases.xml</File>
+    <File md5="0619AADAA2C33057E46E511277E2EA9F" import="0">XML/Text/Nazca_text_en_US.xml</File>
+
+    <File md5="BBD8B991A6F4916CA43AD93D0EDAFC6A" import="1">Art/Pena_icon128.dds</File>
+    <File md5="15977B8C36378C7E7DBA61F4A1D28879" import="1">Art/Pena_icon256.dds</File>
+    <File md5="C200CD1B83EDA6BD80D247F631859D77" import="1">Art/Pena_icon45.dds</File>
+    <File md5="04F60426CBDDBE40FD326317593569F4" import="1">Art/Pena_icon64.dds</File>
+    <File md5="37202475916EAD09B73165B777113640" import="1">Art/Pena_icon80.dds</File>
+    <File md5="9253EC513261509779873E7C2A2C656A" import="1">Art/Pena_splash.dds</File>
+    <File md5="FCD14C23B4B8BCC61565285BBC116EFA" import="0">XML/Buildings/Pena_BuildingClasses.xml</File>
+    <File md5="5F945E30B264814750D2855FAC8D7A67" import="0">XML/Buildings/Pena_Buildings.xml</File>
+    <File md5="AE7CDBFA81DA4AF4F9BC589B9AE2AA32" import="0">XML/Civilizations/Pena_Civilizations.xml</File>
+    <File md5="37CA5602583D42ED62E8913E7F6F6938" import="0">XML/GameInfo/Pena_IconTextureAtlases.xml</File>
+    <File md5="440EE7E4B4D73DF02BE9DECEB740458A" import="0">XML/Text/Pena_text_en_US.xml</File>
+
+    <File md5="422F5D10C31953B7BA810181A2BDE303" import="1">Art/Puukohola_Heiau_icon128.dds</File>
+    <File md5="887BC763C5D7F5E49AE2D90BE37B628E" import="1">Art/Puukohola_Heiau_icon256.dds</File>
+    <File md5="1A2BCDC3D5C9AAD4F5332EF717EA4426" import="1">Art/Puukohola_Heiau_icon45.dds</File>
+    <File md5="B3554703D4BE69CB8521FFF49FB6BF49" import="1">Art/Puukohola_Heiau_icon64.dds</File>
+    <File md5="0934E49F87E782B30D2762249870F88A" import="1">Art/Puukohola_Heiau_icon80.dds</File>
+    <File md5="CCEB6CAE0A15483EA9036D518E0B5EAA" import="1">Art/Puukohola_Heiau_splash.dds</File>
+    <File md5="EE5C7FF06AD20C3ACBE4552D154D350C" import="0">XML/Buildings/Puukohola_Heiau_BuildingClasses.xml</File>
+    <File md5="D5F318D1B90A92A9611D4A14B2E748C4" import="0">XML/Buildings/Puukohola_Heiau_Buildings.xml</File>
+    <File md5="282185DEA659C48A8D54A4E23BFC88D7" import="0">XML/Civilizations/Puukohola_Heiau_Civilizations.xml</File>
+    <File md5="9AEAC4DC0E6D999282AAB58C8C3037EF" import="0">XML/GameInfo/Puukohola_Heiau_IconTextureAtlases.xml</File>
+    <File md5="0F3C58F09CC0AE219565FAE1E2928606" import="0">XML/Text/Puukohola_Heiau_text_EN_US.xml</File>
+
+    <File md5="B9A84057A72036C929985DE241BFF032" import="1">Art/duomo_icon128.dds</File>
+    <File md5="AD186EF16D5869732812BBA1F5EA30A5" import="1">Art/duomo_icon256.dds</File>
+    <File md5="A45248D9BA08423250EF902D84241D5B" import="1">Art/duomo_icon45.dds</File>
+    <File md5="00BC27BE7FCD55A3B1B3EC546405E2EE" import="1">Art/duomo_icon64.dds</File>
+    <File md5="C34420F55B3D137B47E0C3A5D551E1D3" import="1">Art/duomo_icon80.dds</File>
+    <File md5="4FBF88504DD3DCFD99D2B0FA7D006BF9" import="1">Art/Duomo_Splash.dds</File>
+    <File md5="FEC0618B33510049B2E63EBC64135195" import="0">XML/Buildings/Duomo_BuildingClasses.xml</File>
+    <File md5="130C8CAEE885F77AB2B6BC6AD3625CD6" import="0">XML/Buildings/Duomo_Buildings.xml</File>
+    <File md5="81BF63304CD9FEAD717E4D92DC946898" import="0">XML/Civilizations/Duomo_Civilizations.xml</File>
+    <File md5="44735B3F263C3E8CE346D4D0F2632B5A" import="0">XML/GameInfo/Duomo_IconTextureAtlases.xml</File>
+    <File md5="7424D114C9A16A6F871FEA293180B0BB" import="0">XML/Text/Duomo_text_EN_US.xml</File>
+
+    <File md5="18E536F20979C4ED392273E3170207FA" import="1">Art/Shwedagon_128.dds</File>
+    <File md5="7FFB52B7785421891FCE9BF92A74EE44" import="1">Art/Shwedagon_256.dds</File>
+    <File md5="245BD5A3AB9D8A794D4646A8B5ABC58F" import="1">Art/Shwedagon_45.dds</File>
+    <File md5="33A79D5B30E06ECBA56D6E3FAA33D3E8" import="1">Art/Shwedagon_64.dds</File>
+    <File md5="E0869C4829ED9F550DFD3BB062010294" import="1">Art/Shwedagon_80.dds</File>
+    <File md5="919386579AACA20B89EE285FB5DBF308" import="1">Art/Shwedagon_splash.dds</File>
+    <File md5="E70502340014E3CC1B84729769B18544" import="0">XML/Buildings/Shwedagon_BuildingClasses.xml</File>
+    <File md5="B5FF358C7BEB94A892DCA1E76EF533F5" import="0">XML/Buildings/Shwedagon_Buildings.xml</File>
+    <File md5="7D24D009213E9E00CED1B6F61E09ABCA" import="0">XML/Civilizations/Shwedagon_Civilizations.xml</File>
+    <File md5="83B2403B9078F1649BD5587D5F031E83" import="0">XML/GameInfo/Shwedagon_IconTextureAtlases.xml</File>
+    <File md5="E1DD06DE01236417046DB8FE162F45BA" import="0">XML/Text/Shwedagon_text_en_US.xml</File>
+
+    <File md5="49A8A9526429A51388C5B8859E294EA7" import="1">Art/skytower_icon128.dds</File>
+    <File md5="3459583D40BB84BD7388DBE2AE48CC9D" import="1">Art/skytower_icon256.dds</File>
+    <File md5="F54328298558AD532431326D7EBDDDEC" import="1">Art/skytower_icon45.dds</File>
+    <File md5="0B8F0F837059844DC364FA32391418FC" import="1">Art/skytower_icon64.dds</File>
+    <File md5="EA03B8004576AA152651A3976F13275F" import="1">Art/skytower_icon80.dds</File>
+    <File md5="EFAFE296B46E4FF87AAC098840A2EF4C" import="1">Art/Skytower_splash.dds</File>
+    <File md5="0AE7A9C84F101B3E8AD561A976376ACE" import="1">Art/Skytower_splash_a.dds</File>
+    <File md5="B566474BE361A93950950A042AF58AA9" import="0">XML/Buildings/Skytower_BuildingClasses.xml</File>
+    <File md5="0CD7235C8823CA94DE36D8A2F880390C" import="0">XML/Buildings/Skytower_Buildings.xml</File>
+    <File md5="B11FB73887EF3D9D72435B7499EBD07B" import="0">XML/Civilizations/Skytower_Civilizations.xml</File>
+    <File md5="53524BB9423A673A6023926B28CCD467" import="0">XML/GameInfo/Skytower_IconTextureAtlases.xml</File>
+    <File md5="519EDA94E9FB4A268217BC16336AAB93" import="0">XML/Text/Skytower_text_en_US.xml</File>
+
+    <File md5="EBE8F78C7A77B3D362C8711F14DB2CB5" import="1">Art/Stone_Town_128.dds</File>
+    <File md5="98D694550545FE85C46D983E12325447" import="1">Art/Stone_Town_256.dds</File>
+    <File md5="130407E0400BC151B82C0756F46F68CE" import="1">Art/Stone_Town_45.dds</File>
+    <File md5="9746C29DF3DC839A5E3064FD659DDD93" import="1">Art/Stone_Town_64.dds</File>
+    <File md5="BF733704F830412809514BFB9D905EC6" import="1">Art/Stone_Town_80.dds</File>
+    <File md5="4E28328BB1A1023111F2FE2EA4888AB4" import="1">Art/Stone_Town_splash.dds</File>
+    <File md5="478FEC106F169371CBF79F3BA3B7D2D9" import="0">XML/Buildings/Stone_Town_BuildingClasses.xml</File>
+    <File md5="B05EF3670E2E36AD0F6F14E875174795" import="0">XML/Buildings/Stone_Town_Buildings.xml</File>
+    <File md5="E2911A89D11BBB73DF357BBD23783375" import="0">XML/Civilizations/Stone_Town_Civilizations.xml</File>
+    <File md5="A9A23224A65BA5E7560D1362CC2EC74D" import="0">XML/GameInfo/Stone_Town_IconTextureAtlases.xml</File>
+    <File md5="8E81597CB646B6073F75912475AD8E69" import="0">XML/Text/Stone_Town_text_EN_US.xml</File>
+
+    <File md5="F921824A796E719082E06AA5FC03A260" import="1">Art/taipei_icon128.dds</File>
+    <File md5="7DF0E5BF950F53EE1A122CB686F43808" import="1">Art/taipei_icon256.dds</File>
+    <File md5="B9980EF22F81FEC203818CE73A93AA87" import="1">Art/taipei_icon45.dds</File>
+    <File md5="6E3C5F47B7850E4D34E1AABADD8092A6" import="1">Art/taipei_icon64.dds</File>
+    <File md5="DDCAA6C87F366B1BE228FC71BD166A91" import="1">Art/taipei_icon80.dds</File>
+    <File md5="E2189BE9ACDDFBCC75087871622F0948" import="1">Art/Taipei_splash.dds</File>
+    <File md5="6964880C2370D46E970C387441130717" import="0">XML/Buildings/Taipei_BuildingClasses.xml</File>
+    <File md5="3062D9E7EC719E8DF2AD49F054F0CCB1" import="0">XML/Buildings/Taipei_Buildings.xml</File>
+    <File md5="1265F8DB40D2498575C0A259946815EA" import="0">XML/Civilizations/Taipei_Civilizations.xml</File>
+    <File md5="551A295ECFD000B7970655ECAD7ED3FC" import="0">XML/GameInfo/Taipei_IconTextureAtlases.xml</File>
+    <File md5="49112DC0B379389B9F2A387B938DD416" import="0">XML/Text/Taipei_text_en_US.xml</File>
+
+    <File md5="FBC97C021A2845486727081FF42392D0" import="1">Art/Templo_icon128.dds</File>
+    <File md5="20396AB4051688C58C73ADBF5A09A1E3" import="1">Art/Templo_icon256.dds</File>
+    <File md5="4D432C382C4BB5A04F37CD93F3934246" import="1">Art/Templo_icon45.dds</File>
+    <File md5="6A2C7C9DAF695ACE22A03D77F48146EC" import="1">Art/Templo_icon64.dds</File>
+    <File md5="9783E3E4BAFEA34B3DB6317647A3DF01" import="1">Art/Templo_icon80.dds</File>
+    <File md5="D5C6E052CA9DB4EAEF4E6638DFAEDC12" import="1">Art/Templo_splash.dds</File>
+    <File md5="BA9C0475753F2757C5CA6145921A3B48" import="0">XML/Buildings/Templo_BuildingClasses.xml</File>
+    <File md5="8FDA43A4D42E353DBBAED6C58D54BD2A" import="0">XML/Buildings/Templo_Buildings.xml</File>
+    <File md5="B53EC07270C906C95D62DC1B6FFF82F3" import="0">XML/Civilizations/Templo_Civilizations.xml</File>
+    <File md5="3C0E39FC90DA3521FD69C82DDDAFDF74" import="0">XML/GameInfo/Templo_IconTextureAtlases.xml</File>
+    <File md5="4AFFFD089E0F155D3392F12E75A62481" import="0">XML/Text/Templo_text_EN_US.xml</File>
+
+    <File md5="598DC69E6BE830012C2951638FA7705E" import="1">Art/Wartburg_icon128.dds</File>
+    <File md5="C1F6622571F991F20DF11B1F5BD025C0" import="1">Art/Wartburg_icon256.dds</File>
+    <File md5="A76D2E85CB4106726A31C7AB72FA2CDA" import="1">Art/Wartburg_icon45.dds</File>
+    <File md5="68F3DFE5B21A9EEF9BB7685D01417A74" import="1">Art/Wartburg_icon64.dds</File>
+    <File md5="6029E5743AA6247B4A06FC7DD99CD54B" import="1">Art/Wartburg_icon80.dds</File>
+    <File md5="479341492E4B36CDB0EA376AD597DC03" import="1">Art/Wartburg_splash.dds</File>
+    <File md5="9DA2B1AA41913A396ED82B4174916BF6" import="0">XML/Buildings/Wartburg_BuildingClasses.xml</File>
+    <File md5="9C61DBBD1A34AFFEF03895DC3F921D5D" import="0">XML/Buildings/Wartburg_Buildings.xml</File>
+    <File md5="4FCC38F5044A94DE11A287EE97ECC9CA" import="0">XML/Civilizations/Wartburg_Civilizations.xml</File>
+    <File md5="649678272A97C6B37063C5928F21D8E5" import="0">XML/GameInfo/Wartburg_GreatWorks.xml</File>
+    <File md5="E22AF47C6EBC4D7BF968ADD2F240E672" import="0">XML/GameInfo/Wartburg_IconTextureAtlases.xml</File>
+    <File md5="A5791565B3932DF74E9BB88B61A94B91" import="0">XML/Text/Wartburg_text_EN_US.xml</File>
+
+    <File md5="DA7B1A9941941768AB8871B3D49CE45D" import="1">Art/Westminster_128.dds</File>
+    <File md5="6564E4D8E552FD69A08E14ACF87D5203" import="1">Art/Westminster_256.dds</File>
+    <File md5="E8B69F4D091112FD9D8E58E406819A91" import="1">Art/Westminster_45.dds</File>
+    <File md5="5A532773534142523403C8D75316C3C7" import="1">Art/Westminster_64.dds</File>
+    <File md5="1F4644255DC452D9360B732AA282DA10" import="1">Art/Westminster_80.dds</File>
+    <File md5="5E21C0276C8A14AB8FD8FBA284E470B9" import="1">Art/Westminster_splash.dds</File>
+    <File md5="BEFD8726060336B418565C58058E775B" import="0">XML/Buildings/Westminster_BuildingClasses.xml</File>
+    <File md5="41645680DEDE23290C06AEF47CF6D0C3" import="0">XML/Buildings/Westminster_Buildings.xml</File>
+    <File md5="6FC93D2B5771185B7B3B5C35E4E08C0A" import="0">XML/Civilizations/Westminster_Civilizations.xml</File>
+    <File md5="536CF9D952F0E3802B9B965C221F3DBA" import="0">XML/GameInfo/Westminster_Policies.xml</File>
+    <File md5="456439F41D6C1278B4F44713714D979C" import="0">XML/GameInfo/Westminster_IconTextureAtlases.xml</File>
+    <File md5="35EF7BD1E4D55781BCCDBE7B5F91FCDC" import="0">XML/Text/Westminster_text_EN_US.xml</File>
+	
+	<File md5="329E3555725B0F5407F71D9BF88AF937" import="1">Art/Madol_128.dds</File>
+    <File md5="77EFA6A869CA62C64065EA8B8665ABCB" import="1">Art/Madol_256.dds</File>
+    <File md5="ECC9D00502780A56869AAC5D36D222C8" import="1">Art/Madol_45.dds</File>
+    <File md5="3DA82861BEB065031892D18DACD7F973" import="1">Art/Madol_64.dds</File>
+    <File md5="469BAA8F1BDA4992B517AD74F4B82EDE" import="1">Art/Madol_80.dds</File>
+    <File md5="11F2835840DC86AC1D3ABE3E877EEAF6" import="1">Art/Madol_splash.dds</File>
+    <File md5="DA61A7D43B1572212E944EF89B34254B" import="0">XML/Buildings/Madol_BuildingClasses.xml</File>
+    <File md5="101AD4C622C757A7AF42416C20B0289A" import="0">XML/Buildings/Madol_Buildings.xml</File>
+    <File md5="EFD831EAA2A6C0A3C24058E72707DD21" import="0">XML/Civilizations/Madol_Civilizations.xml</File>
+    <File md5="CCBFC0093F0B88290D2808C28F5C6688" import="0">XML/GameInfo/Madol_IconTextureAtlases.xml</File>
+    <File md5="B368BA2793D93B17FD7AAAE592232D80" import="0">XML/Text/Madol_text_en_US.xml</File>
+	
+	<File md5="D7A17226DB06C8CBB8ECEF2E08A6BBD2" import="1">Art/Washington_128.dds</File>
+    <File md5="6EE05C31645C7FC84C2BFC46A1FD0C06" import="1">Art/Washington_256.dds</File>
+    <File md5="72722124231DD8AFD94F9D4F2B301A1B" import="1">Art/Washington_45.dds</File>
+    <File md5="EF8BE136834CE0B494FB3C639589FD4F" import="1">Art/Washington_64.dds</File>
+    <File md5="19C8705B634EC717C26D09CC7D057BDC" import="1">Art/Washington_80.dds</File>
+    <File md5="E39E417583BEE18C6C715CF89EABEE4B" import="1">Art/Washington_splash.dds</File>
+    <File md5="4FC6ECCC7A520483A2E81D31E7793A09" import="0">XML/Buildings/Washington_BuildingClasses.xml</File>
+    <File md5="F87F8B37C88D67BE5E64F1808D6E031F" import="0">XML/Buildings/Washington_Buildings.xml</File>
+    <File md5="F7E66B6900E495E9CF6F2D14AC05C138" import="0">XML/Civilizations/Washington_Civilizations.xml</File>
+    <File md5="8E73813EEC00D06DE3D19755F850EB07" import="0">XML/GameInfo/Washington_IconTextureAtlases.xml</File>
+    <File md5="06F54653E4048A26586F629C670D0B5F" import="0">XML/Text/Washington_text_en_US.xml</File>
+	
+    <File md5="FFAC2CF21484563EE3B291A7AF14D8E4" import="1">Art/ETEMENANKI128.dds</File>
+    <File md5="8E88C161D4BF57BF7C75F176AAF6735E" import="1">Art/ETEMENANKI256.dds</File>
+    <File md5="755876F90F8982C7DC97F3D4C289111D" import="1">Art/ETEMENANKI45.dds</File>
+    <File md5="4D73F27A23266E0F1A62372A7FC8B9E3" import="1">Art/ETEMENANKI64.dds</File>
+    <File md5="A5C95F762C9E9A20DD11989DB6F01573" import="1">Art/ETEMENANKI80.dds</File>
+	<File md5="DFC205F24D13714803E0131F8705FF03" import="1">Art/Etemenanki_splash.dds</File>
+	<File md5="8A178B51320FA9D3D01A46A7A74528AD" import="0">XML/Buildings/Etemenanki_Buildings.xml</File>
+    <File md5="105A31AAE10FC9460634F67F3D98D22F" import="0">XML/GameInfo/Etemenanki_IconTextureAtlases.xml</File>
+	<File md5="FFFEC025FD535808BEA5AAA3284D5C0C" import="0">XML/Text/Etemenanki_text_en_US.xml</File>
+	
+	<File md5="180548B700BAEE31ACDEA4AC024F2303" import="1">Art/KUJATAA128.dds</File>
+    <File md5="006DDFFEF835DA728E4F04C7D36C8E14" import="1">Art/KUJATAA256.dds</File>
+    <File md5="D68A3A573384446942B7176A00E1ADC0" import="1">Art/KUJATAA45.dds</File>
+    <File md5="5369027C1513C9EC92D492309210B863" import="1">Art/KUJATAA64.dds</File>
+    <File md5="D1504765E14E33CD6BF88FA42FB45A7D" import="1">Art/KUJATAA80.dds</File>
+	<File md5="5F41F0A3651BF6E142A24E50BD66CA68" import="1">Art/Kujataa_splash.dds</File>
+    <File md5="453C1429EDEEB956680D4F8219620B36" import="0">XML/Buildings/Kujataa_Buildings.xml</File>
+    <File md5="2D1C67F2FA7F6452600A8B55D85E3038" import="0">XML/GameInfo/Kujataa_IconTextureAtlases.xml</File>
+    <File md5="60C1D648A9E5802BEAEC4AE4008537FD" import="0">XML/Text/Kujataa_text_en_US.xml</File>
+	
+	<File md5="941390F678356BBF62B9C73FA20B896A" import="1">Art/Zanbil_128.dds</File>
+    <File md5="0455018308E0C8850E9357A55D9DA163" import="1">Art/Zanbil_256.dds</File>
+    <File md5="3821E5FF27D33C5D3B4E611010AE945A" import="1">Art/Zanbil_45.dds</File>
+    <File md5="82EB815D87E4CC1F408EF430C1C8EFB6" import="1">Art/Zanbil_64.dds</File>
+    <File md5="0689C736E24C5A7CA0DE689F611292B9" import="1">Art/Zanbil_80.dds</File>
+    <File md5="7C3A8B477639FFC62D7398D4959F6371" import="1">Art/Zanbil_splash.dds</File>
+    <File md5="3D4B6032FFEE826E45669EC88CB9250B" import="0">XML/Buildings/Zanbil_BuildingClasses.xml</File>
+    <File md5="2049E62C5456A0F751A4785CBB2EC6CF" import="0">XML/Buildings/Zanbil_Buildings.xml</File>
+    <File md5="DDA0AC0C7343589BB5C34FD5F816636E" import="0">XML/Civilizations/Zanbil_Civilizations.xml</File>
+    <File md5="975200A347F52231047D55EC75910570" import="0">XML/GameInfo/Zanbil_IconTextureAtlases.xml</File>
+    <File md5="14EE150301269678E702AA2454CD3EB7" import="0">XML/Text/Zanbil_text_en_US.xml</File>
+	
+	<File md5="99DBFC305C3A2F43C07B945805FEF572" import="1">Art/Chartres_Splash.dds</File>
+    <File md5="5012DD026D7EC87F8AFEFC30DB07F134" import="1">Art/Chatres_128.dds</File>
+    <File md5="53476DBDD87BCD2F0AE4836B3EF7DEAB" import="1">Art/Chatres_256.dds</File>
+    <File md5="04458E916CE3916E43C34E1336C6DA8E" import="1">Art/Chatres_45.dds</File>
+    <File md5="563CBFC0B688E35C51FC6F46C1B23097" import="1">Art/Chatres_64.dds</File>
+    <File md5="E72882E95DFA861C43685CE402A7A07E" import="1">Art/Chatres_80.dds</File>
+    <File md5="CBEAAD0681A2F04571D3E8A9FD7B7B5C" import="0">XML/Buildings/Chartres_BuildingClasses.xml</File>
+    <File md5="545FA82D83FB4D14A19AB953DC72F2FB" import="0">XML/Buildings/Chartres_Buildings.xml</File>
+    <File md5="06821EE37877636F0A760A1292624CF5" import="0">XML/Civilizations/Chartres_Civilizations.xml</File>
+    <File md5="89608957B6BFBD941DE5F328B09D997E" import="0">XML/GameInfo/Chartres_IconTextureAtlases.xml</File>
+    <File md5="C7AA170A2FDC269DC3DA569FD961F16D" import="0">XML/Text/Chartres_text_EN_US.xml</File>
+	
+	<File md5="55A81706A9F888B434CEAE92D9D9B49D" import="1">Lua/WorldWonder.lua</File>
+	<File md5="BE222A4A3D97DCBCCE8F42229339F7C3" import="1">Lua/WorldWonder_CombatRule.lua</File>
+	<File md5="64AC7A317A034AFEE851F1383DE7BE5A" import="0">XML/Politics/Banaue_Wonders_Politics.xml</File>
+	<File md5="EDAE71A3EBD62A395849C22E6932848B" import="1">Art/Wonderswork_The_Last_Supper.dds</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+		<UpdateDatabase>XML/Buildings/Gifu_Building.xml</UpdateDatabase>
+		<UpdateDatabase>XML/Gameinfo/Gifu_IconAtlas.xml</UpdateDatabase>
+		<UpdateDatabase>XML/Text/Gifu_text_en_US.xml</UpdateDatabase>
+		<UpdateDatabase>XML/Units/Gifu_UnitPromotions.xml</UpdateDatabase>
+		<UpdateDatabase>XML/Units/Unit_Ashigaru.xml</UpdateDatabase>
+
+		<UpdateDatabase>XML/Buildings/WhiteSands_BuildingClasses.xml</UpdateDatabase>
+		<UpdateDatabase>XML/Buildings/WhiteSands_Buildings.xml</UpdateDatabase>
+		<UpdateDatabase>XML/Civilizations/WhiteSands_Civilizations.xml</UpdateDatabase>
+		<UpdateDatabase>XML/GameInfo/WhiteSands_IconTextureAtlases.xml</UpdateDatabase>
+		<UpdateDatabase>XML/Text/WhiteSands_text_en_US.xml</UpdateDatabase>
+		
+		<UpdateDatabase>Font Icon/RS_fonticons.xml</UpdateDatabase>
+		<UpdateDatabase>XML/Buildings/FR_Bulidings.xml</UpdateDatabase>
+		<UpdateDatabase>XML/GameInfo/FR_IconAtlas.xml</UpdateDatabase>
+		<UpdateDatabase>XML/Terrain/RomanStatue.xml</UpdateDatabase>
+		<UpdateDatabase>XML/Text/FR_Text_EN_US.xml</UpdateDatabase>
+		
+		<UpdateDatabase>XML/Buildings/Matterhorn_BuildingClasses.xml</UpdateDatabase>
+		<UpdateDatabase>XML/Buildings/Matterhorn_Buildings.xml</UpdateDatabase>
+		<UpdateDatabase>XML/Civilizations/Matterhorn_Civilizations.xml</UpdateDatabase>
+		<UpdateDatabase>XML/GameInfo/Matterhorn_IconTextureAtlases.xml</UpdateDatabase>
+		<UpdateDatabase>XML/Text/Matterhorn_text_EN_US.xml</UpdateDatabase>
+
+		<UpdateDatabase>XML/Buildings/Teotihuacan_Buildings.xml</UpdateDatabase>
+		<UpdateDatabase>XML/Buildings/Teotihuacan_BuildingClasses.xml</UpdateDatabase>
+		<UpdateDatabase>XML/Civilizations/Teotihuacan_Civilizations.xml</UpdateDatabase>
+		<UpdateDatabase>XML/GameInfo/Teotihuacan_IconTextureAtlases.xml</UpdateDatabase>
+		<UpdateDatabase>XML/Text/Teotihuacan_text_EN_US.xml</UpdateDatabase>
+		
+		<UpdateDatabase>XML/Buildings/Golden_Pavilion_BuildingClasses.xml</UpdateDatabase>
+		<UpdateDatabase>XML/Buildings/Golden_Pavilion_Buildings.xml</UpdateDatabase>
+		<UpdateDatabase>XML/Civilizations/Golden_Pavilion_Civilizations.xml</UpdateDatabase>
+		<UpdateDatabase>XML/GameInfo/Golden_Pavilion_IconTextureAtlases.xml</UpdateDatabase>
+		<UpdateDatabase>XML/Text/Golden_Pavilion_text_EN_US.xml</UpdateDatabase>
+		<UpdateDatabase>XML/Text/Golden_Pavilion_text_es_ES.xml</UpdateDatabase>
+		
+		<UpdateDatabase>XML/Buildings/Pantheon_BuildingClasses.xml</UpdateDatabase>
+		<UpdateDatabase>XML/Buildings/Pantheon_Buildings.xml</UpdateDatabase>
+		<UpdateDatabase>XML/Civilizations/Pantheon_Civilizations.xml</UpdateDatabase>
+		<UpdateDatabase>XML/GameInfo/Pantheon_IconTextureAtlases.xml</UpdateDatabase>
+		<UpdateDatabase>XML/Text/Pantheon_text_EN_US.xml</UpdateDatabase>
+		
+		<UpdateDatabase>XML/Buildings/Aber_Buildings.xml</UpdateDatabase>
+		<UpdateDatabase>XML/Buildings/Diwali_BuildingClasses.xml</UpdateDatabase>
+		<UpdateDatabase>XML/Buildings/Harmandir_Buildings.xml</UpdateDatabase>
+		<UpdateDatabase>XML/Buildings/Hawa_Buildings.xml</UpdateDatabase>
+		<UpdateDatabase>XML/Civilizations/Diwali_Civilizations.xml</UpdateDatabase>
+		<UpdateDatabase>XML/GameInfo/Diwali_IconTextureAtlases.xml</UpdateDatabase>
+		<UpdateDatabase>XML/Text/Diwali_text_en_US.xml</UpdateDatabase>
+		
+		<UpdateDatabase>XML/Buildings/MesaVerde_BuildingClasses.xml</UpdateDatabase>
+		<UpdateDatabase>XML/Buildings/MesaVerde_Buildings.xml</UpdateDatabase>
+		<UpdateDatabase>XML/Civilizations/MesaVerde_Civilizations.xml</UpdateDatabase>
+		<UpdateDatabase>XML/GameInfo/MesaVerde_IconTextureAtlases.xml</UpdateDatabase>
+		<UpdateDatabase>XML/Text/MesaVerde_text_en_US.xml</UpdateDatabase>
+		
+		<UpdateDatabase>XML/Buildings/Ruapehu_BuildingClasses.xml</UpdateDatabase>
+		<UpdateDatabase>XML/Buildings/Ruapehu_Buildings.xml</UpdateDatabase>
+		<UpdateDatabase>XML/Civilizations/Ruapehu_Civilizations.xml</UpdateDatabase>
+		<UpdateDatabase>XML/GameInfo/Ruapehu_IconTextureAtlases.xml</UpdateDatabase>
+		<UpdateDatabase>XML/Text/Ruapehu_text_EN_US.xml</UpdateDatabase>
+		
+		<UpdateDatabase>XML/Buildings/Maria_BuildingClasses.xml</UpdateDatabase>
+		<UpdateDatabase>XML/Civilizations/Maria_Civilizations.xml</UpdateDatabase>
+		<UpdateDatabase>XML/GameInfo/Maria_IconTextureAtlases.xml</UpdateDatabase>
+		<UpdateDatabase>XML/Text/Maria_text_en_US.xml</UpdateDatabase>
+		<UpdateDatabase>XML/Buildings/Maria_Buildings.xml</UpdateDatabase>
+		
+		<UpdateDatabase>XML/Buildings/Todaiji_BuildingClasses.xml</UpdateDatabase>
+		<UpdateDatabase>XML/Buildings/Todaiji_Buildings.xml</UpdateDatabase>
+		<UpdateDatabase>XML/Civilizations/Todaiji_Civilizations.xml</UpdateDatabase>
+		<UpdateDatabase>XML/GameInfo/Todaiji_IconTextureAtlases.xml</UpdateDatabase>
+		<UpdateDatabase>XML/Text/Todaiji_text_en_US.xml</UpdateDatabase>
+		
+		<UpdateDatabase>XML/Buildings/Benhaddou_BuildingClasses.xml</UpdateDatabase>
+		<UpdateDatabase>XML/Buildings/Benhaddou_Buildings.xml</UpdateDatabase>
+		<UpdateDatabase>XML/Civilizations/Benhaddou_Civilizations.xml</UpdateDatabase>
+		<UpdateDatabase>XML/GameInfo/Benhaddou_IconTextureAtlases.xml</UpdateDatabase>
+		<UpdateDatabase>XML/Text/Benhaddou_text_EN_US.xml</UpdateDatabase>
+
+		<UpdateDatabase>XML/Buildings/SDI_BuildingClasses.xml</UpdateDatabase>
+		<UpdateDatabase>XML/Buildings/SDI_Buildings.xml</UpdateDatabase>
+		<UpdateDatabase>XML/Civilizations/SDI_Civilizations.xml</UpdateDatabase>
+		<UpdateDatabase>XML/GameInfo/Longshot_IconTextureAtlases.xml</UpdateDatabase>
+		<UpdateDatabase>XML/GameInfo/Longshot_ProjectUpdate.xml</UpdateDatabase>
+		<UpdateDatabase>XML/Text/SDI_text_en_US.xml</UpdateDatabase>
+
+		<UpdateDatabase>XML/Buildings/Habib_Bourguiba_BuildingClasses.xml</UpdateDatabase>
+		<UpdateDatabase>XML/Buildings/Habib_Bourguiba_Buildings.xml</UpdateDatabase>
+		<UpdateDatabase>XML/Civilizations/Habib_Bourguiba_Civilizations.xml</UpdateDatabase>
+		<UpdateDatabase>XML/Text/Habib_Bourguiba_text_en_US.xml</UpdateDatabase>
+		<UpdateDatabase>XML/GameInfo/Arab_Spring_IconTextureAtlases.xml</UpdateDatabase>
+		<UpdateDatabase>XML/Buildings/Martyrs_BuildingClasses.xml</UpdateDatabase>
+		<UpdateDatabase>XML/Buildings/Martyrs_Buildings.xml</UpdateDatabase>
+		<UpdateDatabase>XML/Civilizations/Martyrs_Civilizations.xml</UpdateDatabase>
+		<UpdateDatabase>XML/Text/Martyrs_text_en_US.xml</UpdateDatabase>
+		<UpdateDatabase>XML/Buildings/Pearl_Monument_BuildingClasses.xml</UpdateDatabase>
+		<UpdateDatabase>XML/Buildings/Pearl_Monument_Buildings.xml</UpdateDatabase>
+		<UpdateDatabase>XML/Civilizations/Pearl_Monument_Civilizations.xml</UpdateDatabase>
+		<UpdateDatabase>XML/Text/Pearl_Monument_text_en_US.xml</UpdateDatabase>
+		<UpdateDatabase>XML/Buildings/Aleppo_BuildingClasses.xml</UpdateDatabase>
+		<UpdateDatabase>XML/Buildings/Aleppo_Buildings.xml</UpdateDatabase>
+		<UpdateDatabase>XML/Civilizations/Aleppo_Civilizations.xml</UpdateDatabase>
+		<UpdateDatabase>XML/Text/Aleppo_text_en_US.xml</UpdateDatabase>
+		<UpdateDatabase>XML/Units/Martyrs_UnitPromotions.xml</UpdateDatabase>
+
+		<UpdateDatabase>XML/Buildings/Arecibo_BuildingClasses.xml</UpdateDatabase>
+		<UpdateDatabase>XML/Buildings/Arecibo_Buildings.xml</UpdateDatabase>
+		<UpdateDatabase>XML/Civilizations/Arecibo_Civilizations.xml</UpdateDatabase>
+		<UpdateDatabase>XML/GameInfo/Arecibo_IconTextureAtlases.xml</UpdateDatabase>
+		<UpdateDatabase>XML/Text/Arecibo_text_en_US.xml</UpdateDatabase>
+
+		<UpdateDatabase>Font Icon/Rice_Fonticon.xml</UpdateDatabase>
+		<UpdateDatabase>XML/Buildings/Banaue_BuildingClasses.xml</UpdateDatabase>
+		<UpdateDatabase>XML/Buildings/Banaue_Buildings.xml</UpdateDatabase>
+		<UpdateDatabase>XML/Civilizations/Banaue_Civilizations.xml</UpdateDatabase>
+		<UpdateDatabase>XML/GameInfo/Banaue_IconTextureAtlases.xml</UpdateDatabase>
+		<UpdateDatabase>XML/Terrain/Rice.xml</UpdateDatabase>
+		<UpdateDatabase>XML/Text/Banaue_text_EN_US.xml</UpdateDatabase>
+
+		<UpdateDatabase>XML/Buildings/Brooklyn_BuildingClasses.xml</UpdateDatabase>
+		<UpdateDatabase>XML/Buildings/Brooklyn_Buildings.xml</UpdateDatabase>
+		<UpdateDatabase>XML/Civilizations/Brooklyn_Civilizations.xml</UpdateDatabase>
+		<UpdateDatabase>XML/GameInfo/Brooklyn_IconTextureAtlases.xml</UpdateDatabase>
+		<UpdateDatabase>XML/Text/Brooklyn_text_en_US.xml</UpdateDatabase>
+
+		<UpdateDatabase>XML/Buildings/Buda_BuildingClasses.xml</UpdateDatabase>
+		<UpdateDatabase>XML/Buildings/Buda_Buildings.xml</UpdateDatabase>
+		<UpdateDatabase>XML/Civilizations/Buda_Civilizations.xml</UpdateDatabase>
+		<UpdateDatabase>XML/GameInfo/Buda_IconTextureAtlases.xml</UpdateDatabase>
+		<UpdateDatabase>XML/Text/Buda_text_EN_US.xml</UpdateDatabase>
+
+		<UpdateDatabase>XML/Buildings/Bamiyan_BuildingClasses.xml</UpdateDatabase>
+		<UpdateDatabase>XML/Buildings/Bamiyan_Buildings.xml</UpdateDatabase>
+		<UpdateDatabase>XML/Civilizations/Bamiyan_Civilizations.xml</UpdateDatabase>
+		<UpdateDatabase>XML/GameInfo/Bamiyan_IconTextureAtlases.xml</UpdateDatabase>
+		<UpdateDatabase>XML/Text/Bamiyan_text_EN_US.xml</UpdateDatabase>
+
+		<UpdateDatabase>XML/Buildings/Cairo_BuildingClasses.xml</UpdateDatabase>
+		<UpdateDatabase>XML/Buildings/Cairo_Buildings.xml</UpdateDatabase>
+		<UpdateDatabase>XML/Civilizations/Cairo_Civilizations.xml</UpdateDatabase>
+		<UpdateDatabase>XML/GameInfo/Cairo_IconTextureAtlases.xml</UpdateDatabase>
+		<UpdateDatabase>XML/Text/Cairo_text_EN_US.xml</UpdateDatabase>
+
+		<UpdateDatabase>XML/GameInfo/Chinese_New_Year_IconTextureAtlases.xml</UpdateDatabase>
+		<UpdateDatabase>XML/Buildings/Jiayuguan_BuildingClasses.xml</UpdateDatabase>
+		<UpdateDatabase>XML/Buildings/Jiayuguan_Buildings.xml</UpdateDatabase>
+		<UpdateDatabase>XML/Civilizations/Jiayuguan_Civilizations.xml</UpdateDatabase>
+		<UpdateDatabase>XML/Text/Jiayuguan_text_en_US.xml</UpdateDatabase>
+		<UpdateDatabase>XML/Buildings/Shanghai_WFC_BuildingClasses.xml</UpdateDatabase>
+		<UpdateDatabase>XML/Buildings/Shanghai_WFC_Buildings.xml</UpdateDatabase>
+		<UpdateDatabase>XML/Civilizations/Shanghai_WFC_Civilizations.xml</UpdateDatabase>
+		<UpdateDatabase>XML/Text/Shanghai_WFC_text_en_US.xml</UpdateDatabase>
+		<UpdateDatabase>XML/Buildings/Xuankong_BuildingClasses.xml</UpdateDatabase>
+		<UpdateDatabase>XML/Buildings/Xuankong_Buildings.xml</UpdateDatabase>
+		<UpdateDatabase>XML/Civilizations/Xuankong_Civilizations.xml</UpdateDatabase>
+		<UpdateDatabase>XML/Text/Xuankong_text_en_US.xml</UpdateDatabase>
+		<UpdateDatabase>XML/Buildings/Yellow_Crane_BuildingClasses.xml</UpdateDatabase>
+		<UpdateDatabase>XML/Text/Yellow_Crane_text_en_US.xml</UpdateDatabase>
+		<UpdateDatabase>XML/Civilizations/Yellow_Crane_Civilizations.xml</UpdateDatabase>
+		<UpdateDatabase>XML/Buildings/Yellow_Crane_Buildings.xml</UpdateDatabase>
+
+		<UpdateDatabase>XML/Buildings/Cologne_BuildingClasses.xml</UpdateDatabase>
+		<UpdateDatabase>XML/Buildings/Cologne_Buildings.xml</UpdateDatabase>
+		<UpdateDatabase>XML/Civilizations/Cologne_Civilizations.xml</UpdateDatabase>
+		<UpdateDatabase>XML/GameInfo/Cologne_IconTextureAtlases.xml</UpdateDatabase>
+		<UpdateDatabase>XML/Text/Cologne_text_EN_US.xml</UpdateDatabase>
+
+		<UpdateDatabase>XML/Buildings/Diwali_BuildingClasses.xml</UpdateDatabase>
+		<UpdateDatabase>XML/Civilizations/Diwali_Civilizations.xml</UpdateDatabase>
+		<UpdateDatabase>XML/GameInfo/Diwali_IconTextureAtlases.xml</UpdateDatabase>
+		<UpdateDatabase>XML/Text/Diwali_text_en_US.xml</UpdateDatabase>
+
+		<UpdateDatabase>XML/Buildings/Dome_BuildingClasses.xml</UpdateDatabase>
+		<UpdateDatabase>XML/Buildings/Dome_Buildings.xml</UpdateDatabase>
+		<UpdateDatabase>XML/Civilizations/Dome_Civilizations.xml</UpdateDatabase>
+		<UpdateDatabase>XML/GameInfo/Dome_IconTextureAtlases.xml</UpdateDatabase>
+		<UpdateDatabase>XML/Text/Dome_text_en_US.xml</UpdateDatabase>
+		<UpdateDatabase>XML/Religion/Dome_Beliefs.xml</UpdateDatabase>
+
+		<UpdateDatabase>XML/Buildings/Tajin_BuildingClasses.xml</UpdateDatabase>
+		<UpdateDatabase>XML/Buildings/Tajin_Buildings.xml</UpdateDatabase>
+		<UpdateDatabase>XML/Civilizations/Tajin_Civilizations.xml</UpdateDatabase>
+		<UpdateDatabase>XML/GameInfo/Tajin_IconTextureAtlases.xml</UpdateDatabase>
+		<UpdateDatabase>XML/Text/Tajin_text_EN_US.xml</UpdateDatabase>
+
+		<UpdateDatabase>XML/Buildings/Empire_BuildingClasses.xml</UpdateDatabase>
+		<UpdateDatabase>XML/Buildings/Empire_Buildings.xml</UpdateDatabase>
+		<UpdateDatabase>XML/Civilizations/Empire_Civilizations.xml</UpdateDatabase>
+		<UpdateDatabase>XML/GameInfo/Empire_IconTextureAtlases.xml</UpdateDatabase>
+		<UpdateDatabase>XML/Text/Empire_text_en_US.xml</UpdateDatabase>
+
+		<UpdateDatabase>XML/Buildings/Selaron_BuildingClasses.xml</UpdateDatabase>
+		<UpdateDatabase>XML/Buildings/Selaron_Buildings.xml</UpdateDatabase>
+		<UpdateDatabase>XML/Civilizations/Selaron_Civilizations.xml</UpdateDatabase>
+		<UpdateDatabase>XML/GameInfo/Selaron_IconTextureAtlases.xml</UpdateDatabase>
+		<UpdateDatabase>XML/Text/Selaron_text_en_US.xml</UpdateDatabase>
+
+		<UpdateDatabase>XML/Buildings/Gate_Sun_BuildingClasses.xml</UpdateDatabase>
+		<UpdateDatabase>XML/Buildings/Gate_Sun_Buildings.xml</UpdateDatabase>
+		<UpdateDatabase>XML/Civilizations/Gate_Sun_Civilizations.xml</UpdateDatabase>
+		<UpdateDatabase>XML/GameInfo/Gate_Sun_IconTextureAtlases.xml</UpdateDatabase>
+		<UpdateDatabase>XML/Text/Gate_Sun_text_EN_US.xml</UpdateDatabase>
+
+		<UpdateDatabase>XML/Buildings/Gripsholm_BuildingClasses.xml</UpdateDatabase>
+		<UpdateDatabase>XML/Buildings/Gripsholm_Buildings.xml</UpdateDatabase>
+		<UpdateDatabase>XML/Civilizations/Gripsholm_Civilizations.xml</UpdateDatabase>
+		<UpdateDatabase>XML/GameInfo/Gripsholm_IconTextureAtlases.xml</UpdateDatabase>
+		<UpdateDatabase>XML/Text/Gripsholm_text_EN_US.xml</UpdateDatabase>
+
+		<UpdateDatabase>XML/Buildings/Haji_Ali_Dargah_BuildingClasses.xml</UpdateDatabase>
+		<UpdateDatabase>XML/Buildings/Haji_Ali_Dargah_Buildings.xml</UpdateDatabase>
+		<UpdateDatabase>XML/Civilizations/Haji_Ali_Dargah_Civilizations.xml</UpdateDatabase>
+		<UpdateDatabase>XML/GameInfo/Haji_Ali_Dargah_IconTextureAtlases.xml</UpdateDatabase>
+		<UpdateDatabase>XML/Text/Haji_Ali_Dargah_text_EN_US.xml</UpdateDatabase>
+
+		<UpdateDatabase>XML/Buildings/Horyuji_BuildingClasses.xml</UpdateDatabase>
+		<UpdateDatabase>XML/Buildings/Horyuji_Buildings.xml</UpdateDatabase>
+		<UpdateDatabase>XML/Civilizations/Horyuji_Civilizations.xml</UpdateDatabase>
+		<UpdateDatabase>XML/GameInfo/Horyuji_IconTextureAtlases.xml</UpdateDatabase>
+		<UpdateDatabase>XML/Text/Horyuji_text_EN_US.xml</UpdateDatabase>
+
+		<UpdateDatabase>XML/Buildings/Itsukushima_BuildingClasses.xml</UpdateDatabase>
+		<UpdateDatabase>XML/Buildings/Itsukushima_Buildings.xml</UpdateDatabase>
+		<UpdateDatabase>XML/Civilizations/Itsukushima_Civilizations.xml</UpdateDatabase>
+		<UpdateDatabase>XML/GameInfo/Itsukushima_IconTextureAtlases.xml</UpdateDatabase>
+		<UpdateDatabase>XML/Text/Itsukushima_text_en_US.xml</UpdateDatabase>
+
+		<UpdateDatabase>XML/Buildings/Karnak_BuildingClasses.xml</UpdateDatabase>
+		<UpdateDatabase>XML/Buildings/Karnak_Buildings.xml</UpdateDatabase>
+		<UpdateDatabase>XML/Civilizations/Karnak_Civilizations.xml</UpdateDatabase>
+		<UpdateDatabase>XML/GameInfo/Karnak_IconTextureAtlases.xml</UpdateDatabase>
+		<UpdateDatabase>XML/Text/Karnak_text_en_US.xml</UpdateDatabase>
+
+		<UpdateDatabase>XML/Buildings/Cheomseongdae_BuildingClasses.xml</UpdateDatabase>
+		<UpdateDatabase>XML/Buildings/Cheomseongdae_Buildings.xml</UpdateDatabase>
+		<UpdateDatabase>XML/Civilizations/Cheomseongdae_Civilizations.xml</UpdateDatabase>
+		<UpdateDatabase>XML/GameInfo/Cheomseongdae_IconTextureAtlases.xml</UpdateDatabase>
+		<UpdateDatabase>XML/Text/Cheomseongdae_text_en_US.xml</UpdateDatabase>
+
+		<UpdateDatabase>XML/Buildings/Titicaca_BuildingClasses.xml</UpdateDatabase>
+		<UpdateDatabase>XML/Buildings/Titicaca_Buildings.xml</UpdateDatabase>
+		<UpdateDatabase>XML/Civilizations/Titicaca_Civilizations.xml</UpdateDatabase>
+		<UpdateDatabase>XML/Text/Titicaca_text_EN_US.xml</UpdateDatabase>
+
+		<UpdateDatabase>XML/Buildings/Leshan_BuildingClasses.xml</UpdateDatabase>
+		<UpdateDatabase>XML/Buildings/Leshan_Buildings.xml</UpdateDatabase>
+		<UpdateDatabase>XML/Civilizations/Leshan_Civilizations.xml</UpdateDatabase>
+		<UpdateDatabase>XML/Text/Leshan_text_en_US.xml</UpdateDatabase>
+		<UpdateDatabase>XML/GameInfo/Leshan_IconTextureAtlases.xml</UpdateDatabase>
+
+		<UpdateDatabase>XML/Buildings/London_BuildingClasses.xml</UpdateDatabase>
+		<UpdateDatabase>XML/Buildings/London_Buildings.xml</UpdateDatabase>
+		<UpdateDatabase>XML/Civilizations/London_Civilizations.xml</UpdateDatabase>
+		<UpdateDatabase>XML/GameInfo/London_IconTextureAtlases.xml</UpdateDatabase>
+		<UpdateDatabase>XML/Text/London_text_en_US.xml</UpdateDatabase>
+
+		<UpdateDatabase>XML/Buildings/Spiral_Minaret_Buildings.xml</UpdateDatabase>
+		<UpdateDatabase>XML/Buildings/Spiral_Minaret_BuildingClasses.xml</UpdateDatabase>
+		<UpdateDatabase>XML/Civilizations/Spiral_Minaret_Civilizations.xml</UpdateDatabase>
+		<UpdateDatabase>XML/GameInfo/Spiral_Minaret_IconTextureAtlases.xml</UpdateDatabase>
+		<UpdateDatabase>XML/Text/Spiral_Minaret_text_en_US.xml</UpdateDatabase>
+
+		<UpdateDatabase>XML/Buildings/Millau_BuildingClasses.xml</UpdateDatabase>
+		<UpdateDatabase>XML/Buildings/Millau_Buildings.xml</UpdateDatabase>
+		<UpdateDatabase>XML/Civilizations/Millau_Civilizations.xml</UpdateDatabase>
+		<UpdateDatabase>XML/GameInfo/Millau_IconTextureAtlases.xml</UpdateDatabase>
+		<UpdateDatabase>XML/Units/Millau_UnitPromotions.xml</UpdateDatabase>
+		<UpdateDatabase>XML/Text/Millau_text_EN_US.xml</UpdateDatabase>
+
+		<UpdateDatabase>XML/Buildings/MLK_BuildingClasses.xml</UpdateDatabase>
+		<UpdateDatabase>XML/Buildings/MLK_Buildings.xml</UpdateDatabase>
+		<UpdateDatabase>XML/Civilizations/MLK_Civilizations.xml</UpdateDatabase>
+		<UpdateDatabase>XML/GameInfo/MLK_IconTextureAtlases.xml</UpdateDatabase>
+		<UpdateDatabase>XML/GameInfo/MLK_Policies.xml</UpdateDatabase>
+		<UpdateDatabase>XML/Text/MLK_text_en_US.xml</UpdateDatabase>
+
+		<UpdateDatabase>XML/Buildings/Rushmore_BuildingClasses.xml</UpdateDatabase>
+		<UpdateDatabase>XML/Buildings/Rushmore_Buildings.xml</UpdateDatabase>
+		<UpdateDatabase>XML/Civilizations/Rushmore_Civilizations.xml</UpdateDatabase>
+		<UpdateDatabase>XML/GameInfo/Rushmore_IconTextureAtlases.xml</UpdateDatabase>
+		<UpdateDatabase>XML/Text/Rushmore_text_en_US.xml</UpdateDatabase>
+
+		<UpdateDatabase>XML/Buildings/Madol_BuildingClasses.xml</UpdateDatabase>
+		<UpdateDatabase>XML/Buildings/Madol_Buildings.xml</UpdateDatabase>
+		<UpdateDatabase>XML/Civilizations/Madol_Civilizations.xml</UpdateDatabase>
+		<UpdateDatabase>XML/GameInfo/Madol_IconTextureAtlases.xml</UpdateDatabase>
+		<UpdateDatabase>XML/Text/Madol_text_en_US.xml</UpdateDatabase>
+
+		<UpdateDatabase>XML/Buildings/Nazca_BuildingClasses.xml</UpdateDatabase>
+		<UpdateDatabase>XML/Buildings/Nazca_Buildings.xml</UpdateDatabase>
+		<UpdateDatabase>XML/Civilizations/Nazca_Civilizations.xml</UpdateDatabase>
+		<UpdateDatabase>XML/GameInfo/Nazca_IconTextureAtlases.xml</UpdateDatabase>
+		<UpdateDatabase>XML/Text/Nazca_text_en_US.xml</UpdateDatabase>
+
+		<UpdateDatabase>XML/Buildings/Pena_BuildingClasses.xml</UpdateDatabase>
+		<UpdateDatabase>XML/Buildings/Pena_Buildings.xml</UpdateDatabase>
+		<UpdateDatabase>XML/Civilizations/Pena_Civilizations.xml</UpdateDatabase>
+		<UpdateDatabase>XML/GameInfo/Pena_IconTextureAtlases.xml</UpdateDatabase>
+		<UpdateDatabase>XML/Text/Pena_text_en_US.xml</UpdateDatabase>
+
+		<UpdateDatabase>XML/Buildings/Puukohola_Heiau_BuildingClasses.xml</UpdateDatabase>
+		<UpdateDatabase>XML/Buildings/Puukohola_Heiau_Buildings.xml</UpdateDatabase>
+		<UpdateDatabase>XML/Civilizations/Puukohola_Heiau_Civilizations.xml</UpdateDatabase>
+		<UpdateDatabase>XML/GameInfo/Puukohola_Heiau_IconTextureAtlases.xml</UpdateDatabase>
+		<UpdateDatabase>XML/Text/Puukohola_Heiau_text_EN_US.xml</UpdateDatabase>
+
+		<UpdateDatabase>XML/Buildings/Duomo_BuildingClasses.xml</UpdateDatabase>
+		<UpdateDatabase>XML/Buildings/Duomo_Buildings.xml</UpdateDatabase>
+		<UpdateDatabase>XML/Civilizations/Duomo_Civilzations.xml</UpdateDatabase>
+		<UpdateDatabase>XML/GameInfo/Duomo_IconTextureAtlases.xml</UpdateDatabase>
+		<UpdateDatabase>XML/Text/Duomo_text_EN_US.xml</UpdateDatabase>
+
+		<UpdateDatabase>XML/Buildings/Shwedagon_BuildingClasses.xml</UpdateDatabase>
+		<UpdateDatabase>XML/Buildings/Shwedagon_Buildings.xml</UpdateDatabase>
+		<UpdateDatabase>XML/Civilizations/Shwedagon_Civilizations.xml</UpdateDatabase>
+		<UpdateDatabase>XML/GameInfo/Shwedagon_IconTextureAtlases.xml</UpdateDatabase>
+		<UpdateDatabase>XML/Text/Shwedagon_text_en_US.xml</UpdateDatabase>
+
+		<UpdateDatabase>XML/Buildings/Skytower_BuildingClasses.xml</UpdateDatabase>
+		<UpdateDatabase>XML/Buildings/Skytower_Buildings.xml</UpdateDatabase>
+		<UpdateDatabase>XML/Civilizations/Skytower_Civilizations.xml</UpdateDatabase>
+		<UpdateDatabase>XML/GameInfo/Skytower_IconTextureAtlases.xml</UpdateDatabase>
+		<UpdateDatabase>XML/Text/Skytower_text_en_US.xml</UpdateDatabase>
+
+		<UpdateDatabase>XML/Buildings/Stone_Town_BuildingClasses.xml</UpdateDatabase>
+		<UpdateDatabase>XML/Buildings/Stone_Town_Buildings.xml</UpdateDatabase>
+		<UpdateDatabase>XML/Civilizations/Stone_Town_Civilizations.xml</UpdateDatabase>
+		<UpdateDatabase>XML/GameInfo/Stone_Town_IconTextureAtlases.xml</UpdateDatabase>
+		<UpdateDatabase>XML/Text/Stone_Town_text_EN_US.xml</UpdateDatabase>
+
+		<UpdateDatabase>XML/Buildings/Taipei_BuildingClasses.xml</UpdateDatabase>
+		<UpdateDatabase>XML/Buildings/Taipei_Buildings.xml</UpdateDatabase>
+		<UpdateDatabase>XML/Civiilizations/Taipei_Civilizations.xml</UpdateDatabase>
+		<UpdateDatabase>XML/GameInfo/Taipei_IconTextureAtlases.xml</UpdateDatabase>
+		<UpdateDatabase>XML/Text/Taipei_text_en_US.xml</UpdateDatabase>
+
+		<UpdateDatabase>XML/Buildings/Templo_BuildingClasses.xml</UpdateDatabase>
+		<UpdateDatabase>XML/Buildings/Templo_Buildings.xml</UpdateDatabase>
+		<UpdateDatabase>XML/Civilizations/Templo_Civilizations.xml</UpdateDatabase>
+		<UpdateDatabase>XML/GameInfo/Templo_IconTextureAtlases.xml</UpdateDatabase>
+		<UpdateDatabase>XML/Text/Templo_text_EN_US.xml</UpdateDatabase>
+
+		<UpdateDatabase>XML/Buildings/Wartburg_BuildingClasses.xml</UpdateDatabase>
+		<UpdateDatabase>XML/Buildings/Wartburg_Buildings.xml</UpdateDatabase>
+		<UpdateDatabase>XML/Civilizations/Wartburg_Civilizations.xml</UpdateDatabase>
+		<UpdateDatabase>XML/GameInfo/Wartburg_GreatWorks.xml</UpdateDatabase>
+		<UpdateDatabase>XML/GameInfo/Wartburg_IconTextureAtlases.xml</UpdateDatabase>
+		<UpdateDatabase>XML/Text/Wartburg_text_EN_US.xml</UpdateDatabase>
+
+		<UpdateDatabase>XML/Buildings/Westminster_BuildingClasses.xml</UpdateDatabase>
+		<UpdateDatabase>XML/Buildings/Westminster_Buildings.xml</UpdateDatabase>
+		<UpdateDatabase>XML/Civilizations/Westminster_Civilizations.xml</UpdateDatabase>
+		<UpdateDatabase>XML/GameInfo/Westminster_IconTextureAtlases.xml</UpdateDatabase>
+		<UpdateDatabase>XML/GameInfo/Westminster_Policies.xml</UpdateDatabase>
+		<UpdateDatabase>XML/Text/Westminster_text_EN_US.xml</UpdateDatabase>
+		
+		<UpdateDatabase>XML/Buildings/Madol_BuildingClasses.xml</UpdateDatabase>
+    	<UpdateDatabase>XML/Buildings/Madol_Buildings.xml</UpdateDatabase>
+    	<UpdateDatabase>XML/Civilizations/Madol_Civilizations.xml</UpdateDatabase>
+    	<UpdateDatabase>XML/GameInfo/Madol_IconTextureAtlases.xml</UpdateDatabase>
+    	<UpdateDatabase>XML/Text/Madol_text_en_US.xml</UpdateDatabase>
+		
+		<UpdateDatabase>XML/Buildings/Washington_BuildingClasses.xml</UpdateDatabase>
+    	<UpdateDatabase>XML/Buildings/Washington_Buildings.xml</UpdateDatabase>
+    	<UpdateDatabase>XML/Civilizations/Washington_Civilizations.xml</UpdateDatabase>
+    	<UpdateDatabase>XML/GameInfo/Washington_IconTextureAtlases.xml</UpdateDatabase>
+    	<UpdateDatabase>XML/Text/Washington_text_en_US.xml</UpdateDatabase>
+		
+		<UpdateDatabase>XML/Buildings/Etemenanki_Buildings.xml</UpdateDatabase>
+    	<UpdateDatabase>XML/GameInfo/Etemenanki_IconTextureAtlases.xml</UpdateDatabase>
+    	<UpdateDatabase>XML/Text/Etemenanki_text_en_US.xml</UpdateDatabase>
+		
+    	<UpdateDatabase>XML/Buildings/Kujataa_Buildings.xml</UpdateDatabase>
+    	<UpdateDatabase>XML/GameInfo/Kujataa_IconTextureAtlases.xml</UpdateDatabase>
+    	<UpdateDatabase>XML/Text/Kujataa_text_en_US.xml</UpdateDatabase>
+		
+		<UpdateDatabase>XML/Buildings/Zanbil_BuildingClasses.xml</UpdateDatabase>
+		<UpdateDatabase>XML/Buildings/Zanbil_Buildings.xml</UpdateDatabase>
+		<UpdateDatabase>XML/Civilizations/Zanbil_Civilizations.xml</UpdateDatabase>
+		<UpdateDatabase>XML/GameInfo/Zanbil_IconTextureAtlases.xml</UpdateDatabase>
+		<UpdateDatabase>XML/Text/Zanbil_text_en_US.xml</UpdateDatabase>
+		
+		<UpdateDatabase>XML/Buildings/Chartres_BuildingClasses.xml</UpdateDatabase>
+		<UpdateDatabase>XML/Buildings/Chartres_Buildings.xml</UpdateDatabase>
+		<UpdateDatabase>XML/Civilizations/Chartres_Civilizations.xml</UpdateDatabase>
+		<UpdateDatabase>XML/GameInfo/Chartres_IconTextureAtlases.xml</UpdateDatabase>
+		<UpdateDatabase>XML/Text/Chartres_text_EN_US.xml</UpdateDatabase>
+		
+		<UpdateDatabase>XML/Politics/Banaue_Wonders_Politics.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+	<EntryPoint type="InGameUIAddin" file="Lua/WorldWonder.lua">
+		<Name>WorldWonder</Name>
+		<Description>WorldWonderPolitics</Description>
+	</EntryPoint>
+	<EntryPoint type="InGameUIAddin" file="Lua/WorldWonder_CombatRule.lua">
+		<Name>CombatRule</Name>
+		<Description>WorldWonderCombatRule</Description>
+	</EntryPoint>
+  </EntryPoints>
+</Mod>

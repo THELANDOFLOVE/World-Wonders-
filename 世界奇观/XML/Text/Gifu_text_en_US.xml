@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 1/4/2014 11:21:13 PM -->
+<GameData>
+	<Language_en_US>
+		<!-- Description tags -->
+		<Row Tag="TXT_KEY_BUILDING_GIFU">
+			<Text>岐阜城</Text>
+		</Row>
+		<!-- Help tags -->
+		<Row Tag="TXT_KEY_WONDER_GIFU_HELP">
+			<Text>本城获得一座免费[ICON_WAR]天守。[NEWLINE][NEWLINE]奇观建成后立即获得一支[COLOR_POSITIVE_TEXT]特有[ENDCOLOR]火枪手--铁炮队，随后可在本城组建，最多仅能组建十队。[NEWLINE][NEWLINE]所有[COLOR_POSITIVE_TEXT]作战单位[ENDCOLOR]获得[COLOR_POSITIVE_TEXT]天下布武[ENDCOLOR]晋升，在[ICON_SGM_GROUP_ALL_OFF][COLOR_POSITIVE_TEXT]境外[ENDCOLOR]作战时+15%[ICON_STRENGTH]战斗力。</Text>
+		</Row>
+		<!-- Quote tags -->
+		<Row Tag="TXT_KEY_WONDER_GIFU_QUOTE">
+			<Text>[NEWLINE]“天下布武。”[NEWLINE]        ——织田信长[NEWLINE]</Text>
+		</Row>
+		<!-- Pedia tags -->
+		<Row Tag="TXT_KEY_WONDER_GIFU_PEDIA">
+			<Text>岐阜城（ぎふじょう）是位于日本岐阜县岐阜市金华山（又名稻叶山）的日本古城。岐阜城最初在13世纪由二阶堂行政在稻叶山上所建，15世纪时成为斋藤氏的居城，16世纪时，织田信长在稻叶山之战中在堀尾吉晴的帮助下打败斋藤龙兴夺取了稻叶山城，并将居城从小牧移至稻叶山城，改名为岐阜城（取自周武王居岐山、平天下之意），开始“天下布武”。现在，岐阜城迹被指定为国家史迹，是日本100名城之一。</Text>
+		</Row>
+        <Row Tag="TXT_KEY_PROMOTION_GIFU">
+             <Text>天下布武</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PROMOTION_GIFU_HELP">
+             <Text>在[ICON_SGM_GROUP_ALL_OFF][COLOR_POSITIVE_TEXT]境外[ENDCOLOR]作战时+15%[ICON_STRENGTH]战斗力。</Text>
+        </Row>
+		<Row Tag="TXT_KEY_PROMOTION_THREE_STRIKES">
+			<Text>三千世界</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_THREE_STRIKES_HELP">
+			<Text>[NEWLINE][ICON_BULLET][ICON_PROMOTION_HUNTDOWN_1]攻击次数+1，对[ICON_PROMOTION_KNIGHT_COMBAT][COLOR_POSITIVE_TEXT]重装骑兵[ENDCOLOR]+150%[ICON_STRENGTH]战斗力。[NEWLINE][ICON_BULLET]遭受[ICON_PROMOTION_KNIGHT_COMBAT][COLOR_POSITIVE_TEXT]重装骑兵[ENDCOLOR]攻击时，进攻方将受到[COLOR_NEGATIVE_TEXT]马栅[ENDCOLOR]的阻碍，损失全部[ICON_MOVES]移动力。</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_UNIT_ASHIGARU_MUSKETMAN">
+			<Text>铁炮队</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_ASHIGARU_MUSKETMAN_HELP">
+			<Text>铁炮队是[COLOR_POSITIVE_TEXT]特有[ENDCOLOR]的[COLOR_POSITIVE_TEXT]火枪手[ENDCOLOR]，仅能于奇观岐阜城所在[ICON_CITYBANNER_CITY_TOWN][COLOR_SELECTED_TEXT]城市[ENDCOLOR]进行组建，最多仅能组建十队。[NEWLINE][NEWLINE]自带+1[ICON_PROMOTION_HUNTDOWN_1]攻击次数，克制骑兵对[ICON_PROMOTION_KNIGHT_COMBAT][COLOR_POSITIVE_TEXT]重装骑兵[ENDCOLOR]+150%[ICON_STRENGTH]战斗力。遭受[ICON_PROMOTION_KNIGHT_COMBAT][COLOR_POSITIVE_TEXT]重装骑兵[ENDCOLOR]攻击时，进攻方将受到[COLOR_NEGATIVE_TEXT]马栅[ENDCOLOR]的阻碍，损失全部[ICON_MOVES]移动力。[NEWLINE][NEWLINE]可在研发[COLOR_CYAN]膛线[ENDCOLOR]后晋升为来复枪兵。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_ASHIGARU_MUSKETMAN_TEXT">
+			<Text>足轻是日本古代最低等的步兵之称呼，他们平常从事劳役，战时成为步卒。在战国时代，接受弓箭、枪炮的训练，编成部队。[NEWLINE]“足轻”一词并不表示所指称的士兵原先一定是农民。战国时代初期，贫穷的武士与富有的农民之间的界限并不分明，其间存在一个由“地侍”组成的灰色地带，他们战时为兵，平时务农，微薄的领地特别容易受大名扩张之势的威胁。这使地侍经常要在继续务农或投效大名的军队之间作出抉择。许多人选择了后者，从乡村迁到城里的军营中，大多以足轻的身份开始他们的军旅生涯。[NEWLINE]在长筱战场上，织田军设置了马栅，并配置了持5.6米长枪的足轻长枪兵，这应当为火枪兵提供了必要的保护。此时的战斗中，攻击对象很有可能只是那些正在通过马栅间隙地带的武田骑兵。这形成了一个杀场，被孤立的骑兵命丧于武士刀和足轻长枪之下。除了马栅和长枪，射击还会产生的浓厚的烟雾，对火枪兵形成另一重保护。</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_THREE_STRIKES_LOST_MOVEMENT">
+			<Text>在我军{2_UnitName}的[COLOR_NEGATIVE_TEXT]马栅[ENDCOLOR]阻碍下，敌军{1_EnUName}的[ICON_MOVES]移动力丧失，让敌人有来无回！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_THREE_STRIKES_LOST_MOVEMENT_ATT">
+			<Text>在敌军{2_EnUName}的[COLOR_NEGATIVE_TEXT]马栅[ENDCOLOR]阻碍下，我军{1_UnitName}的[ICON_MOVES]移动力丧失，这是个陷阱！</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

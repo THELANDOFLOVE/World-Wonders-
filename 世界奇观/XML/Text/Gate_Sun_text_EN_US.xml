@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Language_en_US>
+		<!-- Description tags -->
+		<Row Tag="TXT_KEY_BUILDING_GATE_SUN">
+			<Text>太阳门</Text>
+		</Row>
+		<!-- Help tags -->
+		<Row Tag="TXT_KEY_WONDER_GATE_SUN_HELP">
+			<Text>[ICON_STRENGTH]城墙、[ICON_STRENGTH]城堡+1[ICON_RESEARCH]科研、[ICON_PEACE]信仰产出。[NEWLINE][NEWLINE]当研究[COLOR_CYAN]科学理论[ENDCOLOR]后+4[ICON_TOURISM]魅力产出。</Text>
+		</Row>
+		<!-- Quote tags -->
+		<Row Tag="TXT_KEY_WONDER_GATE_SUN_QUOTE">
+			<Text>[NEWLINE]“相信你们的梦吧，因为其中隐藏着通向永恒的大门。”[NEWLINE]        ——纪伯伦</Text>
+		</Row>
+		<!-- Pedia tags -->
+		<Row Tag="TXT_KEY_WONDER_GATE_SUN_PEDIA">
+			<Text>太阳门是一个由蒂瓦讷库人建立的巨大石门，印加文化的重要表现形式。石门矗立在靠近玻利维亚拉巴斯的喀喀湖。石门是由一块十英呎长，十三英呎宽的重达十吨的巨石雕刻而成。十九世纪中叶，石门被欧洲人发现，但其正面有一道裂纹。虽然石门现在依旧位于其被发现的地点，但人们并不认为该地点就是石门的建造地点，石门的建造位置依然成谜。[NEWLINE][NEWLINE]石门中隐藏着许多古代美洲建筑和艺术方面的知识。石门上所显示有关蒂瓦讷库的图案在秘鲁和玻利维亚的部分地区都有过类似的发现。尽管有许多不同的理论都对门上的铭文进行解释，不过他们都认为这些铭文与天文、占星甚至是历法有关。从石门的上方观察，可以看到有48个方形围绕着一个中心图案。每个方形都雕刻着一个长翅膀的人像，其中的32个方形还描绘有人脸。这些人像所围绕的中心图案至今仍然不知道其原型。中心图案是一个人像，其头部被光线包围，有人推测这些光线代表着太阳光。图案中还包含有两个分别代表闪电和雷声的人员。关于这个人像的推测，认为其可能是“太阳神”维克拉，古印加的创世神-掌控者太阳和风暴。</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

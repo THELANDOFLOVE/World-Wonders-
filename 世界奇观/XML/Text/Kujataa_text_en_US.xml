@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Language_en_US>
+		<!-- Description tags -->
+		<Row Tag="TXT_KEY_BUILDING_KUJATAA">
+			<Text>库加塔</Text>
+		</Row>
+		<!-- Help tags -->
+		<Row Tag="TXT_KEY_WONDER_KUJATAA_HELP">
+			<Text>本城有[ICON_CITIZEN]市民工作的[COLOR_POSITIVE_TEXT]农场[ENDCOLOR]、[COLOR_POSITIVE_TEXT]牧场[ENDCOLOR]可为全国提供+1[ICON_HAPPINESS_1]快乐。[NEWLINE][NEWLINE]本城已开发的[COLOR_POSITIVE_TEXT]冻土[ENDCOLOR]、[COLOR_POSITIVE_TEXT]雪原[ENDCOLOR]地块+1[ICON_FOOD]食物、[ICON_CULTURE]文化产出。[NEWLINE][NEWLINE]城市必须邻近冻土。当研究[COLOR_CYAN]生态学[ENDCOLOR]后+4[ICON_TOURISM]魅力产出。</Text>
+		</Row>
+		<!-- Quote tags -->
+		<Row Tag="TXT_KEY_WONDER_KUJATAA_QUOTE">
+			<Text>[NEWLINE]“不管鸟儿飞得多高，它总得在地上寻找食物。”[NEWLINE]        ——丹麦谚语[NEWLINE]</Text>
+		</Row>
+		<!-- Pedia tags -->
+		<Row Tag="TXT_KEY_WONDER_KUJATAA_PEDIA">
+			<Text>库加塔是亚北极区的一个农业文化景观，坐落于丹麦格陵兰岛南部。它见证了10世纪以来从冰岛迁徙到此的古爱斯基摩狩猎者、18世纪末以后在此发展起来的北欧农民、因纽特猎人及因纽特农业社区的文化历史。尽管两种文化的不同，北欧格陵兰人和欧洲因纽特人还是创造了基于农业、牧业及海洋哺乳动物狩猎业的文化景观。这一景观见证了北极地区最早出现的农业活动，以及北欧人在欧洲以外的定居扩张。</Text>
+		</Row>
+		
+		<!-- Description tags -->
+		<Row Tag="TXT_KEY_BUILDING_PASTORAL_BOUNS">
+			<Text>田园牧歌</Text>
+		</Row>
+		<!-- Help tags -->
+		<Row Tag="TXT_KEY_BUILDING_PASTORAL_BOUNS_HELP">
+			<Text>本城有[ICON_CITIZEN]市民工作的[COLOR_POSITIVE_TEXT]农场[ENDCOLOR]、[COLOR_POSITIVE_TEXT]牧场[ENDCOLOR]可为全国提供+1[ICON_HAPPINESS_1]快乐。</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

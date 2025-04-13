@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Language_en_US>
+		<!-- Description tags -->
+		<Row Tag="TXT_KEY_BUILDING_SELARON">
+			<Text>塞勒隆阶梯</Text>
+		</Row>
+		<!-- Help tags -->
+		<Row Tag="TXT_KEY_WONDER_SELARON_HELP">
+			<Text>本城+16[ICON_TOURISM]魅力产出，全国+4[ICON_HAPPINESS_1]快乐。[NEWLINE][NEWLINE]每位[ICON_GREAT_WRITER][ICON_GREAT_ARTIST][ICON_GREAT_MUSICIAN]艺术专家-3[ICON_GOLD]维护费。</Text>
+		</Row>
+		<!-- Quote tags -->
+		<Row Tag="TXT_KEY_WONDER_SELARON_QUOTE">
+			<Text>[NEWLINE]“楼梯要一步一步的爬。”[NEWLINE]        ——土耳其谚语[NEWLINE]</Text>
+		</Row>
+		<!-- Pedia tags -->
+		<Row Tag="TXT_KEY_WONDER_SELARON_PEDIA">
+			<Text>塞勒隆阶梯位于里约热内卢的拉帕和圣特蕾莎地区，官方的正式命名为鲁曼努埃尔卡内罗。楼梯有智利艺术家塞勒隆设计，因此这条阶梯便一他的名字命名。这件艺术品永远都无法完成，因为一直有新的元素加入其中。据估计楼梯的瓷砖用量已超2000块，瓷砖来自于社会各界，如城市建筑工地、游客和社会组织的捐赠等。其中一个例子便是美国电视节目《极速前进》捐赠了一块有标志牌的瓷砖来作为挑战的一部分。捐赠瓷砖已经成为许多组织标志性的一种步骤，比如音乐视频史努比和U2，除此之外许多瓷砖也被用来广告宣传的用途。</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

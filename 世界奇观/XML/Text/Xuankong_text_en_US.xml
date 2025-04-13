@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Language_en_US>
+		<!-- Description tags -->
+		<Row Tag="TXT_KEY_BUILDING_XUANKONG">
+			<Text>悬空寺</Text>
+		</Row>
+		<!-- Help tags -->
+		<Row Tag="TXT_KEY_WONDER_XUANKONG_HELP">
+			<Text>本城每存在一个不同[ICON_RELIGION]宗教将额外+2[ICON_RESEARCH]科研、[ICON_CULTURE]文化、+5[ICON_PEACE]信仰。[NEWLINE][NEWLINE]城市必须靠近[ICON_PROMOTION_ALTITUDE_TRAINING]山脉。</Text>
+		</Row>
+		<!-- Quote tags -->
+		<Row Tag="TXT_KEY_WONDER_XUANKONG_QUOTE">
+			<Text>[NEWLINE]“以柔克刚。”[NEWLINE]        ——老子[NEWLINE]</Text>
+		</Row>
+		<!-- Pedia tags -->
+		<Row Tag="TXT_KEY_WONDER_XUANKONG_PEDIA">
+			<Text>悬空寺是一座建在海拔1275米的悬崖上的寺庙。据传，该寺庙是由1600年前一个叫廖冉的僧人开始修建的。悬空寺并不是一个单一的宗教寺庙，而是佛、道、儒三教合一的独特寺庙。</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

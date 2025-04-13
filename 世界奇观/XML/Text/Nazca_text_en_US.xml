@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Language_en_US>
+		<!-- Description tags -->
+		<Row Tag="TXT_KEY_BUILDING_NAZCA">
+			<Text>纳斯卡线条</Text>
+		</Row>
+		<!-- Help tags -->
+		<Row Tag="TXT_KEY_WONDER_NAZCA_HELP">
+			<Text>每座[ICON_RESEARCH]大学额外+2[ICON_RESEARCH]科研，每座[ICON_PEACE]神庙额外+2[ICON_PEACE]信仰。[NEWLINE][NEWLINE]当研究[COLOR_CYAN]航空[ENDCOLOR]后+4[ICON_TOURISM]魅力产出。[NEWLINE][NEWLINE]城市两格内必须有[ICON_PROMOTION_ALTITUDE_TRAINING]山脉。</Text>
+		</Row>
+		<!-- Quote tags -->
+		<Row Tag="TXT_KEY_WONDER_NAZCA_QUOTE">
+			<Text>[NEWLINE]“无形之物不玄奥，有形之物真玄奥。”[NEWLINE]        ——王尔德[NEWLINE]</Text>
+		</Row>
+		<!-- Pedia tags -->
+		<Row Tag="TXT_KEY_WONDER_NAZCA_PEDIA">
+			<Text>纳斯卡线条位于秘鲁纳斯卡和帕尔帕镇之间，是由一系列巨大的线条构成的图案，横跨80千米。是谁设计了这些图案尚无定论，据估计这些线条是由纳斯卡文明在公元450年到600年之间建造的，因此线条也得此名。线条的设计也呈现多种形式，一些就是简单的长达百米的线条，而另一些则被设计成复杂的图案，类似于各种动物形态如猴子、秃鹫蜘蛛和逆击鲸（虎鲸）等。[NEWLINE][NEWLINE]纳斯卡线条也使人相信有外星人的存在，而古代的纳斯卡人错将外星人当做神灵。人们认为那些直线其实是用来引导外星飞船降落的航标，而那个人形图案则是代表外星人。现代的科学理论认为线条同巨石阵的作用类似，为古代的天文台或历法之用。而然时至今日这些线条的含义仍然成谜。</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

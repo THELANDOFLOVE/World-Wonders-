@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Language_en_US>
+		<!-- Description tags -->
+		<Row Tag="TXT_KEY_BUILDING_CAIRO_CASTLE">
+			<Text>萨拉丁城堡</Text>
+		</Row>
+		<!-- Help tags -->
+		<Row Tag="TXT_KEY_WONDER_CAIRO_CASTLE_HELP">
+			<Text>本城获得一座免费[ICON_STRENGTH]城堡。[NEWLINE][NEWLINE]所有[COLOR_POSITIVE_TEXT]陆军单位[ENDCOLOR]获得[COLOR_POSITIVE_TEXT]真主之剑[ENDCOLOR]晋升。在[COLOR_POSITIVE_TEXT]沙漠[ENDCOLOR]地块战斗时+10%[ICON_STRENGTH]战斗力，进攻城市时+25%[ICON_STRENGTH]战斗力。[NEWLINE][NEWLINE]城市必须邻近沙漠。</Text>
+		</Row>
+		<!-- Quote tags -->
+		<Row Tag="TXT_KEY_WONDER_CAIRO_CASTLE_QUOTE">
+			<Text>[NEWLINE]“有了这样一堵墙我能把他们合二为一，一只军队就能保护他们。”[NEWLINE]        ——萨拉丁[NEWLINE]</Text>
+		</Row>
+		<!-- Pedia tags -->
+		<Row Tag="TXT_KEY_WONDER_CAIRO_CASTLE_PEDIA">
+			<Text>萨拉丁城堡位于埃及开罗的穆盖塔姆山上。它是由阿尤布王朝的萨拉丁为了抵御十字军入侵而在1176年到1183年之间建立的城市防御性工事。该城堡主要是依托其坚固的城墙进行防御。为了能在围攻中给城堡提供水源，萨拉丁要求约瑟夫建造一口水井。井深85米（200英呎），其中有一条300个台阶的螺旋阶梯，该井因此有称螺旋井。井水通过一系列的水渠运往城堡，在苏莱曼死后，奈塞尔•穆罕默德在马鲁克王朝期间夺取了城堡的控制权。奈萨尔看见井水无法满足需求，便又兴建了一系列的水井以及通过尼罗河上的水车将水经萨拉丁时期的水渠引入城堡中。城中建有许多结合伊斯兰和阿尤布传统的清真寺。萨拉丁城堡自萨拉丁起就一直作为政府机构的所在地，直到19世纪。</Text>
+		</Row>
+		<!-- Promotion tags -->
+        <Row Tag="TXT_KEY_PROMOTION_CAIRO">
+            <Text>真主之剑</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PROMOTION_CAIRO_HELP">
+            <Text>在[COLOR_POSITIVE_TEXT]沙漠[ENDCOLOR]地块战斗时+10%[ICON_STRENGTH]战斗力，进攻城市时+25%[ICON_STRENGTH]战斗力。</Text>
+        </Row>
+	</Language_en_US>
+</GameData>

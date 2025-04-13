@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Language_en_US>
+		<!-- Description tags -->
+		<Row Tag="TXT_KEY_BUILDING_TAJIN">
+			<Text>埃尔塔津古城</Text>
+		</Row>
+		<!-- Help tags -->
+		<Row Tag="TXT_KEY_WONDER_TAJIN_HELP">
+			<Text>本城获得一座免费[ICON_FOOD]粮仓，所有[ICON_CITYBANNER_CITY_LV1]一级城市+5[ICON_GOLD]金币产出。[NEWLINE][NEWLINE]当研发[COLOR_CYAN]城市化[ENDCOLOR]后+2[ICON_TOURISM]魅力产出。</Text>
+		</Row>
+		<!-- Quote tags -->
+		<Row Tag="TXT_KEY_WONDER_TAJIN_QUOTE">
+			<Text>[NEWLINE]“我就如那在高高房檐下鸟巢的一只雏鸟，时不时的探出头观察周围的世界。”[NEWLINE]        ——皮埃尔•罗蒂[NEWLINE]</Text>
+		</Row>
+		<!-- Pedia tags -->
+		<Row Tag="TXT_KEY_WONDER_TAJIN_PEDIA">
+			<Text>埃尔塔津古城是古中美洲最大最古老的城市。大约5000年前以游牧为主猎人和采集者逐渐向以农耕为主的定居生活，进而发展处复杂的文明社会。公元前1150年，伴随着奥尔梅克文化的发展，城市也得到充分的发展。尽管有越来越多的证据表明是阿兹特克文明建立了座城市，但至今仍不清楚是谁最开始建设的。[NEWLINE][NEWLINE]公元一世纪左右，埃尔塔津开始兴建祭祀场所，600年后，该地发展成为一座城市。随着埃尔塔津的崛起，它也成为中美洲的贸易中心，控制着大部分货物的进出。同时期它的最大贸易伙伴便是特尔瓦蒂戛纳。[NEWLINE][NEWLINE]埃尔塔津古城最负盛名的景点便是壁龛金字塔。壁龛金字塔有七层，每层都有一个斜坡和垂直墙面构成。金字塔的这种设计风格在中美洲建筑中很常见，但是他最为与众不同的特点便是墙面上用来装饰的壁龛。金字塔最初是为了祭祀而建，这些壁龛也是仿照洞穴，作为通往地下世界（古人认为的众神居所）的通道。[NEWLINE][NEWLINE]埃尔塔津古城一直延续了十三个世纪，直至被一场大火所焚毁。多数观点都假定齐齐米尔的入侵是引发这次灾难的主要原因。古城遗址被树林掩埋了大约半个世纪，直到1785年迪戈•刘易斯偶热发现了壁龛金字塔，古城才重现人世。那时刘易斯正在寻找秘密的烟草种植园以打破皇家的垄断。</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

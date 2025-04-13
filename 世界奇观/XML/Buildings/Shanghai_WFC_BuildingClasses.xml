@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<BuildingClasses>
+		<Row>
+			<Type>BUILDINGCLASS_SHANGHAI_WFC</Type>
+			<DefaultBuilding>BUILDING_SHANGHAI_WFC</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_SHANGHAI_WFC</Description>
+			<MaxGlobalInstances>1</MaxGlobalInstances>
+		</Row>
+	</BuildingClasses>
+</GameData>

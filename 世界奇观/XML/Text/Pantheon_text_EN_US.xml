@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Language_en_US>
+		<!-- Description tags -->
+		<Row Tag="TXT_KEY_BUILDING_PANTHEON">
+			<Text>万神殿</Text>
+		</Row>
+		<!-- Help tags -->
+		<Row Tag="TXT_KEY_WONDER_PANTHEON_HELP">
+			<Text>建造该奇观的城市附近出现一位[ICON_PROPHET]大先知。[NEWLINE][NEWLINE]圣殿额外+4[ICON_CULTURE]文化、[ICON_HAPPINESS_1]快乐产出。</Text>
+		</Row>
+		<!-- Quote tags -->
+		<Row Tag="TXT_KEY_WONDER_PANTHEON_QUOTE">
+			<Text>[NEWLINE]“恢复细化他们时代的每一个神殿。”[NEWLINE]        ——西弗勒斯和卡拉卡拉[NEWLINE]</Text>
+		</Row>
+		<!-- Pedia tags -->
+		<Row Tag="TXT_KEY_WONDER_PANTHEON_PEDIA">
+			<Text>非正式的称呼是圣塔玛丽亚德拉罗通达，神殿是在公元前31年一个古老的寺院委托马库斯维普撒尼乌斯阿格里帕建造的，承载着亚克兴战役后的历史。该寺是由奥古斯都恺撒和他的支持者在马提琉斯学院开始的二十多个建设项目的一部分。先贤祠是今天仍在使用，作用是教堂和群众举行以及参加定期婚礼，但是最初的神殿是作为供奉众神的一个神殿，因此叫做万神殿。</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

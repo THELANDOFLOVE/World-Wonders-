@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Language_en_US>
+		<!-- Description tags -->
+		<Row Tag="TXT_KEY_BUILDING_GRIPSHOLM">
+			<Text>格利普霍姆堡</Text>
+		</Row>
+		<!-- Help tags -->
+		<Row Tag="TXT_KEY_WONDER_GRIPSHOLM_HELP">
+			<Text>建成后所有城市+2[ICON_CITIZEN]人口。[NEWLINE][NEWLINE]本城已开发的[COLOR_POSITIVE_TEXT]湖泊[ENDCOLOR]地块+2[ICON_FOOD]食物、+1[ICON_PRODUCTION]产能产出。[NEWLINE][NEWLINE]城市必须邻近淡水。</Text>
+		</Row>
+		<!-- Quote tags -->
+		<Row Tag="TXT_KEY_WONDER_GRIPSHOLM_QUOTE">
+			<Text>[NEWLINE]“浪费时间就是浪费生命。”[NEWLINE]        ——查尔斯·罗伯特·达尔文[NEWLINE]</Text>
+		</Row>
+		<!-- Pedia tags -->
+		<Row Tag="TXT_KEY_WONDER_GRIPSHOLM_PEDIA">
+			<Text>格利普霍姆堡位于瑞典首都斯德哥尔摩以西约60公里的梅拉伦湖边，是一座文艺复兴时期的城堡。从十四世纪中期该地就已经盖有城堡。1926年古斯塔夫国王夺取了城堡，随后他拆除了就城堡并盖了如今的格利普霍姆堡。[NEWLINE][NEWLINE]随后的每代城主都在城堡里留下了自己的痕迹。国王古斯塔夫三世变在城堡中修建了一个剧院，没几年他又新建了一座监狱。十九世纪末，在建筑师弗莱德里克·里尔叶克威斯特的指导下对城堡进行了一次大规模的翻新，并添加了一层三楼。</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Language_en_US>
+		<!-- Description tags -->
+		<Row Tag="TXT_KEY_BUILDING_ARECIBO">
+			<Text>阿雷西博天文台</Text>
+		</Row>
+		<!-- Help tags -->
+		<Row Tag="TXT_KEY_WONDER_ARECIBO_HELP">
+			<Text>建造[ICON_VICTORY_SPACE][COLOR_POSITIVE_TEXT]太空飞船[ENDCOLOR]部件时+50%[ICON_PRODUCTION]产能。[NEWLINE][NEWLINE]建造该奇观的城市附近出现一位[ICON_GREAT_SCIENTIST]大科学家。[NEWLINE][NEWLINE]城市规模至少为[ICON_CITYBANNER_CITY_XXL][COLOR_SELECTED_TEXT]巨型城市[ENDCOLOR]且建有国家图书馆。</Text>
+		</Row>
+		<!-- Quote tags -->
+		<Row Tag="TXT_KEY_WONDER_ARECIBO_QUOTE">
+			<Text>[NEWLINE]“地球是广阔宇宙的海岸。从中我们学到了大部分我们现在拥有的知识。最近我们走向仅能没过我们脚趾，最多打湿我们脚踝的浅海进行探索，星海很诱人，因为海的深处在不停的呼唤我们。”[NEWLINE]        ——卡尔•萨根[NEWLINE]</Text>
+		</Row>
+		<!-- Pedia tags -->
+		<Row Tag="TXT_KEY_WONDER_ARECIBO_PEDIA">
+			<Text> 阿雷西博天文台是世界最大的射电望远镜，其有305米（1000英呎）宽。它于1963年建成，位于波多黎各阿雷西博附近的自然天坑当中。它基底是一口形似巨大的铝锅，一个接收器在其上方高处由周围的3座铁塔牵引着。自从1963年建立以来，已被用于多种不同用途。其最初的设计目的是为了研究地球的电离层（距离地球表面约85公里的大气层，太阳辐射仍能影响大气。此层是极光形成的地方），阿雷西特天文台已经进行了多次探索并参与到数个研究项目当中。在1990年，该望远镜用来探测第一个已知的地外行星（即我们太阳系之外的行星）。同时它也被用来观测中子星（一种恒星，其中仅纽约布鲁克林大小的区域与相当于地球质量的一百万倍）。在1974年，天文台向距离地球25000光年的球状星团M13发送了一串包括数字1到10、DNA组成、太阳系等其他情况的消息，希望能接触到其他星系的智慧生物。[NEWLINE][NEWLINE]但是在2016年7月，随着中国建成世界最大单口径射电望远镜FAST，位于波多黎各的美国阿雷西博天文台望远镜却面临可能要关闭的命运。由于年久失修，缺少维护经费，这座曾经世界第一的射电望远镜，如今锈迹斑斑，像个大垃圾场。 </Text>
+		</Row>
+	</Language_en_US>
+</GameData>

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Language_en_US>
+		<!-- Description tags -->
+		<Row Tag="TXT_KEY_BUILDING_ZANBIL">
+			<Text>乌塔什金字塔</Text>
+		</Row>
+		<!-- Help tags -->
+		<Row Tag="TXT_KEY_WONDER_ZANBIL_HELP">
+			<Text>当研发[COLOR_CYAN]考古学[ENDCOLOR]后+4[ICON_TOURISM]魅力产出。[NEWLINE]
+			[NEWLINE][ICON_BULLET]本城获得一座免费[ICON_PEACE]神庙。
+			[NEWLINE][ICON_BULLET][ICON_RES_CONSUMER]商品+5并提供1份[ICON_RES_JEWELRY]珠宝。</Text>
+		</Row>
+		<!-- Quote tags -->
+		<Row Tag="TXT_KEY_WONDER_ZANBIL_QUOTE">
+			<Text>[NEWLINE]“他凝视着城墙，敬畏他的人民达成的成就，转瞬间，就那么一刻，一切皆抛于脑后。”[NEWLINE]        ——吉尔伽美什史诗[NEWLINE]</Text>
+		</Row>
+		<!-- Pedia tags -->
+		<Row Tag="TXT_KEY_WONDER_ZANBIL_PEDIA">
+			<Text>恰高•占比尔也称杜尔•乌塔什，是一座位于伊朗胡齐斯坦省的古代埃兰国圣城的金字型神塔遗址，约在公元前1250年国王伊拉姆为了安抚苏斯纳克而修建，至今拥有3000年多的历史。[NEWLINE][NEWLINE]它是在美索不达米亚以外仅存的几座金字形神塔之一，在公元前640年亚述国王亚述巴尼拔的侵略对神塔造成了一次严重的毁坏。[NEWLINE][NEWLINE]神塔的主庙是为了苏斯纳克主神而建，同时周边还建有十一座其他神的神庙，伊拉姆国王还委托他的继承人继续建设神庙。</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

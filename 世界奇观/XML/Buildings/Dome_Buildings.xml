@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Buildings>
+		<Row>
+			<Type>BUILDING_DOME</Type>
+			<!--岩石圆顶寺-->
+			<BuildingClass>BUILDINGCLASS_DOME</BuildingClass>
+			<!--建筑类型-->
+			<Description>TXT_KEY_BUILDING_DOME</Description>
+			<!--名称文本词条-->
+			<Help>TXT_KEY_WONDER_DOME_HELP</Help>
+			<!--信息文本词条-->
+			<Civilopedia>TXT_KEY_WONDER_DOME_PEDIA</Civilopedia>
+			<!--历史文本词条-->
+			<Quote>TXT_KEY_WONDER_DOME_QUOTE</Quote>
+			<!--奇观独有文本词条-->
+			<Cost>150</Cost>
+			<!--建造花费-->
+			<PrereqTech>TECH_CONSTRUCTION</PrereqTech>
+			<!--所需科技建造学-->
+			<!--<SpecialistType>SPECIALIST_ARTIST</SpecialistType>
+			<GreatPeopleRateChange>1</GreatPeopleRateChange>>
+			<SpecialistCount>1</SpecialistCount-->
+			<GlobalCultureRateModifier>15</GlobalCultureRateModifier>
+			<!--全国文化加成-->
+			<NukeImmune>true</NukeImmune>
+			<!--不会被核弹摧毁-->
+			<HurryCostModifier>-1</HurryCostModifier>
+			<!--购买参数，-1为不可购买-->
+			<MinAreaSize>-1</MinAreaSize>
+			<!--无需邻湖邻海-->
+			<ConquestProb>100</ConquestProb>
+			<!--征服奖金-->
+			<FreeBuildingThisCity>BUILDINGCLASS_MOSQUE</FreeBuildingThisCity>
+			<!--无偿建筑清真寺-->
+			<IconAtlas>BW_ATLAS_DOME</IconAtlas>
+			<!--图标取材-->
+			<PortraitIndex>0</PortraitIndex>
+			<!--图标取材顺序-->
+			<WonderSplashImage>DOME_splash.dds</WonderSplashImage>
+			<!--奇观建成图片-->
+			<WonderSplashAnchor>L,B</WonderSplashAnchor>
+		</Row>
+	</Buildings>
+	
+	<Building_ResourceQuantityRequirements>
+	<!--战略资源消耗-->
+		<Row>
+			<BuildingType>BUILDING_DOME</BuildingType>
+			<!--关联建筑岩石圆顶寺-->
+			<ResourceType>RESOURCE_MANPOWER</ResourceType>
+			<!--资源类型人力-->
+			<Cost>3</Cost>
+		</Row>
+	</Building_ResourceQuantityRequirements>
+	
+	<Building_YieldChanges>
+	<!--建筑基础产量-->
+		<Row>
+			<BuildingType>BUILDING_DOME</BuildingType>
+			<!--关联建筑岩石圆顶寺-->
+			<YieldType>YIELD_FAITH</YieldType>
+			<!--信仰加成-->
+			<Yield>5</Yield>
+		</Row>
+	</Building_YieldChanges>
+	
+	<Building_Flavors>
+	<!--ai建造参考数值，对玩家没用-->
+		<Row>
+			<BuildingType>BUILDING_TEMPLO</BuildingType>
+			<FlavorType>FLAVOR_RELIGION</FlavorType>
+			<Flavor>50</Flavor>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_DOME</BuildingType>
+			<FlavorType>FLAVOR_CULTURE</FlavorType>
+			<Flavor>200</Flavor>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_DOME</BuildingType>
+			<FlavorType>FLAVOR_WONDER</FlavorType>
+			<Flavor>100</Flavor>
+		</Row>
+	</Building_Flavors>
+	
+</GameData>

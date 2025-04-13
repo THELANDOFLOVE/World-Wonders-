@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 4/22/2012 11:27:20 AM -->
+<GameData>
+	<Projects>
+		<Update>
+			<Set IconAtlas="BW_ATLAS_LONGSHOT" PortraitIndex="0" TechPrereq="TECH_SATELLITES"/>
+			<Where Type="PROJECT_APOLLO_PROGRAM"/>
+		</Update>
+	</Projects>
+	<Language_en_US>
+		<Update>
+			<Set Text="Project Longshot"/>
+			<Where Tag="TXT_KEY_PROJECT_APOLLO_PROGRAM"/>
+		</Update>
+		<Update>
+			<Set Text="Project Longshot is a conceptual design for an interstellar spacecraft, an unmanned probe intended to fly to Alpha Centauri powered by nuclear pulse propulsion. Developed by the US Naval Academy and NASA from 1987 to 1988, Longshot was designed to be built at the Space Station Alpha, the precursor to the existing International Space Station.[NEWLINE][NEWLINE]Longshot was designed solely using existing technology, although some development would have been required. Longshot would use a long-lived nuclear fission reactor for power. Initially generating 300 kilowatts, the reactor would power a number of lasers in the engine that would be used to ignite inertial confinement fusion. The reactor would also be used to power a laser for communications back to Earth."/>
+			<Where Tag="TXT_KEY_PROJECT_APOLLO_PROGRAM_PEDIA"/>
+		</Update>
+		<Update>
+			<Set Text="Project Longshot signals the start of the space race. It allows construction of spaceship parts. Each civilization must complete this project before they can construct spaceship parts."/>
+			<Where Tag="TXT_KEY_PROJECT_APOLLO_PROGRAM_STRATEGY"/>
+		</Update>
+	</Language_en_US>
+</GameData>

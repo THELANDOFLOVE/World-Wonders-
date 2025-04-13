@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Language_en_US>
+		<!-- Description tags -->
+		<Row Tag="TXT_KEY_BUILDING_BUDA">
+			<Text>布达城堡</Text>
+		</Row>
+		<!-- Help tags -->
+		<Row Tag="TXT_KEY_WONDER_BUDA_HELP">
+			<Text>本城获得一座免费[ICON_STRENGTH]城堡。[NEWLINE][NEWLINE]所有[ICON_CITYBANNER_CITY_LV1]一级城市和[ICON_CITYBANNER_CITY_LV2]二级城市+1[ICON_HAPPINESS_1]快乐。[NEWLINE][NEWLINE]奇观必须建造于[ICON_CAPITAL]首都。</Text>
+		</Row>
+		<!-- Quote tags -->
+		<Row Tag="TXT_KEY_WONDER_BUDA_QUOTE">
+			<Text>[NEWLINE]“没有哪座圣殿神圣到金钱不能腐蚀，没有哪座堡垒坚固到金钱不能攻略。”[NEWLINE]        ——马库斯•图留斯•西塞罗[NEWLINE]</Text>
+		</Row>
+		<!-- Pedia tags -->
+		<Row Tag="TXT_KEY_WONDER_BUDA_PEDIA">
+			<Text>布达城堡是防御和居住二合一的复杂工事。1265年贝拉四世下令在该地点建设城堡。匈牙利国王刘易斯一世最年轻的弟弟斯蒂芬公爵在十四世纪建造了城堡最初最复杂的斯蒂芬塔。国王西吉蒙德为了纪念他成为欧洲首位神圣罗马皇帝于1410年到他死去的1437年间扩建宫殿和加强城堡的防御工事。国王马迪尔斯•柯翁纳斯、瓦迪斯瓦夫二世和佐波饶•亚诺什在土耳其入侵布达佩斯之前都对堡垒进行了扩建，城堡在土耳其的围攻中遭到了破坏，尤其是1686年发生在布达的战斗。随后修复城堡的工作困难重重，至到1748年格拉萨科维其伯爵呼吁公众重建该城堡。大公János Pálffy呼吁这是最好的机会支持特里萨在奥地利继承人争斗中取的胜利。女王非常感激对于布达城堡重建工作的资助。二战结束前，城堡已经历了多次毁坏与重建，1948年以现代主义设计修建了城堡，目前能看到的城堡外部是1966年修建的，内部装饰则是80年代完成的。</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

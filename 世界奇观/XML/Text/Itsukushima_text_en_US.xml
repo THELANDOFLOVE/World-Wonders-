@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Language_en_US>
+		<!-- Description tags -->
+		<Row Tag="TXT_KEY_BUILDING_ITSUKUSHIMA">
+			<Text>严岛神社</Text>
+		</Row>
+		<!-- Help tags -->
+		<Row Tag="TXT_KEY_WONDER_ITSUKUSHIMA_HELP">
+			<Text>本城已开发的[COLOR_POSITIVE_TEXT]海洋[ENDCOLOR]资源额外+2[ICON_CULTURE]文化产出。[NEWLINE][NEWLINE][COLOR_POSITIVE_TEXT]海洋[ENDCOLOR]地块+1[ICON_PEACE]信仰产出。[NEWLINE][NEWLINE]城市必须沿海。</Text>
+		</Row>
+		<!-- Quote tags -->
+		<Row Tag="TXT_KEY_WONDER_ITSUKUSHIMA_QUOTE">
+			<Text>[NEWLINE]“从远到近，可以听到瀑布的水声，叶子的沙沙声。”[NEWLINE]        ——与谢芜村[NEWLINE]</Text>
+		</Row>
+		<!-- Pedia tags -->
+		<Row Tag="TXT_KEY_WONDER_ITSUKUSHIMA_PEDIA">
+			<Text>严岛神社是日本最具代表的神社。神社前方立于海中的大型“浮动”的鸟居是其标志之一，人们进出神社都需穿过这个鸟居。神社修筑与濑户内海海滨的潮间带上的严岛。在推古天皇的统治时期，也就是628年前后在该地修建了神社，然而现在的神社是在军阀平清盛的资助下于1168年建立的。[NEWLINE][NEWLINE]严岛神社和其前面浮动的大型鸟居一起为“日本三景”之一，其他两个分别是天桥立和松岛。这三个景点每年都有大量游客前来观光，也是日本最美的景点。</Text>
+		</Row>
+	</Language_en_US>
+</GameData>
