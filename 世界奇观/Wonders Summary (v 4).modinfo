@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Mod id="9a0bf8cb-22c6-4463-8e28-ad526a672fca" version="4">
+<Mod id="9a0bf8cb-22c6-4463-8e28-ad526a672fca" version="5">
   <Properties>
     <Name>世界奇观合集</Name>
-    <Teaser>仅适用于SP超级大国模组，原作者弃坑因此本人进行后续维护工作</Teaser>
-    <Description>有BUG请于群里@我</Description>
+    <Teaser>修复完成，持续更新中，已可适配强权</Teaser>
+    <Description>有BUG请于群里@轻语</Description>
     <Authors>herowolves</Authors>
 	<HideSetupGame>0</HideSetupGame>
 	<AffectsSavedGames>1</AffectsSavedGames>
