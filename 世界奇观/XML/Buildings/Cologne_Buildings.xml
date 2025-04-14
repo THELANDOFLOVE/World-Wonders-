@@ -39,6 +39,7 @@
 			<WonderSplashImage>COLOGNE_splash.dds</WonderSplashImage>
 			<!--奇观建成图片-->
 			<WonderSplashAnchor>L,T</WonderSplashAnchor>
+			<GoldenAge>true</GoldenAge>
 		</Row>
 	</Buildings>
 	
